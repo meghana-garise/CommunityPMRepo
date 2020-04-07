@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="sev.error">
         <source xml:lang="en">Error</source>
-        <target xml:lang="fr" state="needs-translation">Error</target>
+        <target xml:lang="fr" state="translated">test Meghana</target>
       </trans-unit>
       <trans-unit id="sev.warning">
         <source xml:lang="en">Warning</source>
