@@ -25,6 +25,9 @@
       <trans-unit id="emergencyConfOn" approved="yes">
         <source xml:lang="en">Now changing the setting `accessibilitySupport` to 'on'.</source>
         <target xml:lang="fr" state="final">Remplacement du paramètre 'accessibilitySupport' par 'on'.</target>
+        <alt-trans>
+          <target xml:lang="fr">Changement du paramètre 'accessibilitySupport' sur 'on'.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="openingDocs">
         <source xml:lang="en">Now opening the Editor Accessibility documentation page.</source>
@@ -160,15 +163,15 @@
       </trans-unit>
       <trans-unit id="modules">
         <source xml:lang="en">modules ({0})</source>
-        <target xml:lang="fr" state="needs-translation">modules ({0})</target>
+        <target xml:lang="fr" state="translated">modules ({0})</target>
       </trans-unit>
       <trans-unit id="class">
         <source xml:lang="en">classes ({0})</source>
-        <target xml:lang="fr" state="needs-translation">classes ({0})</target>
+        <target xml:lang="fr" state="translated">classes ({0})</target>
       </trans-unit>
       <trans-unit id="interface">
         <source xml:lang="en">interfaces ({0})</source>
-        <target xml:lang="fr" state="needs-translation">interfaces ({0})</target>
+        <target xml:lang="fr" state="translated">interfaces ({0})</target>
       </trans-unit>
       <trans-unit id="method">
         <source xml:lang="en">methods ({0})</source>
@@ -184,11 +187,11 @@
       </trans-unit>
       <trans-unit id="variable">
         <source xml:lang="en">variables ({0})</source>
-        <target xml:lang="fr" state="needs-translation">variables ({0})</target>
+        <target xml:lang="fr" state="translated">variables ({0})</target>
       </trans-unit>
       <trans-unit id="variable2">
         <source xml:lang="en">variables ({0})</source>
-        <target xml:lang="fr" state="needs-translation">variables ({0})</target>
+        <target xml:lang="fr" state="translated">variables ({0})</target>
       </trans-unit>
       <trans-unit id="_constructor">
         <source xml:lang="en">constructors ({0})</source>
@@ -583,7 +586,7 @@
       </trans-unit>
       <trans-unit id="semanticHighlighting.enabled">
         <source xml:lang="en">Controls whether the semanticHighlighting is shown for the languages that support it.</source>
-        <target xml:lang="fr" state="needs-translation">Controls whether the semanticHighlighting is shown for the languages that support it.</target>
+        <target xml:lang="fr" state="translated">Contrôle si le semanticHighlighting est affiché pour les langages qui le prennent en charge.</target>
       </trans-unit>
       <trans-unit id="codeActions">
         <source xml:lang="en">Enables the code action lightbulb in the editor.</source>
