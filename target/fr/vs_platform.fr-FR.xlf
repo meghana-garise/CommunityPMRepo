@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="httpConfigurationTitle">
         <source xml:lang="en">HTTP</source>
-        <target xml:lang="fr" state="needs-translation">HTTP</target>
+        <target xml:lang="fr" state="translated">HTTP</target>
       </trans-unit>
       <trans-unit id="proxy">
         <source xml:lang="en">The proxy setting to use. If not set, will be inherited from the `http_proxy` and `https_proxy` environment variables.</source>
@@ -116,7 +116,7 @@
     <body>
       <trans-unit id="extensions">
         <source xml:lang="en">Extensions</source>
-        <target xml:lang="fr" state="needs-translation">Extensions</target>
+        <target xml:lang="fr" state="translated">Extensions</target>
       </trans-unit>
       <trans-unit id="preferences">
         <source xml:lang="en">Preferences</source>
@@ -411,7 +411,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="fileExists_Duplicated8">
         <source xml:lang="en">File already exists</source>
-        <target xml:lang="fr" state="needs-translation">File already exists</target>
+        <target xml:lang="fr" state="translated">Le fichier existe déjà</target>
       </trans-unit>
       <trans-unit id="fileNotExists">
         <source xml:lang="en">File does not exist</source>
@@ -439,7 +439,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="errorInvalidSettings">
         <source xml:lang="en">Unable to sync settings. Please resolve conflicts without any errors/warnings and try again.</source>
-        <target xml:lang="fr" state="needs-translation">Unable to sync settings. Please resolve conflicts without any errors/warnings and try again.</target>
+        <target xml:lang="fr" state="translated">Impossible de synchroniser les paramètres. Résolvez les conflits sans erreur/avertissement, puis réessayez.</target>
       </trans-unit>
     </body>
   </file>
@@ -626,7 +626,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="fileExists_Duplicated9">
         <source xml:lang="en">Unable to create file '{0}' that already exists when overwrite flag is not set</source>
-        <target xml:lang="fr" state="needs-translation">Unable to create file '{0}' that already exists when overwrite flag is not set</target>
+        <target xml:lang="fr" state="translated">Impossible de créer le fichier'{0}'qui existe déjà quand l’indicateur de remplacement n’est pas défini</target>
       </trans-unit>
       <trans-unit id="err.write">
         <source xml:lang="en">Unable to write file '{0}' ({1})</source>
@@ -654,7 +654,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="fileTooLargeError_Duplicated10">
         <source xml:lang="en">Unable to read file '{0}' that is too large to open</source>
-        <target xml:lang="fr" state="needs-translation">Unable to read file '{0}' that is too large to open</target>
+        <target xml:lang="fr" state="translated">Impossible de lire le fichier'{0}' de taille trop grande pour être ouvert</target>
       </trans-unit>
       <trans-unit id="unableToMoveCopyError1">
         <source xml:lang="en">Unable to copy when source '{0}' is same as target '{1}' with different path case on a case insensitive file system</source>
@@ -702,7 +702,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="fileTooLargeError_Duplicated11">
         <source xml:lang="en">File is too large to open</source>
-        <target xml:lang="fr" state="needs-translation">File is too large to open</target>
+        <target xml:lang="fr" state="translated">Taille de fichier trop grande pour être ouvert</target>
       </trans-unit>
     </body>
   </file>
@@ -1351,7 +1351,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="titleAndKb">
         <source xml:lang="en">{0} ({1})</source>
-        <target xml:lang="fr" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="fr" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
@@ -1359,7 +1359,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="ok_Duplicated12">
         <source xml:lang="en">OK</source>
-        <target xml:lang="fr" state="needs-translation">OK</target>
+        <target xml:lang="fr" state="translated">OK</target>
       </trans-unit>
       <trans-unit id="workspaceOpenedMessage">
         <source xml:lang="en">Unable to save workspace '{0}'</source>
@@ -1375,7 +1375,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="newWindow_Duplicated7">
         <source xml:lang="en">New Window</source>
-        <target xml:lang="fr" state="needs-translation">New Window</target>
+        <target xml:lang="fr" state="translated">Nouvelle fenêtre</target>
       </trans-unit>
       <trans-unit id="newWindowDesc">
         <source xml:lang="en">Opens a new window</source>
@@ -1387,11 +1387,11 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="folderDesc">
         <source xml:lang="en">{0} {1}</source>
-        <target xml:lang="fr" state="needs-translation">{0} {1}</target>
+        <target xml:lang="fr" state="translated">{0} {1}</target>
       </trans-unit>
       <trans-unit id="workspaceDesc">
         <source xml:lang="en">{0} {1}</source>
-        <target xml:lang="fr" state="needs-translation">{0} {1}</target>
+        <target xml:lang="fr" state="translated">{0} {1}</target>
       </trans-unit>
     </body>
   </file>
@@ -1407,7 +1407,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="ok_Duplicated13">
         <source xml:lang="en">OK</source>
-        <target xml:lang="fr" state="needs-translation">OK</target>
+        <target xml:lang="fr" state="translated">OK</target>
       </trans-unit>
       <trans-unit id="cancel">
         <source xml:lang="en">Cancel</source>
@@ -1622,12 +1622,12 @@ Default Ignored Settings:
       <trans-unit id="mDebug">
         <source xml:lang="en">&amp;&amp;Debug</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="needs-translation">&amp;&amp;Debug</target>
+        <target xml:lang="fr" state="translated">&amp;&amp;Débogage</target>
       </trans-unit>
       <trans-unit id="mTerminal">
         <source xml:lang="en">&amp;&amp;Terminal</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="needs-translation">&amp;&amp;Terminal</target>
+        <target xml:lang="fr" state="translated">&amp;&amp;Terminal</target>
       </trans-unit>
       <trans-unit id="mWindow">
         <source xml:lang="en">Window</source>
@@ -1649,7 +1649,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="mServices">
         <source xml:lang="en">Services</source>
-        <target xml:lang="fr" state="needs-translation">Services</target>
+        <target xml:lang="fr" state="translated">Services</target>
       </trans-unit>
       <trans-unit id="mHide">
         <source xml:lang="en">Hide {0}</source>
@@ -1673,7 +1673,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="mZoom">
         <source xml:lang="en">Zoom</source>
-        <target xml:lang="fr" state="needs-translation">Zoom</target>
+        <target xml:lang="fr" state="translated">Zoom</target>
       </trans-unit>
       <trans-unit id="mBringToFront">
         <source xml:lang="en">Bring All to Front</source>
@@ -1754,7 +1754,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="ok_Duplicated14">
         <source xml:lang="en">OK</source>
-        <target xml:lang="fr" state="needs-translation">OK</target>
+        <target xml:lang="fr" state="translated">OK</target>
       </trans-unit>
     </body>
   </file>
