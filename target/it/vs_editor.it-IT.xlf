@@ -24,7 +24,10 @@
       </trans-unit>
       <trans-unit id="emergencyConfOn">
         <source xml:lang="en">Now changing the setting `accessibilitySupport` to 'on'.</source>
-        <target xml:lang="it" state="needs-translation">Now changing the setting `accessibilitySupport` to 'on'.</target>
+        <target xml:lang="it" state="translated">Modifica impostazione 'accessibilitySupport' su 'on' in corso.</target>
+        <alt-trans>
+          <target xml:lang="it">Si sta eseguendo la modifica impostazione 'accessibilitySupport' su 'on'.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="openingDocs">
         <source xml:lang="en">Now opening the Editor Accessibility documentation page.</source>
