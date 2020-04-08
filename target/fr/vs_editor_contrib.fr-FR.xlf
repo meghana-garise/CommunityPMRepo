@@ -26,10 +26,10 @@
         <source xml:lang="en">Toggle Line Comment</source>
         <target xml:lang="fr" state="translated">Activer/désactiver le commentaire de ligne</target>
       </trans-unit>
-      <trans-unit id="miToggleLineComment">
+      <trans-unit id="miToggleLineComment" approved="yes">
         <source xml:lang="en">&amp;&amp;Toggle Line Comment</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="translated">Afficher/masquer le commen&amp;&amp;taire de ligne</target>
+        <target xml:lang="fr" state="final">Afficher/masquer le commen&amp;&amp;taire de ligne</target>
       </trans-unit>
       <trans-unit id="comment.line.add">
         <source xml:lang="en">Add Line Comment</source>
@@ -88,9 +88,9 @@
   </file>
   <file original="src/vs/editor/contrib/tokenization/tokenization" source-language="en" datatype="plaintext" target-language="fr">
     <body>
-      <trans-unit id="forceRetokenize">
+      <trans-unit id="forceRetokenize" approved="yes">
         <source xml:lang="en">Developer: Force Retokenize</source>
-        <target xml:lang="fr" state="translated">Développeur : forcer la retokenisation</target>
+        <target xml:lang="fr" state="final">Développeur : forcer la retokenisation</target>
       </trans-unit>
     </body>
   </file>
@@ -117,10 +117,10 @@
         <source xml:lang="en">Cut</source>
         <target xml:lang="fr" state="translated">Couper</target>
       </trans-unit>
-      <trans-unit id="miCut">
+      <trans-unit id="miCut" approved="yes">
         <source xml:lang="en">Cu&amp;&amp;t</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="translated">Co&amp;&amp;uper</target>
+        <target xml:lang="fr" state="final">Co&amp;&amp;uper</target>
       </trans-unit>
       <trans-unit id="actions.clipboard.copyLabel">
         <source xml:lang="en">Copy</source>
@@ -135,10 +135,10 @@
         <source xml:lang="en">Paste</source>
         <target xml:lang="fr" state="translated">Coller</target>
       </trans-unit>
-      <trans-unit id="miPaste">
+      <trans-unit id="miPaste" approved="yes">
         <source xml:lang="en">&amp;&amp;Paste</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="translated">Co&amp;&amp;ller</target>
+        <target xml:lang="fr" state="final">Co&amp;&amp;ller</target>
       </trans-unit>
       <trans-unit id="actions.clipboard.copyWithSyntaxHighlightingLabel">
         <source xml:lang="en">Copy With Syntax Highlighting</source>
@@ -193,17 +193,17 @@
         <source xml:lang="en">Execute command</source>
         <target xml:lang="fr" state="translated">Exécuter la commande</target>
       </trans-unit>
-      <trans-unit id="links.navigate.follow">
+      <trans-unit id="links.navigate.follow" approved="yes">
         <source xml:lang="en">Follow link</source>
-        <target xml:lang="fr" state="translated">suivre le lien</target>
+        <target xml:lang="fr" state="final">suivre le lien</target>
       </trans-unit>
-      <trans-unit id="links.navigate.kb.meta.mac">
+      <trans-unit id="links.navigate.kb.meta.mac" approved="yes">
         <source xml:lang="en">cmd + click</source>
-        <target xml:lang="fr" state="translated">cmd + clic</target>
+        <target xml:lang="fr" state="final">cmd + clic</target>
       </trans-unit>
-      <trans-unit id="links.navigate.kb.meta">
+      <trans-unit id="links.navigate.kb.meta" approved="yes">
         <source xml:lang="en">ctrl + click</source>
-        <target xml:lang="fr" state="translated">ctrl + clic</target>
+        <target xml:lang="fr" state="final">ctrl + clic</target>
       </trans-unit>
       <trans-unit id="links.navigate.kb.alt.mac">
         <source xml:lang="en">option + click</source>
@@ -293,10 +293,10 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Expand Selection</source>
         <target xml:lang="fr" state="translated">Étendre la sélection</target>
       </trans-unit>
-      <trans-unit id="miSmartSelectGrow">
+      <trans-unit id="miSmartSelectGrow" approved="yes">
         <source xml:lang="en">&amp;&amp;Expand Selection</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="translated">Dév&amp;&amp;elopper la sélection</target>
+        <target xml:lang="fr" state="final">Dév&amp;&amp;elopper la sélection</target>
       </trans-unit>
       <trans-unit id="smartSelect.shrink">
         <source xml:lang="en">Shrink Selection</source>
@@ -373,13 +373,13 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Background color of the peek view result list.</source>
         <target xml:lang="fr" state="translated">Couleur d'arrière-plan de la liste des résultats de l'affichage d'aperçu.</target>
       </trans-unit>
-      <trans-unit id="peekViewResultsMatchForeground">
+      <trans-unit id="peekViewResultsMatchForeground" approved="yes">
         <source xml:lang="en">Foreground color for line nodes in the peek view result list.</source>
-        <target xml:lang="fr" state="translated">Couleur de premier plan des noeuds de lignes dans la liste des résultats de l'affichage d'aperçu.</target>
+        <target xml:lang="fr" state="final">Couleur de premier plan des noeuds de lignes dans la liste des résultats de l'affichage d'aperçu.</target>
       </trans-unit>
-      <trans-unit id="peekViewResultsFileForeground">
+      <trans-unit id="peekViewResultsFileForeground" approved="yes">
         <source xml:lang="en">Foreground color for file nodes in the peek view result list.</source>
-        <target xml:lang="fr" state="translated">Couleur de premier plan des noeuds de fichiers dans la liste des résultats de l'affichage d'aperçu.</target>
+        <target xml:lang="fr" state="final">Couleur de premier plan des noeuds de fichiers dans la liste des résultats de l'affichage d'aperçu.</target>
       </trans-unit>
       <trans-unit id="peekViewResultsSelectionBackground">
         <source xml:lang="en">Background color of the selected entry in the peek view result list.</source>
@@ -838,19 +838,19 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Add Cursor Below</source>
         <target xml:lang="fr" state="translated">Ajouter un curseur en dessous</target>
       </trans-unit>
-      <trans-unit id="miInsertCursorBelow">
+      <trans-unit id="miInsertCursorBelow" approved="yes">
         <source xml:lang="en">A&amp;&amp;dd Cursor Below</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="translated">Aj&amp;&amp;outer un curseur en dessous</target>
+        <target xml:lang="fr" state="final">Aj&amp;&amp;outer un curseur en dessous</target>
       </trans-unit>
       <trans-unit id="mutlicursor.insertAtEndOfEachLineSelected">
         <source xml:lang="en">Add Cursors to Line Ends</source>
         <target xml:lang="fr" state="translated">Ajouter des curseurs à la fin des lignes</target>
       </trans-unit>
-      <trans-unit id="miInsertCursorAtEndOfEachLineSelected">
+      <trans-unit id="miInsertCursorAtEndOfEachLineSelected" approved="yes">
         <source xml:lang="en">Add C&amp;&amp;ursors to Line Ends</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="translated">Ajouter des c&amp;&amp;urseurs à la fin des lignes</target>
+        <target xml:lang="fr" state="final">Ajouter des c&amp;&amp;urseurs à la fin des lignes</target>
       </trans-unit>
       <trans-unit id="mutlicursor.addCursorsToBottom">
         <source xml:lang="en">Add Cursors To Bottom</source>
@@ -864,19 +864,19 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Add Selection To Next Find Match</source>
         <target xml:lang="fr" state="translated">Ajouter la sélection à la correspondance de recherche suivante</target>
       </trans-unit>
-      <trans-unit id="miAddSelectionToNextFindMatch">
+      <trans-unit id="miAddSelectionToNextFindMatch" approved="yes">
         <source xml:lang="en">Add &amp;&amp;Next Occurrence</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="translated">Ajouter l'occurrence suiva&amp;&amp;nte</target>
+        <target xml:lang="fr" state="final">Ajouter l'occurrence suiva&amp;&amp;nte</target>
       </trans-unit>
       <trans-unit id="addSelectionToPreviousFindMatch">
         <source xml:lang="en">Add Selection To Previous Find Match</source>
         <target xml:lang="fr" state="translated">Ajouter la sélection à la correspondance de recherche précédente</target>
       </trans-unit>
-      <trans-unit id="miAddSelectionToPreviousFindMatch">
+      <trans-unit id="miAddSelectionToPreviousFindMatch" approved="yes">
         <source xml:lang="en">Add P&amp;&amp;revious Occurrence</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="translated">Ajouter l'occurrence p&amp;&amp;récédente</target>
+        <target xml:lang="fr" state="final">Ajouter l'occurrence p&amp;&amp;récédente</target>
       </trans-unit>
       <trans-unit id="moveSelectionToNextFindMatch">
         <source xml:lang="en">Move Last Selection To Next Find Match</source>
@@ -959,25 +959,25 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Refactor...</source>
         <target xml:lang="fr" state="translated">Remanier...</target>
       </trans-unit>
-      <trans-unit id="editor.action.refactor.noneMessage.preferred.kind">
+      <trans-unit id="editor.action.refactor.noneMessage.preferred.kind" approved="yes">
         <source xml:lang="en">No preferred refactorings for '{0}' available</source>
-        <target xml:lang="fr" state="translated">Aucune refactorisation par défaut disponible pour '{0}'</target>
+        <target xml:lang="fr" state="final">Aucune refactorisation par défaut disponible pour '{0}'</target>
       </trans-unit>
-      <trans-unit id="editor.action.refactor.noneMessage.kind">
+      <trans-unit id="editor.action.refactor.noneMessage.kind" approved="yes">
         <source xml:lang="en">No refactorings for '{0}' available</source>
-        <target xml:lang="fr" state="translated">Aucune refactorisation disponible pour '{0}'</target>
+        <target xml:lang="fr" state="final">Aucune refactorisation disponible pour '{0}'</target>
       </trans-unit>
-      <trans-unit id="editor.action.refactor.noneMessage.preferred">
+      <trans-unit id="editor.action.refactor.noneMessage.preferred" approved="yes">
         <source xml:lang="en">No preferred refactorings available</source>
-        <target xml:lang="fr" state="translated">Aucune refactorisation par défaut disponible</target>
+        <target xml:lang="fr" state="final">Aucune refactorisation par défaut disponible</target>
       </trans-unit>
-      <trans-unit id="editor.action.refactor.noneMessage">
+      <trans-unit id="editor.action.refactor.noneMessage" approved="yes">
         <source xml:lang="en">No refactorings available</source>
-        <target xml:lang="fr" state="translated">Aucune refactorisation disponible</target>
+        <target xml:lang="fr" state="final">Aucune refactorisation disponible</target>
       </trans-unit>
-      <trans-unit id="source.label">
+      <trans-unit id="source.label" approved="yes">
         <source xml:lang="en">Source Action...</source>
-        <target xml:lang="fr" state="translated">Action de la source</target>
+        <target xml:lang="fr" state="final">Action de la source</target>
       </trans-unit>
       <trans-unit id="editor.action.source.noneMessage.preferred.kind">
         <source xml:lang="en">No preferred source actions for '{0}' available</source>
@@ -1095,9 +1095,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Sun</source>
         <target xml:lang="fr" state="translated">Dim</target>
       </trans-unit>
-      <trans-unit id="MondayShort">
+      <trans-unit id="MondayShort" approved="yes">
         <source xml:lang="en">Mon</source>
-        <target xml:lang="fr" state="translated">Lun</target>
+        <target xml:lang="fr" state="final">Lun</target>
       </trans-unit>
       <trans-unit id="TuesdayShort">
         <source xml:lang="en">Tue</source>
@@ -1111,9 +1111,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Thu</source>
         <target xml:lang="fr" state="translated">Jeu</target>
       </trans-unit>
-      <trans-unit id="FridayShort">
+      <trans-unit id="FridayShort" approved="yes">
         <source xml:lang="en">Fri</source>
-        <target xml:lang="fr" state="translated">Ven</target>
+        <target xml:lang="fr" state="final">Ven</target>
       </trans-unit>
       <trans-unit id="SaturdayShort">
         <source xml:lang="en">Sat</source>
@@ -1171,9 +1171,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Jan</source>
         <target xml:lang="fr" state="needs-translation">Jan</target>
       </trans-unit>
-      <trans-unit id="FebruaryShort">
+      <trans-unit id="FebruaryShort" approved="yes">
         <source xml:lang="en">Feb</source>
-        <target xml:lang="fr" state="translated">Fév</target>
+        <target xml:lang="fr" state="final">Fév</target>
       </trans-unit>
       <trans-unit id="MarchShort">
         <source xml:lang="en">Mar</source>
@@ -1195,9 +1195,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Jul</source>
         <target xml:lang="fr" state="needs-translation">Jul</target>
       </trans-unit>
-      <trans-unit id="AugustShort">
+      <trans-unit id="AugustShort" approved="yes">
         <source xml:lang="en">Aug</source>
-        <target xml:lang="fr" state="translated">Aoû</target>
+        <target xml:lang="fr" state="final">Aoû</target>
       </trans-unit>
       <trans-unit id="SeptemberShort">
         <source xml:lang="en">Sep</source>
@@ -1235,9 +1235,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">{0} of {1} problems</source>
         <target xml:lang="fr" state="translated">{0} problèmes sur {1}</target>
       </trans-unit>
-      <trans-unit id="change">
+      <trans-unit id="change" approved="yes">
         <source xml:lang="en">{0} of {1} problem</source>
-        <target xml:lang="fr" state="translated">{0} problème(s) sur {1}</target>
+        <target xml:lang="fr" state="final">{0} problème(s) sur {1}</target>
       </trans-unit>
       <trans-unit id="editorMarkerNavigationError">
         <source xml:lang="en">Editor marker navigation widget error color.</source>
@@ -1379,9 +1379,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">event</source>
         <target xml:lang="fr" state="translated">événement</target>
       </trans-unit>
-      <trans-unit id="Field">
+      <trans-unit id="Field" approved="yes">
         <source xml:lang="en">field</source>
-        <target xml:lang="fr" state="translated">Champ</target>
+        <target xml:lang="fr" state="final">Champ</target>
       </trans-unit>
       <trans-unit id="File">
         <source xml:lang="en">file</source>
@@ -1395,9 +1395,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">interface</source>
         <target xml:lang="fr" state="needs-translation">interface</target>
       </trans-unit>
-      <trans-unit id="Key">
+      <trans-unit id="Key" approved="yes">
         <source xml:lang="en">key</source>
-        <target xml:lang="fr" state="translated">Clé</target>
+        <target xml:lang="fr" state="final">Clé</target>
       </trans-unit>
       <trans-unit id="Method">
         <source xml:lang="en">method</source>
@@ -1411,33 +1411,33 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">namespace</source>
         <target xml:lang="fr" state="translated">espace de noms</target>
       </trans-unit>
-      <trans-unit id="Null">
+      <trans-unit id="Null" approved="yes">
         <source xml:lang="en">null</source>
-        <target xml:lang="fr" state="translated">NULL</target>
+        <target xml:lang="fr" state="final">NULL</target>
       </trans-unit>
-      <trans-unit id="Number">
+      <trans-unit id="Number" approved="yes">
         <source xml:lang="en">number</source>
-        <target xml:lang="fr" state="translated">Nombre</target>
+        <target xml:lang="fr" state="final">Nombre</target>
       </trans-unit>
-      <trans-unit id="Object">
+      <trans-unit id="Object" approved="yes">
         <source xml:lang="en">object</source>
-        <target xml:lang="fr" state="translated">Objet</target>
+        <target xml:lang="fr" state="final">Objet</target>
       </trans-unit>
-      <trans-unit id="Operator">
+      <trans-unit id="Operator" approved="yes">
         <source xml:lang="en">operator</source>
-        <target xml:lang="fr" state="translated">Opérateur</target>
+        <target xml:lang="fr" state="final">Opérateur</target>
       </trans-unit>
-      <trans-unit id="Package">
+      <trans-unit id="Package" approved="yes">
         <source xml:lang="en">package</source>
-        <target xml:lang="fr" state="translated">Package</target>
+        <target xml:lang="fr" state="final">Package</target>
       </trans-unit>
       <trans-unit id="Property">
         <source xml:lang="en">property</source>
         <target xml:lang="fr" state="translated">propriété</target>
       </trans-unit>
-      <trans-unit id="String">
+      <trans-unit id="String" approved="yes">
         <source xml:lang="en">string</source>
-        <target xml:lang="fr" state="translated">Chaîne</target>
+        <target xml:lang="fr" state="final">Chaîne</target>
       </trans-unit>
       <trans-unit id="Struct">
         <source xml:lang="en">struct</source>
@@ -1475,13 +1475,13 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">The foreground color for constructor symbols. These symbols appear in the outline, breadcrumb, and suggest widget.</source>
         <target xml:lang="fr" state="translated">Couleur de premier plan des symboles de constructeur. Ces symboles apparaissent dans le plan, la barre de navigation et le widget de suggestion.</target>
       </trans-unit>
-      <trans-unit id="symbolIcon.enumeratorForeground">
+      <trans-unit id="symbolIcon.enumeratorForeground" approved="yes">
         <source xml:lang="en">The foreground color for enumerator symbols. These symbols appear in the outline, breadcrumb, and suggest widget.</source>
-        <target xml:lang="fr" state="translated">Couleur de premier plan des symboles d'énumérateur. Ces symboles apparaissent dans le plan, la barre de navigation et le widget de suggestion.</target>
+        <target xml:lang="fr" state="final">Couleur de premier plan des symboles d'énumérateur. Ces symboles apparaissent dans le plan, la barre de navigation et le widget de suggestion.</target>
       </trans-unit>
-      <trans-unit id="symbolIcon.enumeratorMemberForeground">
+      <trans-unit id="symbolIcon.enumeratorMemberForeground" approved="yes">
         <source xml:lang="en">The foreground color for enumerator member symbols. These symbols appear in the outline, breadcrumb, and suggest widget.</source>
-        <target xml:lang="fr" state="translated">Couleur de premier plan des symboles de membre d'énumérateur. Ces symboles apparaissent dans le plan, la barre de navigation et le widget de suggestion.</target>
+        <target xml:lang="fr" state="final">Couleur de premier plan des symboles de membre d'énumérateur. Ces symboles apparaissent dans le plan, la barre de navigation et le widget de suggestion.</target>
       </trans-unit>
       <trans-unit id="symbolIcon.eventForeground">
         <source xml:lang="en">The foreground color for event symbols. These symbols appear in the outline, breadcrumb, and suggest widget.</source>
@@ -1563,9 +1563,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">The foreground color for string symbols. These symbols appear in the outline, breadcrumb, and suggest widget.</source>
         <target xml:lang="fr" state="translated">Couleur de premier plan des symboles de chaîne. Ces symboles apparaissent dans le plan, la barre de navigation et le widget de suggestion.</target>
       </trans-unit>
-      <trans-unit id="symbolIcon.structForeground">
+      <trans-unit id="symbolIcon.structForeground" approved="yes">
         <source xml:lang="en">The foreground color for struct symbols. These symbols appear in the outline, breadcrumb, and suggest widget.</source>
-        <target xml:lang="fr" state="translated">Couleur de premier plan des symboles de struct. Ces symboles apparaissent dans le plan, la barre de navigation et le widget de suggestion.</target>
+        <target xml:lang="fr" state="final">Couleur de premier plan des symboles de struct. Ces symboles apparaissent dans le plan, la barre de navigation et le widget de suggestion.</target>
       </trans-unit>
       <trans-unit id="symbolIcon.textForeground">
         <source xml:lang="en">The foreground color for text symbols. These symbols appear in the outline, breadcrumb, and suggest widget.</source>
@@ -1711,9 +1711,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">No Results</source>
         <target xml:lang="fr" state="translated">Aucun résultat</target>
       </trans-unit>
-      <trans-unit id="ariaSearchNoResultEmpty">
+      <trans-unit id="ariaSearchNoResultEmpty" approved="yes">
         <source xml:lang="en">{0} found</source>
-        <target xml:lang="fr" state="translated">{0} trouvé(s)</target>
+        <target xml:lang="fr" state="final">{0} trouvé(s)</target>
       </trans-unit>
       <trans-unit id="ariaSearchNoResult">
         <source xml:lang="en">{0} found for {1}</source>
@@ -1727,9 +1727,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">{0} found for {1}</source>
         <target xml:lang="fr" state="translated">{0} found for '{1}'</target>
       </trans-unit>
-      <trans-unit id="ctrlEnter.keybindingChanged">
+      <trans-unit id="ctrlEnter.keybindingChanged" approved="yes">
         <source xml:lang="en">Ctrl+Enter now inserts line break instead of replacing all. You can modify the keybinding for editor.action.replaceAll to override this behavior.</source>
-        <target xml:lang="fr" state="translated">La combinaison Ctrl+Entrée permet désormais d'ajouter un saut de ligne au lieu de tout remplacer. Vous pouvez modifier le raccourci clavier de editor.action.replaceAll pour redéfinir le comportement.</target>
+        <target xml:lang="fr" state="final">La combinaison Ctrl+Entrée permet désormais d'ajouter un saut de ligne au lieu de tout remplacer. Vous pouvez modifier le raccourci clavier de editor.action.replaceAll pour redéfinir le comportement.</target>
       </trans-unit>
     </body>
   </file>
@@ -1800,9 +1800,9 @@ This allows for users to show the definition preview hover without using the mou
         <source xml:lang="en">Reindent Lines</source>
         <target xml:lang="fr" state="translated">Remettre en retrait les lignes</target>
       </trans-unit>
-      <trans-unit id="editor.reindentselectedlines">
+      <trans-unit id="editor.reindentselectedlines" approved="yes">
         <source xml:lang="en">Reindent Selected Lines</source>
-        <target xml:lang="fr" state="translated">Réindenter les lignes sélectionnées</target>
+        <target xml:lang="fr" state="final">Réindenter les lignes sélectionnées</target>
       </trans-unit>
     </body>
   </file>
