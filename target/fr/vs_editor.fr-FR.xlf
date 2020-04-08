@@ -34,7 +34,10 @@
       </trans-unit>
       <trans-unit id="openingDocs">
         <source xml:lang="en">Now opening the Editor Accessibility documentation page.</source>
-        <target xml:lang="fr" state="translated">Ouverture de la page de documentation sur l'accessibilité de l'éditeur.</target>
+        <target xml:lang="fr" state="translated">Ouverture de la documentation sur l'accessibilité de l'éditeur.</target>
+        <alt-trans>
+          <target xml:lang="fr">Ouverture de la page de documentation sur l'accessibilité de l'éditeur.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="readonlyDiffEditor" approved="yes">
         <source xml:lang="en"> in a read-only pane of a diff editor.</source>
@@ -59,6 +62,9 @@
       <trans-unit id="changeConfigToOnWinLinux">
         <source xml:lang="en">To configure the editor to be optimized for usage with a Screen Reader press Control+E now.</source>
         <target xml:lang="fr" state="translated">Pour configurer l'éditeur de manière à être optimisé en cas d'utilisation d'un lecteur d'écran, appuyez sur Contrôle+E maintenant.</target>
+        <alt-trans>
+          <target xml:lang="fr">Pour configurer l'éditeur pour être optimisé pour l'utilisation d'un lecteur d'écran, appuyez sur Contrôle+E maintenant.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="auto_on">
         <source xml:lang="en">The editor is configured to be optimized for usage with a Screen Reader.</source>
@@ -106,7 +112,10 @@
       </trans-unit>
       <trans-unit id="gotoLineLabelValidLineAndColumn">
         <source xml:lang="en">Go to line {0} and character {1}</source>
-        <target xml:lang="fr" state="translated">Atteindre la ligne {0} et le caractère {1}</target>
+        <target xml:lang="fr" state="translated">Atteindre la ligne {0} et caractère {1}</target>
+        <alt-trans>
+          <target xml:lang="fr">Atteindre la ligne {0} et le caractère {1}</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="gotoLineLabelValidLine">
         <source xml:lang="en">Go to line {0}</source>
@@ -114,7 +123,10 @@
       </trans-unit>
       <trans-unit id="gotoLineLabelEmptyWithLineLimit">
         <source xml:lang="en">Type a line number between 1 and {0} to navigate to</source>
-        <target xml:lang="fr" state="translated">Tapez un numéro de ligne à atteindre entre 1 et {0}</target>
+        <target xml:lang="fr" state="translated">Entrez un numéro de ligne à atteindre entre 1 et {0}</target>
+        <alt-trans>
+          <target xml:lang="fr">Tapez un numéro de ligne à atteindre entre 1 et {0}</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="gotoLineLabelEmptyWithLineAndColumnLimit">
         <source xml:lang="en">Type a character between 1 and {0} to navigate to</source>
