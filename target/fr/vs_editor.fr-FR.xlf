@@ -26,6 +26,9 @@
         <source xml:lang="en">Now changing the setting `accessibilitySupport` to 'on'.</source>
         <target xml:lang="fr" state="final">Remplacement du paramètre 'accessibilitySupport' par 'on'.</target>
         <alt-trans>
+          <target xml:lang="fr">Remplacement du paramètre 'accessibilitySupport' par ''actif'.</target>
+        </alt-trans>
+        <alt-trans>
           <target xml:lang="fr">Changement du paramètre 'accessibilitySupport' sur 'on'.</target>
         </alt-trans>
       </trans-unit>
@@ -303,7 +306,10 @@
       </trans-unit>
       <trans-unit id="editorBracketMatchBorder">
         <source xml:lang="en">Color for matching brackets boxes</source>
-        <target xml:lang="fr" state="translated">Couleur pour le contour des accolades associées</target>
+        <target xml:lang="fr" state="translated">Couleur pour les parenthèses carrée associées</target>
+        <alt-trans>
+          <target xml:lang="fr">Couleur pour le contour des accolades associées</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="editorOverviewRulerBorder">
         <source xml:lang="en">Color of the overview ruler border.</source>
