@@ -1060,7 +1060,7 @@
       </trans-unit>
       <trans-unit id="peekWidgetFocusInlineEditor">
         <source xml:lang="en">Controls whether to focus the inline editor in the peek widget by default.</source>
-        <target xml:lang="fr" state="needs-translation">Controls whether to focus the inline editor in the peek widget by default.</target>
+        <target xml:lang="fr" state="translated">Contrôle si l’éditeur en line doit être sélectionné par défaut dans le widget de Peek.</target>
       </trans-unit>
       <trans-unit id="quickSuggestionsDelay">
         <source xml:lang="en">Controls the delay in milliseconds after which quick suggestions will show up.</source>
@@ -1088,7 +1088,7 @@
       </trans-unit>
       <trans-unit id="renderWhitespace.boundary">
         <source xml:lang="en">Render whitespace characters except for single spaces between words.</source>
-        <target xml:lang="fr" state="needs-translation">Render whitespace characters except for single spaces between words.</target>
+        <target xml:lang="fr" state="translated">Restituer les espaces blancs à l’exception des espaces uniques entre les mots.</target>
       </trans-unit>
       <trans-unit id="renderWhitespace.selection">
         <source xml:lang="en">Render whitespace characters only on selected text.</source>
@@ -1255,15 +1255,15 @@
       </trans-unit>
       <trans-unit id="wrappingAlgorithm.monospace">
         <source xml:lang="en">Assumes that all characters are of the same width. This is a fast algorithm.</source>
-        <target xml:lang="fr" state="needs-translation">Assumes that all characters are of the same width. This is a fast algorithm.</target>
+        <target xml:lang="fr" state="translated">Suppose que tous les caractères ont la même largeur. C'est un algorithme rapide.</target>
       </trans-unit>
       <trans-unit id="wrappingAlgorithm.dom">
         <source xml:lang="en">Delegates wrapping points computation to the DOM. This is a slow algorithm, that might cause freezes for large files.</source>
-        <target xml:lang="fr" state="needs-translation">Delegates wrapping points computation to the DOM. This is a slow algorithm, that might cause freezes for large files.</target>
+        <target xml:lang="fr" state="translated">Déléguez le calcul des points d’habillage au DOM. C'est ’un algorithme lent, susceptible de bloquer les fichiers volumineux.</target>
       </trans-unit>
       <trans-unit id="wrappingAlgorithm">
         <source xml:lang="en">Controls the algorithm that computes wrapping points.</source>
-        <target xml:lang="fr" state="needs-translation">Controls the algorithm that computes wrapping points.</target>
+        <target xml:lang="fr" state="translated">Contrôle l’algorithme qui calcule les points d’habillage.</target>
       </trans-unit>
     </body>
   </file>
