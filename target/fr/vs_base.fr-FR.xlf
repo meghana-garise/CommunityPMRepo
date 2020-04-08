@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
-        <target xml:lang="fr" state="needs-translation">Info</target>
+        <target xml:lang="fr" state="translated">Info </target>
       </trans-unit>
     </body>
   </file>
@@ -23,7 +23,7 @@
     <body>
       <trans-unit id="stackTrace.format">
         <source xml:lang="en">{0}: {1}</source>
-        <target xml:lang="fr" state="needs-translation">{0}: {1}</target>
+        <target xml:lang="fr" state="translated">{0} : {1}</target>
       </trans-unit>
       <trans-unit id="nodeExceptionMessage">
         <source xml:lang="en">A system error occurred ({0})</source>
@@ -69,7 +69,7 @@
         <source xml:lang="en">{0} ({1})</source>
         <note>action title
 action keybinding</note>
-        <target xml:lang="fr" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="fr" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
@@ -85,7 +85,7 @@ action keybinding</note>
     <body>
       <trans-unit id="ok">
         <source xml:lang="en">OK</source>
-        <target xml:lang="fr" state="needs-translation">OK</target>
+        <target xml:lang="fr" state="translated">OK</target>
       </trans-unit>
       <trans-unit id="dialogClose">
         <source xml:lang="en">Close Dialog</source>
@@ -101,7 +101,7 @@ action keybinding</note>
       </trans-unit>
       <trans-unit id="quickOpenAriaLabel_Duplicated3">
         <source xml:lang="en">picker</source>
-        <target xml:lang="fr" state="needs-translation">picker</target>
+        <target xml:lang="fr" state="translated">sélecteur</target>
       </trans-unit>
     </body>
   </file>
@@ -110,7 +110,7 @@ action keybinding</note>
       <trans-unit id="ctrlKey">
         <source xml:lang="en">Ctrl</source>
         <note>This is the short form for the Control key on the keyboard</note>
-        <target xml:lang="fr" state="needs-translation">Ctrl</target>
+        <target xml:lang="fr" state="translated">Ctrl</target>
       </trans-unit>
       <trans-unit id="shiftKey">
         <source xml:lang="en">Shift</source>
@@ -120,17 +120,17 @@ action keybinding</note>
       <trans-unit id="altKey">
         <source xml:lang="en">Alt</source>
         <note>This is the short form for the Alt key on the keyboard</note>
-        <target xml:lang="fr" state="needs-translation">Alt</target>
+        <target xml:lang="fr" state="translated">Alt</target>
       </trans-unit>
       <trans-unit id="windowsKey">
         <source xml:lang="en">Windows</source>
         <note>This is the short form for the Windows key on the keyboard</note>
-        <target xml:lang="fr" state="needs-translation">Windows</target>
+        <target xml:lang="fr" state="translated">Windows</target>
       </trans-unit>
       <trans-unit id="superKey">
         <source xml:lang="en">Super</source>
         <note>This is the short form for the Super key on the keyboard</note>
-        <target xml:lang="fr" state="needs-translation">Super</target>
+        <target xml:lang="fr" state="translated">Super</target>
       </trans-unit>
       <trans-unit id="ctrlKey.long">
         <source xml:lang="en">Control</source>
@@ -145,7 +145,7 @@ action keybinding</note>
       <trans-unit id="altKey.long">
         <source xml:lang="en">Alt</source>
         <note>This is the long form for the Alt key on the keyboard</note>
-        <target xml:lang="fr" state="needs-translation">Alt</target>
+        <target xml:lang="fr" state="translated">Alt</target>
       </trans-unit>
       <trans-unit id="cmdKey.long">
         <source xml:lang="en">Command</source>
@@ -155,12 +155,12 @@ action keybinding</note>
       <trans-unit id="windowsKey.long">
         <source xml:lang="en">Windows</source>
         <note>This is the long form for the Windows key on the keyboard</note>
-        <target xml:lang="fr" state="needs-translation">Windows</target>
+        <target xml:lang="fr" state="translated">Windows</target>
       </trans-unit>
       <trans-unit id="superKey.long">
         <source xml:lang="en">Super</source>
         <note>This is the long form for the Super key on the keyboard</note>
-        <target xml:lang="fr" state="needs-translation">Super</target>
+        <target xml:lang="fr" state="translated">Super</target>
       </trans-unit>
     </body>
   </file>
@@ -182,7 +182,7 @@ action keybinding</note>
         <source xml:lang="en">{0} ({1})</source>
         <note>action title
 action keybinding</note>
-        <target xml:lang="fr" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="fr" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
@@ -190,7 +190,7 @@ action keybinding</note>
     <body>
       <trans-unit id="collapse all_Duplicated5">
         <source xml:lang="en">Collapse All</source>
-        <target xml:lang="fr" state="needs-translation">Collapse All</target>
+        <target xml:lang="fr" state="translated">Réduire tout</target>
       </trans-unit>
     </body>
   </file>
