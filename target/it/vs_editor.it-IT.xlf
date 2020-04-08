@@ -95,9 +95,9 @@
       </trans-unit>
       <trans-unit id="showAccessibilityHelpAction">
         <source xml:lang="en">Show Accessibility Help</source>
-        <target xml:lang="it" state="translated">Mostra Guide per l'Accessibilità</target>
+        <target xml:lang="it" state="translated">Mostra Guida per Accessibilità</target>
         <alt-trans>
-          <target xml:lang="it">Mostra Guida per Accessibilità</target>
+          <target xml:lang="it">Mostra Guide per l'Accessibilità</target>
         </alt-trans>
         <alt-trans>
           <target xml:lang="it">Mostra Guida Accessibilità</target>
