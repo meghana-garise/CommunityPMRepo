@@ -34,9 +34,9 @@
         <source xml:lang="en">Use the proxy support for extensions.</source>
         <target xml:lang="fr" state="translated">Utilisez la prise en charge du proxy pour les extensions.</target>
       </trans-unit>
-      <trans-unit id="systemCertificates">
+      <trans-unit id="systemCertificates" approved="yes">
         <source xml:lang="en">Controls whether CA certificates should be loaded from the OS. (On Windows and macOS a reload of the window is required after turning this off.)</source>
-        <target xml:lang="fr" state="translated">Contrôle si les certificats d'autorité de certification doivent être chargés à partir de l'OS. (Sous Windows et macOS vous devez recharger la fenêtre après désactivation de ce paramètre.)</target>
+        <target xml:lang="fr" state="final">Contrôle si les certificats d'autorité de certification doivent être chargés à partir de l'OS. (Sous Windows et macOS vous devez recharger la fenêtre après désactivation de ce paramètre.)</target>
       </trans-unit>
     </body>
   </file>
@@ -46,9 +46,9 @@
         <source xml:lang="en">Option '{0}' is unknown. Ignoring.</source>
         <target xml:lang="fr" state="translated">Avertissement : '{0}' n'est pas dans la liste des options connues, mais est quand même transféré à Electron/Chromium.</target>
       </trans-unit>
-      <trans-unit id="multipleValues">
+      <trans-unit id="multipleValues" approved="yes">
         <source xml:lang="en">Option '{0}' is defined more than once. Using value '{1}.'</source>
-        <target xml:lang="fr" state="translated">L'option '{0}' est définie plusieurs fois. Utilisation de la valeur '{1}'.</target>
+        <target xml:lang="fr" state="final">L'option '{0}' est définie plusieurs fois. Utilisation de la valeur '{1}'.</target>
       </trans-unit>
       <trans-unit id="gotoValidation">
         <source xml:lang="en">Arguments in `--goto` mode should be in the format of `FILE(:LINE(:CHARACTER))`.</source>
@@ -78,9 +78,9 @@
         <source xml:lang="en">Check for updates only on startup. Disable automatic background update checks.</source>
         <target xml:lang="fr" state="translated">Vérifiez les mises à jour uniquement au démarrage. Désactivez les vérifications de mises à jour d'arrière-plan automatiques.</target>
       </trans-unit>
-      <trans-unit id="default">
+      <trans-unit id="default" approved="yes">
         <source xml:lang="en">Enable automatic update checks. Code will check for updates automatically and periodically.</source>
-        <target xml:lang="fr" state="translated">Activez la recherche de mises à jour automatique pour que VS Code recherche les mises à jour automatiquement et régulièrement.</target>
+        <target xml:lang="fr" state="final">Activez la recherche de mises à jour automatique pour que VS Code recherche les mises à jour automatiquement et régulièrement.</target>
       </trans-unit>
       <trans-unit id="deprecated_Duplicated1">
         <source xml:lang="en">This setting is deprecated, please use '{0}' instead.</source>
@@ -106,9 +106,9 @@
         <source xml:lang="en">Telemetry</source>
         <target xml:lang="fr" state="translated">Télémétrie</target>
       </trans-unit>
-      <trans-unit id="telemetry.enableTelemetry">
+      <trans-unit id="telemetry.enableTelemetry" approved="yes">
         <source xml:lang="en">Enable usage data and errors to be sent to a Microsoft online service.</source>
-        <target xml:lang="fr" state="translated">Activer l'envoi de données d'utilisation et d'erreurs aux services en ligne Microsoft</target>
+        <target xml:lang="fr" state="final">Activer l'envoi de données d'utilisation et d'erreurs aux services en ligne Microsoft</target>
       </trans-unit>
     </body>
   </file>
@@ -166,12 +166,12 @@
         <source xml:lang="en">Configure extensions to be ignored while synchronizing.</source>
         <target xml:lang="fr" state="translated">Configurez les extensions à ignorer pendant la synchronisation.</target>
       </trans-unit>
-      <trans-unit id="sync.ignoredSettings">
+      <trans-unit id="sync.ignoredSettings" approved="yes">
         <source xml:lang="en">Configure settings to be ignored while synchronizing. 
 Default Ignored Settings:
 
 {0}</source>
-        <target xml:lang="fr" state="translated">Configure settings to be ignored while synchronizing.</target>
+        <target xml:lang="fr" state="final">Configure settings to be ignored while synchronizing.</target>
       </trans-unit>
     </body>
   </file>
@@ -205,9 +205,9 @@ Default Ignored Settings:
         <source xml:lang="en">Compare two files with each other.</source>
         <target xml:lang="fr" state="translated">Comparez deux fichiers entre eux.</target>
       </trans-unit>
-      <trans-unit id="add">
+      <trans-unit id="add" approved="yes">
         <source xml:lang="en">Add folder(s) to the last active window.</source>
-        <target xml:lang="fr" state="translated">Ajoutez un ou plusieurs dossiers à la dernière fenêtre active.</target>
+        <target xml:lang="fr" state="final">Ajoutez un ou plusieurs dossiers à la dernière fenêtre active.</target>
       </trans-unit>
       <trans-unit id="goto">
         <source xml:lang="en">Open a file at the path on the specified line and character position.</source>
@@ -245,13 +245,13 @@ Default Ignored Settings:
         <source xml:lang="en">Shows all telemetry events which VS code collects.</source>
         <target xml:lang="fr" state="translated">Affiche tous les événements de télémétrie collectés par VS Code.</target>
       </trans-unit>
-      <trans-unit id="folderUri">
+      <trans-unit id="folderUri" approved="yes">
         <source xml:lang="en">Opens a window with given folder uri(s)</source>
-        <target xml:lang="fr" state="translated">Ouvre une fenêtre avec les urls d'un dossier donné</target>
+        <target xml:lang="fr" state="final">Ouvre une fenêtre avec les urls d'un dossier donné</target>
       </trans-unit>
-      <trans-unit id="fileUri">
+      <trans-unit id="fileUri" approved="yes">
         <source xml:lang="en">Opens a window with given file uri(s)</source>
-        <target xml:lang="fr" state="translated">Ouvre une fenêtre avec le ou les URI de fichier donnés</target>
+        <target xml:lang="fr" state="final">Ouvre une fenêtre avec le ou les URI de fichier donnés</target>
       </trans-unit>
       <trans-unit id="extensionHomePath">
         <source xml:lang="en">Set the root path for extensions.</source>
@@ -277,9 +277,9 @@ Default Ignored Settings:
         <source xml:lang="en">Uninstalls an extension.</source>
         <target xml:lang="fr" state="translated">Désinstalle une extension.</target>
       </trans-unit>
-      <trans-unit id="experimentalApis">
+      <trans-unit id="experimentalApis" approved="yes">
         <source xml:lang="en">Enables proposed API features for extensions. Can receive one or more extension IDs to enable individually.</source>
-        <target xml:lang="fr" state="translated">Active les fonctionnalités de l'API proposées pour les extensions. Peut recevoir un ou plusieurs ID d'extension pour les activer individuellement.</target>
+        <target xml:lang="fr" state="final">Active les fonctionnalités de l'API proposées pour les extensions. Peut recevoir un ou plusieurs ID d'extension pour les activer individuellement.</target>
       </trans-unit>
       <trans-unit id="verbose">
         <source xml:lang="en">Print verbose output (implies --wait).</source>
@@ -293,9 +293,9 @@ Default Ignored Settings:
         <source xml:lang="en">Print process usage and diagnostics information.</source>
         <target xml:lang="fr" state="translated">Imprimer l'utilisation de processus et l'information des diagnostics.</target>
       </trans-unit>
-      <trans-unit id="prof-startup">
+      <trans-unit id="prof-startup" approved="yes">
         <source xml:lang="en">Run CPU profiler during startup</source>
-        <target xml:lang="fr" state="translated">Exécuter le profileur d'UC au démarrage</target>
+        <target xml:lang="fr" state="final">Exécuter le profileur d'UC au démarrage</target>
       </trans-unit>
       <trans-unit id="disableExtensions">
         <source xml:lang="en">Disable all installed extensions.</source>
@@ -305,21 +305,21 @@ Default Ignored Settings:
         <source xml:lang="en">Disable an extension.</source>
         <target xml:lang="fr" state="translated">Désactivez une extension.</target>
       </trans-unit>
-      <trans-unit id="inspect-extensions">
+      <trans-unit id="inspect-extensions" approved="yes">
         <source xml:lang="en">Allow debugging and profiling of extensions. Check the developer tools for the connection URI.</source>
-        <target xml:lang="fr" state="translated">Permettre le débogage et le profilage d’extensions. Vérifier les outils de développement pour l'URI de connexion.</target>
+        <target xml:lang="fr" state="final">Permettre le débogage et le profilage d’extensions. Vérifier les outils de développement pour l'URI de connexion.</target>
       </trans-unit>
-      <trans-unit id="inspect-brk-extensions">
+      <trans-unit id="inspect-brk-extensions" approved="yes">
         <source xml:lang="en">Allow debugging and profiling of extensions with the extension host being paused after start. Check the developer tools for the connection URI.</source>
-        <target xml:lang="fr" state="translated">Permettre le débogage et le profilage d’extensions avec l’hôte de l’extension étant suspendu après le démarrage. Vérifier les outils de développement pour l'URI de connexion.</target>
+        <target xml:lang="fr" state="final">Permettre le débogage et le profilage d’extensions avec l’hôte de l’extension étant suspendu après le démarrage. Vérifier les outils de développement pour l'URI de connexion.</target>
       </trans-unit>
       <trans-unit id="disableGPU">
         <source xml:lang="en">Disable GPU hardware acceleration.</source>
         <target xml:lang="fr" state="translated">Désactivez l'accélération matérielle du GPU.</target>
       </trans-unit>
-      <trans-unit id="maxMemory">
+      <trans-unit id="maxMemory" approved="yes">
         <source xml:lang="en">Max memory size for a window (in Mbytes).</source>
-        <target xml:lang="fr" state="translated">Taille mémoire maximale pour une fenêtre (En Megaoctêts)</target>
+        <target xml:lang="fr" state="final">Taille mémoire maximale pour une fenêtre (En Megaoctêts)</target>
       </trans-unit>
       <trans-unit id="usage">
         <source xml:lang="en">Usage</source>
@@ -337,9 +337,9 @@ Default Ignored Settings:
         <source xml:lang="en">To read output from another program, append '-' (e.g. 'echo Hello World | {0} -')</source>
         <target xml:lang="fr" state="translated">Pour lire la sortie d’un autre programme, ajouter '-' (ex. 'echo Hello World | {0} -')</target>
       </trans-unit>
-      <trans-unit id="stdinUnix">
+      <trans-unit id="stdinUnix" approved="yes">
         <source xml:lang="en">To read from stdin, append '-' (e.g. 'ps aux | grep code | {0} -')</source>
-        <target xml:lang="fr" state="translated">Pour lire depuis stdin, ajouter '-' (ex. 'ps aux | grep code | {0} -')</target>
+        <target xml:lang="fr" state="final">Pour lire depuis stdin, ajouter '-' (ex. 'ps aux | grep code | {0} -')</target>
       </trans-unit>
       <trans-unit id="unknownVersion">
         <source xml:lang="en">Unknown version</source>
@@ -457,9 +457,9 @@ Default Ignored Settings:
         <source xml:lang="en">Configure editor settings to be overridden for a language.</source>
         <target xml:lang="fr" state="translated">Configurez les paramètres d'éditeur à remplacer pour un langage.</target>
       </trans-unit>
-      <trans-unit id="config.property.languageDefault">
+      <trans-unit id="config.property.languageDefault" approved="yes">
         <source xml:lang="en">Cannot register '{0}'. This matches property pattern '\\[.*\\]$' for describing language specific editor settings. Use 'configurationDefaults' contribution.</source>
-        <target xml:lang="fr" state="translated">Impossible d'inscrire '{0}'. Ceci correspond au modèle de propriété '\\[.*\\]$' permettant de décrire les paramètres d'éditeur spécifiques à un langage. Utilisez la contribution 'configurationDefaults'.</target>
+        <target xml:lang="fr" state="final">Impossible d'inscrire '{0}'. Ceci correspond au modèle de propriété '\\[.*\\]$' permettant de décrire les paramètres d'éditeur spécifiques à un langage. Utilisez la contribution 'configurationDefaults'.</target>
       </trans-unit>
       <trans-unit id="config.property.duplicate">
         <source xml:lang="en">Cannot register '{0}'. This property is already registered.</source>
@@ -549,19 +549,19 @@ Default Ignored Settings:
         <source xml:lang="en">Workbench</source>
         <target xml:lang="fr" state="translated">Banc d'essai</target>
       </trans-unit>
-      <trans-unit id="multiSelectModifier.ctrlCmd">
+      <trans-unit id="multiSelectModifier.ctrlCmd" approved="yes">
         <source xml:lang="en">Maps to `Control` on Windows and Linux and to `Command` on macOS.</source>
-        <target xml:lang="fr" state="translated">Mappe vers 'Contrôle' dans Windows et Linux, et vers 'Commande' dans macOS.</target>
+        <target xml:lang="fr" state="final">Mappe vers 'Contrôle' dans Windows et Linux, et vers 'Commande' dans macOS.</target>
       </trans-unit>
-      <trans-unit id="multiSelectModifier.alt">
+      <trans-unit id="multiSelectModifier.alt" approved="yes">
         <source xml:lang="en">Maps to `Alt` on Windows and Linux and to `Option` on macOS.</source>
-        <target xml:lang="fr" state="translated">Mappe vers 'Alt' dans Windows et Linux, et vers 'Option' dans macOS.</target>
+        <target xml:lang="fr" state="final">Mappe vers 'Alt' dans Windows et Linux, et vers 'Option' dans macOS.</target>
       </trans-unit>
-      <trans-unit id="multiSelectModifier">
+      <trans-unit id="multiSelectModifier" approved="yes">
         <source xml:lang="en">The modifier to be used to add an item in trees and lists to a multi-selection with the mouse (for example in the explorer, open editors and scm view). The 'Open to Side' mouse gestures - if supported - will adapt such that they do not conflict with the multiselect modifier.</source>
         <note>- `ctrlCmd` refers to a value the setting can take and should not be localized.
 - `Control` and `Command` refer to the modifier keys Ctrl or Cmd on the keyboard and can be localized.</note>
-        <target xml:lang="fr" state="translated">Le modificateur à utiliser pour ajouter un élément dans les arbres et listes pour une sélection multiple avec la souris (par exemple dans l’Explorateur, les éditeurs ouverts et la vue scm). Les mouvements de la souris 'Ouvrir à côté' (si pris en charge) s'adapteront tels qu’ils n'entrent pas en conflit avec le modificateur multiselect.</target>
+        <target xml:lang="fr" state="final">Le modificateur à utiliser pour ajouter un élément dans les arbres et listes pour une sélection multiple avec la souris (par exemple dans l’Explorateur, les éditeurs ouverts et la vue scm). Les mouvements de la souris 'Ouvrir à côté' (si pris en charge) s'adapteront tels qu’ils n'entrent pas en conflit avec le modificateur multiselect.</target>
       </trans-unit>
       <trans-unit id="openModeModifier">
         <source xml:lang="en">Controls how to open items in trees and lists using the mouse (if supported). For parents with children in trees, this setting will control if a single click expands the parent or a double click. Note that some trees and lists might choose to ignore this setting if it is not applicable. </source>
@@ -748,9 +748,9 @@ Default Ignored Settings:
         <source xml:lang="en">Foreground color for links in text.</source>
         <target xml:lang="fr" state="translated">Couleur des liens dans le texte.</target>
       </trans-unit>
-      <trans-unit id="textLinkActiveForeground">
+      <trans-unit id="textLinkActiveForeground" approved="yes">
         <source xml:lang="en">Foreground color for links in text when clicked on and on mouse hover.</source>
-        <target xml:lang="fr" state="translated">Couleur de premier plan pour les liens dans le texte lorsqu'ils sont cliqués ou survolés.</target>
+        <target xml:lang="fr" state="final">Couleur de premier plan pour les liens dans le texte lorsqu'ils sont cliqués ou survolés.</target>
       </trans-unit>
       <trans-unit id="textPreformatForeground">
         <source xml:lang="en">Foreground color for preformatted text segments.</source>
@@ -828,9 +828,9 @@ Default Ignored Settings:
         <source xml:lang="en">Input validation foreground color for error severity.</source>
         <target xml:lang="fr" state="translated">Couleur de premier plan de la validation de saisie pour la sévérité Erreur.</target>
       </trans-unit>
-      <trans-unit id="inputValidationErrorBorder">
+      <trans-unit id="inputValidationErrorBorder" approved="yes">
         <source xml:lang="en">Input validation border color for error severity.</source>
-        <target xml:lang="fr" state="translated">Couleur de bordure de la validation d'entrée pour la gravité de l'erreur. </target>
+        <target xml:lang="fr" state="final">Couleur de bordure de la validation d'entrée pour la gravité de l'erreur. </target>
       </trans-unit>
       <trans-unit id="dropdownBackground">
         <source xml:lang="en">Dropdown background.</source>
@@ -1016,9 +1016,9 @@ Default Ignored Settings:
         <source xml:lang="en">Border color of the Search Editor query matches.</source>
         <target xml:lang="fr" state="translated">Couleur de bordure des correspondances de requête de l'éditeur de recherche.</target>
       </trans-unit>
-      <trans-unit id="hoverHighlight">
+      <trans-unit id="hoverHighlight" approved="yes">
         <source xml:lang="en">Highlight below the word for which a hover is shown. The color must not be opaque so as not to hide underlying decorations.</source>
-        <target xml:lang="fr" state="translated">Surlignage sous le mot sélectionné par pointage. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
+        <target xml:lang="fr" state="final">Surlignage sous le mot sélectionné par pointage. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
       </trans-unit>
       <trans-unit id="hoverBackground">
         <source xml:lang="en">Background color of the editor hover.</source>
@@ -1092,9 +1092,9 @@ Default Ignored Settings:
         <source xml:lang="en">List/Tree foreground color for the selected item when the list/tree is inactive. An active list/tree has keyboard focus, an inactive does not.</source>
         <target xml:lang="fr" state="translated">Couleur de premier plan de la liste/l'arborescence pour l'élément sélectionné quand la liste/l'arborescence est inactive. Une liste/arborescence active peut être sélectionnée au clavier, elle ne l'est pas quand elle est inactive.</target>
       </trans-unit>
-      <trans-unit id="listInactiveFocusBackground">
+      <trans-unit id="listInactiveFocusBackground" approved="yes">
         <source xml:lang="en">List/Tree background color for the focused item when the list/tree is inactive. An active list/tree has keyboard focus, an inactive does not.</source>
-        <target xml:lang="fr" state="translated">Couleur d'arrière-plan de la liste/l'arborescence pour l'élément ayant le focus quand la liste/l'arborescence est active. Une liste/arborescence active peut être sélectionnée au clavier (elle ne l'est pas quand elle est inactive).</target>
+        <target xml:lang="fr" state="final">Couleur d'arrière-plan de la liste/l'arborescence pour l'élément ayant le focus quand la liste/l'arborescence est active. Une liste/arborescence active peut être sélectionnée au clavier (elle ne l'est pas quand elle est inactive).</target>
       </trans-unit>
       <trans-unit id="listHoverBackground">
         <source xml:lang="en">List/Tree background when hovering over items using the mouse.</source>
@@ -1176,21 +1176,21 @@ Default Ignored Settings:
         <source xml:lang="en">Color of a separator menu item in menus.</source>
         <target xml:lang="fr" state="translated">Couleur d'un élément de menu séparateur dans les menus.</target>
       </trans-unit>
-      <trans-unit id="snippetTabstopHighlightBackground">
+      <trans-unit id="snippetTabstopHighlightBackground" approved="yes">
         <source xml:lang="en">Highlight background color of a snippet tabstop.</source>
-        <target xml:lang="fr" state="translated">Couleur d’arrière-plan de mise en surbrillance d’un extrait tabstop.</target>
+        <target xml:lang="fr" state="final">Couleur d’arrière-plan de mise en surbrillance d’un extrait tabstop.</target>
       </trans-unit>
-      <trans-unit id="snippetTabstopHighlightBorder">
+      <trans-unit id="snippetTabstopHighlightBorder" approved="yes">
         <source xml:lang="en">Highlight border color of a snippet tabstop.</source>
-        <target xml:lang="fr" state="translated">Couleur de bordure de mise en surbrillance d’un extrait tabstop.</target>
+        <target xml:lang="fr" state="final">Couleur de bordure de mise en surbrillance d’un extrait tabstop.</target>
       </trans-unit>
-      <trans-unit id="snippetFinalTabstopHighlightBackground">
+      <trans-unit id="snippetFinalTabstopHighlightBackground" approved="yes">
         <source xml:lang="en">Highlight background color of the final tabstop of a snippet.</source>
-        <target xml:lang="fr" state="translated">Couleur d’arrière-plan de mise en surbrillance du tabstop final d’un extrait.</target>
+        <target xml:lang="fr" state="final">Couleur d’arrière-plan de mise en surbrillance du tabstop final d’un extrait.</target>
       </trans-unit>
-      <trans-unit id="snippetFinalTabstopHighlightBorder">
+      <trans-unit id="snippetFinalTabstopHighlightBorder" approved="yes">
         <source xml:lang="en">Highlight border color of the final stabstop of a snippet.</source>
-        <target xml:lang="fr" state="translated">Couleur de la bordure de mise en surbrillance du tabstop final d’un extrait.</target>
+        <target xml:lang="fr" state="final">Couleur de la bordure de mise en surbrillance du tabstop final d’un extrait.</target>
       </trans-unit>
       <trans-unit id="breadcrumbsFocusForeground">
         <source xml:lang="en">Color of focused breadcrumb items.</source>
@@ -1208,45 +1208,45 @@ Default Ignored Settings:
         <source xml:lang="en">Background color of breadcrumb item picker.</source>
         <target xml:lang="fr" state="translated">Couleur de fond du sélecteur d’élément de navigation.</target>
       </trans-unit>
-      <trans-unit id="mergeCurrentHeaderBackground">
+      <trans-unit id="mergeCurrentHeaderBackground" approved="yes">
         <source xml:lang="en">Current header background in inline merge-conflicts. The color must not be opaque so as not to hide underlying decorations.</source>
-        <target xml:lang="fr" state="translated">Arrière-plan d'en-tête actuel dans les conflits de fusion inline. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
+        <target xml:lang="fr" state="final">Arrière-plan d'en-tête actuel dans les conflits de fusion inline. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
       </trans-unit>
-      <trans-unit id="mergeCurrentContentBackground">
+      <trans-unit id="mergeCurrentContentBackground" approved="yes">
         <source xml:lang="en">Current content background in inline merge-conflicts. The color must not be opaque so as not to hide underlying decorations.</source>
-        <target xml:lang="fr" state="translated">Arrière-plan de contenu actuel dans les conflits de fusion inline. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
+        <target xml:lang="fr" state="final">Arrière-plan de contenu actuel dans les conflits de fusion inline. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
       </trans-unit>
-      <trans-unit id="mergeIncomingHeaderBackground">
+      <trans-unit id="mergeIncomingHeaderBackground" approved="yes">
         <source xml:lang="en">Incoming header background in inline merge-conflicts. The color must not be opaque so as not to hide underlying decorations.</source>
-        <target xml:lang="fr" state="translated">Arrière-plan d'en-tête entrant dans les conflits de fusion inline. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
+        <target xml:lang="fr" state="final">Arrière-plan d'en-tête entrant dans les conflits de fusion inline. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
       </trans-unit>
-      <trans-unit id="mergeIncomingContentBackground">
+      <trans-unit id="mergeIncomingContentBackground" approved="yes">
         <source xml:lang="en">Incoming content background in inline merge-conflicts. The color must not be opaque so as not to hide underlying decorations.</source>
-        <target xml:lang="fr" state="translated">Arrière-plan de contenu entrant dans les conflits de fusion inline. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
+        <target xml:lang="fr" state="final">Arrière-plan de contenu entrant dans les conflits de fusion inline. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
       </trans-unit>
-      <trans-unit id="mergeCommonHeaderBackground">
+      <trans-unit id="mergeCommonHeaderBackground" approved="yes">
         <source xml:lang="en">Common ancestor header background in inline merge-conflicts. The color must not be opaque so as not to hide underlying decorations.</source>
-        <target xml:lang="fr" state="translated">Arrière-plan d'en-tête de l'ancêtre commun dans les conflits de fusion inline. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
+        <target xml:lang="fr" state="final">Arrière-plan d'en-tête de l'ancêtre commun dans les conflits de fusion inline. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
       </trans-unit>
-      <trans-unit id="mergeCommonContentBackground">
+      <trans-unit id="mergeCommonContentBackground" approved="yes">
         <source xml:lang="en">Common ancestor content background in inline merge-conflicts. The color must not be opaque so as not to hide underlying decorations.</source>
-        <target xml:lang="fr" state="translated">Arrière-plan de contenu de l'ancêtre commun dans les conflits de fusion inline. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
+        <target xml:lang="fr" state="final">Arrière-plan de contenu de l'ancêtre commun dans les conflits de fusion inline. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
       </trans-unit>
-      <trans-unit id="mergeBorder">
+      <trans-unit id="mergeBorder" approved="yes">
         <source xml:lang="en">Border color on headers and the splitter in inline merge-conflicts.</source>
-        <target xml:lang="fr" state="translated">Couleur de bordure des en-têtes et du séparateur dans les conflits de fusion inline.</target>
+        <target xml:lang="fr" state="final">Couleur de bordure des en-têtes et du séparateur dans les conflits de fusion inline.</target>
       </trans-unit>
-      <trans-unit id="overviewRulerCurrentContentForeground">
+      <trans-unit id="overviewRulerCurrentContentForeground" approved="yes">
         <source xml:lang="en">Current overview ruler foreground for inline merge-conflicts.</source>
-        <target xml:lang="fr" state="translated">Premier plan de la règle d'aperçu actuelle pour les conflits de fusion inline.</target>
+        <target xml:lang="fr" state="final">Premier plan de la règle d'aperçu actuelle pour les conflits de fusion inline.</target>
       </trans-unit>
-      <trans-unit id="overviewRulerIncomingContentForeground">
+      <trans-unit id="overviewRulerIncomingContentForeground" approved="yes">
         <source xml:lang="en">Incoming overview ruler foreground for inline merge-conflicts.</source>
-        <target xml:lang="fr" state="translated">Premier plan de la règle d'aperçu entrante pour les conflits de fusion inline.</target>
+        <target xml:lang="fr" state="final">Premier plan de la règle d'aperçu entrante pour les conflits de fusion inline.</target>
       </trans-unit>
-      <trans-unit id="overviewRulerCommonContentForeground">
+      <trans-unit id="overviewRulerCommonContentForeground" approved="yes">
         <source xml:lang="en">Common ancestor overview ruler foreground for inline merge-conflicts.</source>
-        <target xml:lang="fr" state="translated">Arrière-plan de la règle d'aperçu de l'ancêtre commun dans les conflits de fusion inline.</target>
+        <target xml:lang="fr" state="final">Arrière-plan de la règle d'aperçu de l'ancêtre commun dans les conflits de fusion inline.</target>
       </trans-unit>
       <trans-unit id="overviewRulerFindMatchForeground">
         <source xml:lang="en">Overview ruler marker color for find matches. The color must not be opaque so as not to hide underlying decorations.</source>
@@ -1256,21 +1256,21 @@ Default Ignored Settings:
         <source xml:lang="en">Overview ruler marker color for selection highlights. The color must not be opaque so as not to hide underlying decorations.</source>
         <target xml:lang="fr" state="translated">Couleur de marqueur de la règle d'aperçu pour la mise en surbrillance des sélections. La couleur ne doit pas être opaque pour ne pas masquer les ornements sous-jacents.</target>
       </trans-unit>
-      <trans-unit id="minimapFindMatchHighlight">
+      <trans-unit id="minimapFindMatchHighlight" approved="yes">
         <source xml:lang="en">Minimap marker color for find matches.</source>
-        <target xml:lang="fr" state="translated">Couleur de marqueur de la minimap pour les correspondances.</target>
+        <target xml:lang="fr" state="final">Couleur de marqueur de la minimap pour les correspondances.</target>
       </trans-unit>
-      <trans-unit id="minimapSelectionHighlight">
+      <trans-unit id="minimapSelectionHighlight" approved="yes">
         <source xml:lang="en">Minimap marker color for the editor selection.</source>
-        <target xml:lang="fr" state="translated">Couleur de marqueur du minimap pour la sélection de l'éditeur.</target>
+        <target xml:lang="fr" state="final">Couleur de marqueur du minimap pour la sélection de l'éditeur.</target>
       </trans-unit>
-      <trans-unit id="minimapError">
+      <trans-unit id="minimapError" approved="yes">
         <source xml:lang="en">Minimap marker color for errors.</source>
-        <target xml:lang="fr" state="translated">Couleur de marqueur de minimap pour les erreurs.</target>
+        <target xml:lang="fr" state="final">Couleur de marqueur de minimap pour les erreurs.</target>
       </trans-unit>
-      <trans-unit id="overviewRuleWarning">
+      <trans-unit id="overviewRuleWarning" approved="yes">
         <source xml:lang="en">Minimap marker color for warnings.</source>
-        <target xml:lang="fr" state="translated">Couleur de marqueur de minimap pour les avertissements.</target>
+        <target xml:lang="fr" state="final">Couleur de marqueur de minimap pour les avertissements.</target>
       </trans-unit>
       <trans-unit id="problemsErrorIconForeground">
         <source xml:lang="en">The color used for the problems error icon.</source>
@@ -1329,17 +1329,17 @@ Default Ignored Settings:
   </file>
   <file original="src/vs/platform/extensions/common/extensionValidator" source-language="en" datatype="plaintext" target-language="fr">
     <body>
-      <trans-unit id="versionSyntax">
+      <trans-unit id="versionSyntax" approved="yes">
         <source xml:lang="en">Could not parse `engines.vscode` value {0}. Please use, for example: ^1.22.0, ^1.22.x, etc.</source>
-        <target xml:lang="fr" state="translated">Impossible d'analyser la valeur {0} de `engines.vscode`. Veuillez utiliser, par exemple : ^1.22.0, ^1.22.x, ...</target>
+        <target xml:lang="fr" state="final">Impossible d'analyser la valeur {0} de `engines.vscode`. Veuillez utiliser, par exemple : ^1.22.0, ^1.22.x, ...</target>
       </trans-unit>
-      <trans-unit id="versionSpecificity1">
+      <trans-unit id="versionSpecificity1" approved="yes">
         <source xml:lang="en">Version specified in `engines.vscode` ({0}) is not specific enough. For vscode versions before 1.0.0, please define at a minimum the major and minor desired version. E.g. ^0.10.0, 0.10.x, 0.11.0, etc.</source>
-        <target xml:lang="fr" state="translated">La version spécifiée dans 'engines.vscode' ({0}) n'est pas assez précise. Pour les versions de vscode antérieures à 1.0.0, définissez au minimum les versions majeure et mineure souhaitées. Par exemple : ^0.10.0, 0.10.x, 0.11.0, etc.</target>
+        <target xml:lang="fr" state="final">La version spécifiée dans 'engines.vscode' ({0}) n'est pas assez précise. Pour les versions de vscode antérieures à 1.0.0, définissez au minimum les versions majeure et mineure souhaitées. Par exemple : ^0.10.0, 0.10.x, 0.11.0, etc.</target>
       </trans-unit>
-      <trans-unit id="versionSpecificity2">
+      <trans-unit id="versionSpecificity2" approved="yes">
         <source xml:lang="en">Version specified in `engines.vscode` ({0}) is not specific enough. For vscode versions after 1.0.0, please define at a minimum the major desired version. E.g. ^1.10.0, 1.10.x, 1.x.x, 2.x.x, etc.</source>
-        <target xml:lang="fr" state="translated">La version spécifiée dans 'engines.vscode' ({0}) n'est pas assez précise. Pour les versions de vscode ultérieures à 1.0.0, définissez au minimum la version majeure souhaitée. Par exemple : ^1.10.0, 1.10.x, 1.x.x, 2.x.x, etc.</target>
+        <target xml:lang="fr" state="final">La version spécifiée dans 'engines.vscode' ({0}) n'est pas assez précise. Pour les versions de vscode ultérieures à 1.0.0, définissez au minimum la version majeure souhaitée. Par exemple : ^1.10.0, 1.10.x, 1.x.x, 2.x.x, etc.</target>
       </trans-unit>
       <trans-unit id="versionMismatch">
         <source xml:lang="en">Extension is not compatible with Code {0}. Extension requires: {1}.</source>
@@ -1397,13 +1397,13 @@ Default Ignored Settings:
   </file>
   <file original="src/vs/platform/issue/electron-main/issueMainService" source-language="en" datatype="plaintext" target-language="fr">
     <body>
-      <trans-unit id="local">
+      <trans-unit id="local" approved="yes">
         <source xml:lang="en">Local</source>
-        <target xml:lang="fr" state="translated">LOCAL</target>
+        <target xml:lang="fr" state="final">LOCAL</target>
       </trans-unit>
-      <trans-unit id="issueReporterWriteToClipboard">
+      <trans-unit id="issueReporterWriteToClipboard" approved="yes">
         <source xml:lang="en">There is too much data to send to GitHub directly. The data will be copied to the clipboard, please paste it into the GitHub issue page that is opened.</source>
-        <target xml:lang="fr" state="translated">Il y a trop de données à envoyer directement à GitHub. Les données sont copiées dans le Presse-papiers, collez-les dans la page d'envoi de GitHub ouverte.</target>
+        <target xml:lang="fr" state="final">Il y a trop de données à envoyer directement à GitHub. Les données sont copiées dans le Presse-papiers, collez-les dans la page d'envoi de GitHub ouverte.</target>
       </trans-unit>
       <trans-unit id="ok_Duplicated13">
         <source xml:lang="en">OK</source>
@@ -1501,9 +1501,9 @@ Default Ignored Settings:
         <source xml:lang="en">Style for types.</source>
         <target xml:lang="fr" state="translated">Style pour les types.</target>
       </trans-unit>
-      <trans-unit id="struct">
+      <trans-unit id="struct" approved="yes">
         <source xml:lang="en">Style for structs.</source>
-        <target xml:lang="fr" state="translated">Style des structs.</target>
+        <target xml:lang="fr" state="final">Style des structs.</target>
       </trans-unit>
       <trans-unit id="class">
         <source xml:lang="en">Style for classes.</source>
@@ -1549,9 +1549,9 @@ Default Ignored Settings:
         <source xml:lang="en">Style for properties.</source>
         <target xml:lang="fr" state="translated">Style des propriétés.</target>
       </trans-unit>
-      <trans-unit id="labels">
+      <trans-unit id="labels" approved="yes">
         <source xml:lang="en">Style for labels. </source>
-        <target xml:lang="fr" state="translated">Style des étiquettes.</target>
+        <target xml:lang="fr" state="final">Style des étiquettes.</target>
       </trans-unit>
       <trans-unit id="declaration">
         <source xml:lang="en">Style for all symbol declarations.</source>
@@ -1609,15 +1609,15 @@ Default Ignored Settings:
         <note>&amp;&amp; denotes a mnemonic</note>
         <target xml:lang="fr" state="translated">&amp;&amp;Sélection</target>
       </trans-unit>
-      <trans-unit id="mView">
+      <trans-unit id="mView" approved="yes">
         <source xml:lang="en">&amp;&amp;View</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="translated">Affic&amp;&amp;hage</target>
+        <target xml:lang="fr" state="final">Affic&amp;&amp;hage</target>
       </trans-unit>
-      <trans-unit id="mGoto">
+      <trans-unit id="mGoto" approved="yes">
         <source xml:lang="en">&amp;&amp;Go</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="translated">Attei&amp;&amp;ndre</target>
+        <target xml:lang="fr" state="final">Attei&amp;&amp;ndre</target>
       </trans-unit>
       <trans-unit id="mDebug">
         <source xml:lang="en">&amp;&amp;Debug</source>
@@ -1642,10 +1642,10 @@ Default Ignored Settings:
         <source xml:lang="en">About {0}</source>
         <target xml:lang="fr" state="translated">À propos de {0}</target>
       </trans-unit>
-      <trans-unit id="miPreferences">
+      <trans-unit id="miPreferences" approved="yes">
         <source xml:lang="en">&amp;&amp;Preferences</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="translated">Pr&amp;&amp;éférences</target>
+        <target xml:lang="fr" state="final">Pr&amp;&amp;éférences</target>
       </trans-unit>
       <trans-unit id="mServices">
         <source xml:lang="en">Services</source>
@@ -1712,9 +1712,9 @@ Default Ignored Settings:
         <source xml:lang="en">Checking for Updates...</source>
         <target xml:lang="fr" state="translated">Recherche des mises à jour...</target>
       </trans-unit>
-      <trans-unit id="miDownloadUpdate">
+      <trans-unit id="miDownloadUpdate" approved="yes">
         <source xml:lang="en">D&amp;&amp;ownload Available Update</source>
-        <target xml:lang="fr" state="translated">Télécharger la mise à jour disp&amp;&amp;onible</target>
+        <target xml:lang="fr" state="final">Télécharger la mise à jour disp&amp;&amp;onible</target>
       </trans-unit>
       <trans-unit id="miDownloadingUpdate">
         <source xml:lang="en">Downloading Update...</source>
