@@ -24,11 +24,11 @@
       </trans-unit>
       <trans-unit id="emergencyConfOn">
         <source xml:lang="en">Now changing the setting `accessibilitySupport` to 'on'.</source>
-        <target xml:lang="ja" state="needs-translation">Now changing the setting `accessibilitySupport` to 'on'.</target>
+        <target xml:lang="ja" state="translated">［accessibilitySupport］の設定を［on］に変更しています。</target>
       </trans-unit>
       <trans-unit id="openingDocs">
         <source xml:lang="en">Now opening the Editor Accessibility documentation page.</source>
-        <target xml:lang="ja" state="needs-translation">Now opening the Editor Accessibility documentation page.</target>
+        <target xml:lang="ja" state="translated">エディター・アクセシビリティのドキュメントページを開いています。</target>
       </trans-unit>
       <trans-unit id="readonlyDiffEditor">
         <source xml:lang="en"> in a read-only pane of a diff editor.</source>
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="changeConfigToOnMac">
         <source xml:lang="en">To configure the editor to be optimized for usage with a Screen Reader press Command+E now.</source>
-        <target xml:lang="ja" state="needs-translation">To configure the editor to be optimized for usage with a Screen Reader press Command+E now.</target>
+        <target xml:lang="ja" state="translated">エディターをスクリーンリーダーとの使用に最適化するように構成するには Command + E を押します。</target>
       </trans-unit>
       <trans-unit id="changeConfigToOnWinLinux">
         <source xml:lang="en">To configure the editor to be optimized for usage with a Screen Reader press Control+E now.</source>
