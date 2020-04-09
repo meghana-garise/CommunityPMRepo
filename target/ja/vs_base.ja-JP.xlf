@@ -66,7 +66,7 @@
         <source xml:lang="en">{0} ({1})</source>
         <note>action title
 action keybinding</note>
-        <target xml:lang="ja" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="ja" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
@@ -179,7 +179,7 @@ action keybinding</note>
         <source xml:lang="en">{0} ({1})</source>
         <note>action title
 action keybinding</note>
-        <target xml:lang="ja" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="ja" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
@@ -328,7 +328,7 @@ action keybinding</note>
     <body>
       <trans-unit id="clear">
         <source xml:lang="en">Clear</source>
-        <target xml:lang="ja" state="needs-translation">Clear</target>
+        <target xml:lang="ja" state="translated">クリアする</target>
       </trans-unit>
       <trans-unit id="disable filter on type">
         <source xml:lang="en">Disable Filter on Type</source>
