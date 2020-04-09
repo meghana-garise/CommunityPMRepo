@@ -296,15 +296,15 @@ action keybinding</note>
     <body>
       <trans-unit id="alertErrorMessage">
         <source xml:lang="en">Error: {0}</source>
-        <target xml:lang="it" state="needs-translation">Error: {0}</target>
+        <target xml:lang="it" state="translated">Errore: {0}</target>
       </trans-unit>
       <trans-unit id="alertWarningMessage">
         <source xml:lang="en">Warning: {0}</source>
-        <target xml:lang="it" state="needs-translation">Warning: {0}</target>
+        <target xml:lang="it" state="translated">Avviso: {0}</target>
       </trans-unit>
       <trans-unit id="alertInfoMessage">
         <source xml:lang="en">Info: {0}</source>
-        <target xml:lang="it" state="needs-translation">Info: {0}</target>
+        <target xml:lang="it" state="translated">Info : {0}</target>
       </trans-unit>
     </body>
   </file>
