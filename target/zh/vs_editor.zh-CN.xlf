@@ -24,11 +24,11 @@
       </trans-unit>
       <trans-unit id="emergencyConfOn">
         <source xml:lang="en">Now changing the setting `accessibilitySupport` to 'on'.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Now changing the setting `accessibilitySupport` to 'on'.</target>
+        <target xml:lang="zh-CN" state="translated">正在将设置 "accessibilitySupport" 更改为 "on"。</target>
       </trans-unit>
       <trans-unit id="openingDocs">
         <source xml:lang="en">Now opening the Editor Accessibility documentation page.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Now opening the Editor Accessibility documentation page.</target>
+        <target xml:lang="zh-CN" state="translated">现在打开编辑器辅助功能文档页。</target>
       </trans-unit>
       <trans-unit id="readonlyDiffEditor">
         <source xml:lang="en"> in a read-only pane of a diff editor.</source>
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="editableEditor">
         <source xml:lang="en"> in a code editor</source>
-        <target xml:lang="zh-CN" state="needs-translation"> in a code editor</target>
+        <target xml:lang="zh-CN" state="translated"> 在代码编辑器中</target>
       </trans-unit>
       <trans-unit id="changeConfigToOnMac">
         <source xml:lang="en">To configure the editor to be optimized for usage with a Screen Reader press Command+E now.</source>
@@ -52,7 +52,7 @@
       </trans-unit>
       <trans-unit id="changeConfigToOnWinLinux">
         <source xml:lang="en">To configure the editor to be optimized for usage with a Screen Reader press Control+E now.</source>
-        <target xml:lang="zh-CN" state="needs-translation">To configure the editor to be optimized for usage with a Screen Reader press Control+E now.</target>
+        <target xml:lang="zh-CN" state="translated">若要将编辑器配置为使用屏幕读取器进行优化，请立即按 Ctrl + E。</target>
       </trans-unit>
       <trans-unit id="auto_on">
         <source xml:lang="en">The editor is configured to be optimized for usage with a Screen Reader.</source>
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="gotoLineLabelValidLine">
         <source xml:lang="en">Go to line {0}</source>
-        <target xml:lang="zh-CN" state="needs-translation">Go to line {0}</target>
+        <target xml:lang="zh-CN" state="translated">转到行 {0}</target>
       </trans-unit>
       <trans-unit id="gotoLineLabelEmptyWithLineLimit">
         <source xml:lang="en">Type a line number between 1 and {0} to navigate to</source>
@@ -124,7 +124,7 @@
       </trans-unit>
       <trans-unit id="gotoLineActionLabel">
         <source xml:lang="en">Go to Line...</source>
-        <target xml:lang="zh-CN" state="needs-translation">Go to Line...</target>
+        <target xml:lang="zh-CN" state="translated">转到行 .。。</target>
       </trans-unit>
       <trans-unit id="ariaLabelEntryWithKey">
         <source xml:lang="en">{0}, {1}, commands</source>
