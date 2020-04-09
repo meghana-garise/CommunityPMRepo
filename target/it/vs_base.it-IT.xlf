@@ -40,7 +40,7 @@
     <body>
       <trans-unit id="invalid file">
         <source xml:lang="en">Error extracting {0}. Invalid file.</source>
-        <target xml:lang="it" state="needs-translation">Error extracting {0}. Invalid file.</target>
+        <target xml:lang="it" state="translated">Errore durante l'estrazione di {0}. File non valido.</target>
       </trans-unit>
       <trans-unit id="incompleteExtract">
         <source xml:lang="en">Incomplete. Found {0} of {1} entries</source>
@@ -203,11 +203,11 @@ action keybinding</note>
     <body>
       <trans-unit id="error.invalidSymbol">
         <source xml:lang="en">Invalid symbol</source>
-        <target xml:lang="it" state="needs-translation">Invalid symbol</target>
+        <target xml:lang="it" state="translated">Simbolo non valido</target>
       </trans-unit>
       <trans-unit id="error.invalidNumberFormat">
         <source xml:lang="en">Invalid number format</source>
-        <target xml:lang="it" state="needs-translation">Invalid number format</target>
+        <target xml:lang="it" state="translated">Formato numerico non valido</target>
       </trans-unit>
       <trans-unit id="error.propertyNameExpected">
         <source xml:lang="en">Property name expected</source>
@@ -320,7 +320,7 @@ action keybinding</note>
       </trans-unit>
       <trans-unit id="regexDescription">
         <source xml:lang="en">Use Regular Expression</source>
-        <target xml:lang="it" state="needs-translation">Use Regular Expression</target>
+        <target xml:lang="it" state="translated">Usa espressione regolare</target>
       </trans-unit>
     </body>
   </file>
@@ -332,15 +332,15 @@ action keybinding</note>
       </trans-unit>
       <trans-unit id="disable filter on type">
         <source xml:lang="en">Disable Filter on Type</source>
-        <target xml:lang="it" state="needs-translation">Disable Filter on Type</target>
+        <target xml:lang="it" state="translated">Disabilita filtro per tipo</target>
       </trans-unit>
       <trans-unit id="enable filter on type">
         <source xml:lang="en">Enable Filter on Type</source>
-        <target xml:lang="it" state="needs-translation">Enable Filter on Type</target>
+        <target xml:lang="it" state="translated">Abilita filtro per tipo</target>
       </trans-unit>
       <trans-unit id="empty">
         <source xml:lang="en">No elements found</source>
-        <target xml:lang="it" state="needs-translation">No elements found</target>
+        <target xml:lang="it" state="translated">Non sono stati trovati elementi</target>
       </trans-unit>
       <trans-unit id="found">
         <source xml:lang="en">Matched {0} out of {1} elements</source>
