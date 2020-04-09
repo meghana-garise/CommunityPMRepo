@@ -74,7 +74,7 @@ action keybinding</note>
     <body>
       <trans-unit id="unbound">
         <source xml:lang="en">Unbound</source>
-        <target xml:lang="pt-BR" state="translated">Desconectado</target>
+        <target xml:lang="pt-BR" state="needs-translation">Unbound</target>
       </trans-unit>
     </body>
   </file>
