@@ -56,7 +56,7 @@
     <body>
       <trans-unit id="TaskRunner.UNC">
         <source xml:lang="en">Can't execute a shell command on a UNC drive.</source>
-        <target xml:lang="pt-BR" state="needs-translation">Can't execute a shell command on a UNC drive.</target>
+        <target xml:lang="pt-BR" state="translated">Não é possível executar um comando shell em um drive UNC.</target>
       </trans-unit>
     </body>
   </file>
@@ -66,7 +66,7 @@
         <source xml:lang="en">{0} ({1})</source>
         <note>action title
 action keybinding</note>
-        <target xml:lang="pt-BR" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="pt-BR" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
@@ -74,7 +74,7 @@ action keybinding</note>
     <body>
       <trans-unit id="unbound">
         <source xml:lang="en">Unbound</source>
-        <target xml:lang="pt-BR" state="needs-translation">Unbound</target>
+        <target xml:lang="pt-BR" state="translated">Desconectado</target>
       </trans-unit>
     </body>
   </file>
@@ -82,11 +82,11 @@ action keybinding</note>
     <body>
       <trans-unit id="ok">
         <source xml:lang="en">OK</source>
-        <target xml:lang="pt-BR" state="needs-translation">OK</target>
+        <target xml:lang="pt-BR" state="translated">OK</target>
       </trans-unit>
       <trans-unit id="dialogClose">
         <source xml:lang="en">Close Dialog</source>
-        <target xml:lang="pt-BR" state="needs-translation">Close Dialog</target>
+        <target xml:lang="pt-BR" state="translated">Fechar a caixa de diálogo</target>
       </trans-unit>
     </body>
   </file>
