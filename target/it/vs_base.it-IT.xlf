@@ -215,7 +215,7 @@ action keybinding</note>
       </trans-unit>
       <trans-unit id="error.valueExpected">
         <source xml:lang="en">Value expected</source>
-        <target xml:lang="it" state="needs-translation">Value expected</target>
+        <target xml:lang="it" state="translated">Valore previsto</target>
       </trans-unit>
       <trans-unit id="error.colonExpected">
         <source xml:lang="en">Colon expected</source>
@@ -243,7 +243,7 @@ action keybinding</note>
     <body>
       <trans-unit id="moreActions">
         <source xml:lang="en">More Actions...</source>
-        <target xml:lang="it" state="needs-translation">More Actions...</target>
+        <target xml:lang="it" state="translated">Altre azioni...</target>
       </trans-unit>
     </body>
   </file>
@@ -260,7 +260,7 @@ action keybinding</note>
       <trans-unit id="quickInput.visibleCount">
         <source xml:lang="en">{0} Results</source>
         <note>This tells the user how many items are shown in a list of items to select from. The items can be anything. Currently not visible, but read by screen readers.</note>
-        <target xml:lang="it" state="needs-translation">{0} Results</target>
+        <target xml:lang="it" state="translated">{0} risultati</target>
       </trans-unit>
     </body>
   </file>
@@ -268,7 +268,7 @@ action keybinding</note>
     <body>
       <trans-unit id="defaultLabel_Duplicated7">
         <source xml:lang="en">input</source>
-        <target xml:lang="it" state="needs-translation">input</target>
+        <target xml:lang="it" state="translated">input</target>
       </trans-unit>
     </body>
   </file>
@@ -276,7 +276,7 @@ action keybinding</note>
     <body>
       <trans-unit id="defaultLabel_Duplicated8">
         <source xml:lang="en">input</source>
-        <target xml:lang="it" state="needs-translation">input</target>
+        <target xml:lang="it" state="translated">input</target>
       </trans-unit>
       <trans-unit id="label.preserveCaseCheckbox">
         <source xml:lang="en">Preserve Case</source>
@@ -288,7 +288,7 @@ action keybinding</note>
     <body>
       <trans-unit id="collapse all_Duplicated6">
         <source xml:lang="en">Collapse All</source>
-        <target xml:lang="it" state="needs-translation">Collapse All</target>
+        <target xml:lang="it" state="translated">Comprimi tutto</target>
       </trans-unit>
     </body>
   </file>
