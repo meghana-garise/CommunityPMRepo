@@ -31,15 +31,15 @@
       </trans-unit>
       <trans-unit id="openingDocs">
         <source xml:lang="en">Now opening the Editor Accessibility documentation page.</source>
-        <target xml:lang="it" state="needs-translation">Now opening the Editor Accessibility documentation page.</target>
+        <target xml:lang="it" state="translated">Verrà ora aperta la pagina relativa alla documentazione di accessibilità dell'editor.</target>
       </trans-unit>
       <trans-unit id="readonlyDiffEditor">
         <source xml:lang="en"> in a read-only pane of a diff editor.</source>
-        <target xml:lang="it" state="needs-translation"> in a read-only pane of a diff editor.</target>
+        <target xml:lang="it" state="translated"> in un riquadro di sola lettura di un editor diff.</target>
       </trans-unit>
       <trans-unit id="editableDiffEditor">
         <source xml:lang="en"> in a pane of a diff editor.</source>
-        <target xml:lang="it" state="needs-translation"> in a pane of a diff editor.</target>
+        <target xml:lang="it" state="translated"> in un riquadro di un editor diff.</target>
       </trans-unit>
       <trans-unit id="readonlyEditor">
         <source xml:lang="en"> in a read-only code editor</source>
