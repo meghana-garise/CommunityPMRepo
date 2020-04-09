@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="httpConfigurationTitle">
         <source xml:lang="en">HTTP</source>
-        <target xml:lang="it" state="needs-translation">HTTP</target>
+        <target xml:lang="it" state="translated">HTTP</target>
       </trans-unit>
       <trans-unit id="proxy">
         <source xml:lang="en">The proxy setting to use. If not set, will be inherited from the `http_proxy` and `https_proxy` environment variables.</source>
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="none">
         <source xml:lang="en">Disable updates.</source>
-        <target xml:lang="it" state="needs-translation">Disable updates.</target>
+        <target xml:lang="it" state="translated">Disabilita gli aggiornamenti.</target>
       </trans-unit>
       <trans-unit id="manual">
         <source xml:lang="en">Disable automatic background update checks. Updates will be available if you manually check for updates.</source>
@@ -104,7 +104,7 @@
     <body>
       <trans-unit id="telemetryConfigurationTitle">
         <source xml:lang="en">Telemetry</source>
-        <target xml:lang="it" state="needs-translation">Telemetry</target>
+        <target xml:lang="it" state="translated">Telemetria</target>
       </trans-unit>
       <trans-unit id="telemetry.enableTelemetry">
         <source xml:lang="en">Enable usage data and errors to be sent to a Microsoft online service.</source>
@@ -140,7 +140,7 @@
       </trans-unit>
       <trans-unit id="sync.enable">
         <source xml:lang="en">Enable synchronization.</source>
-        <target xml:lang="it" state="needs-translation">Enable synchronization.</target>
+        <target xml:lang="it" state="translated">Abilita la sincronizzazione.</target>
       </trans-unit>
       <trans-unit id="sync.enableSettings">
         <source xml:lang="en">Enable synchronizing settings.</source>
@@ -194,7 +194,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="optionsUpperCase">
         <source xml:lang="en">Options</source>
-        <target xml:lang="it" state="needs-translation">Options</target>
+        <target xml:lang="it" state="translated">Opzioni</target>
       </trans-unit>
       <trans-unit id="extensionsManagement">
         <source xml:lang="en">Extensions Management</source>
@@ -326,11 +326,11 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="usage">
         <source xml:lang="en">Usage</source>
-        <target xml:lang="it" state="needs-translation">Usage</target>
+        <target xml:lang="it" state="translated">Utilizzo</target>
       </trans-unit>
       <trans-unit id="options">
         <source xml:lang="en">options</source>
-        <target xml:lang="it" state="needs-translation">options</target>
+        <target xml:lang="it" state="translated">opzioni</target>
       </trans-unit>
       <trans-unit id="paths">
         <source xml:lang="en">paths</source>
@@ -370,7 +370,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="unknownError">
         <source xml:lang="en">Unknown Error</source>
-        <target xml:lang="it" state="needs-translation">Unknown Error</target>
+        <target xml:lang="it" state="translated">Errore sconosciuto</target>
       </trans-unit>
     </body>
   </file>
@@ -378,15 +378,15 @@ Default Ignored Settings:
     <body>
       <trans-unit id="sev.error">
         <source xml:lang="en">Error</source>
-        <target xml:lang="it" state="needs-translation">Error</target>
+        <target xml:lang="it" state="translated">Errore</target>
       </trans-unit>
       <trans-unit id="sev.warning">
         <source xml:lang="en">Warning</source>
-        <target xml:lang="it" state="needs-translation">Warning</target>
+        <target xml:lang="it" state="translated">Avviso</target>
       </trans-unit>
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
-        <target xml:lang="it" state="needs-translation">Info</target>
+        <target xml:lang="it" state="translated">Info</target>
       </trans-unit>
     </body>
   </file>
@@ -394,11 +394,11 @@ Default Ignored Settings:
     <body>
       <trans-unit id="moreFile">
         <source xml:lang="en">...1 additional file not shown</source>
-        <target xml:lang="it" state="needs-translation">...1 additional file not shown</target>
+        <target xml:lang="it" state="translated">... 1 file aggiuntivo non visualizzato</target>
       </trans-unit>
       <trans-unit id="moreFiles">
         <source xml:lang="en">...{0} additional files not shown</source>
-        <target xml:lang="it" state="needs-translation">...{0} additional files not shown</target>
+        <target xml:lang="it" state="translated">...{0} file aggiuntivi non visualizzati</target>
       </trans-unit>
     </body>
   </file>
@@ -422,11 +422,11 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="moveError">
         <source xml:lang="en">Unable to move '{0}' into '{1}' ({2}).</source>
-        <target xml:lang="it" state="needs-translation">Unable to move '{0}' into '{1}' ({2}).</target>
+        <target xml:lang="it" state="translated">Non è possibile spostare '{0}' in '{1}' ({2}).</target>
       </trans-unit>
       <trans-unit id="copyError">
         <source xml:lang="en">Unable to copy '{0}' into '{1}' ({2}).</source>
-        <target xml:lang="it" state="needs-translation">Unable to copy '{0}' into '{1}' ({2}).</target>
+        <target xml:lang="it" state="translated">Non è possibile copiare '{0}' in '{1}' ({2}).</target>
       </trans-unit>
       <trans-unit id="fileCopyErrorPathCase">
         <source xml:lang="en">'File cannot be copied to same path with different path case</source>
@@ -1301,24 +1301,24 @@ Default Ignored Settings:
     <body>
       <trans-unit id="open">
         <source xml:lang="en">Open</source>
-        <target xml:lang="it" state="needs-translation">Open</target>
+        <target xml:lang="it" state="translated">Apri</target>
       </trans-unit>
       <trans-unit id="openFolder">
         <source xml:lang="en">Open Folder</source>
-        <target xml:lang="it" state="needs-translation">Open Folder</target>
+        <target xml:lang="it" state="translated">Apri cartella</target>
       </trans-unit>
       <trans-unit id="openFile">
         <source xml:lang="en">Open File</source>
-        <target xml:lang="it" state="needs-translation">Open File</target>
+        <target xml:lang="it" state="translated">Apri file</target>
       </trans-unit>
       <trans-unit id="openWorkspaceTitle">
         <source xml:lang="en">Open Workspace</source>
-        <target xml:lang="it" state="needs-translation">Open Workspace</target>
+        <target xml:lang="it" state="translated">Apri area di lavoro</target>
       </trans-unit>
       <trans-unit id="openWorkspace">
         <source xml:lang="en">&amp;&amp;Open</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="it" state="needs-translation">&amp;&amp;Open</target>
+        <target xml:lang="it" state="translated">&amp;&amp;Apri</target>
       </trans-unit>
     </body>
   </file>
@@ -1354,7 +1354,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="titleAndKb">
         <source xml:lang="en">{0} ({1})</source>
-        <target xml:lang="it" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="it" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
@@ -1362,7 +1362,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="ok_Duplicated12">
         <source xml:lang="en">OK</source>
-        <target xml:lang="it" state="needs-translation">OK</target>
+        <target xml:lang="it" state="translated">Ok</target>
       </trans-unit>
       <trans-unit id="workspaceOpenedMessage">
         <source xml:lang="en">Unable to save workspace '{0}'</source>
@@ -1378,11 +1378,11 @@ Default Ignored Settings:
     <body>
       <trans-unit id="newWindow_Duplicated7">
         <source xml:lang="en">New Window</source>
-        <target xml:lang="it" state="needs-translation">New Window</target>
+        <target xml:lang="it" state="translated">Nuova finestra</target>
       </trans-unit>
       <trans-unit id="newWindowDesc">
         <source xml:lang="en">Opens a new window</source>
-        <target xml:lang="it" state="needs-translation">Opens a new window</target>
+        <target xml:lang="it" state="translated">Apre una nuova finestra</target>
       </trans-unit>
       <trans-unit id="recentFolders">
         <source xml:lang="en">Recent Workspaces</source>
@@ -1474,27 +1474,27 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="comment">
         <source xml:lang="en">Style for comments.</source>
-        <target xml:lang="it" state="needs-translation">Style for comments.</target>
+        <target xml:lang="it" state="translated">Stile per i commenti.</target>
       </trans-unit>
       <trans-unit id="string">
         <source xml:lang="en">Style for strings.</source>
-        <target xml:lang="it" state="needs-translation">Style for strings.</target>
+        <target xml:lang="it" state="translated">Stile delle stringhe.</target>
       </trans-unit>
       <trans-unit id="keyword">
         <source xml:lang="en">Style for keywords.</source>
-        <target xml:lang="it" state="needs-translation">Style for keywords.</target>
+        <target xml:lang="it" state="translated">Stile delle parole chiave.</target>
       </trans-unit>
       <trans-unit id="number">
         <source xml:lang="en">Style for numbers.</source>
-        <target xml:lang="it" state="needs-translation">Style for numbers.</target>
+        <target xml:lang="it" state="translated">Stile per i numeri.</target>
       </trans-unit>
       <trans-unit id="regexp">
         <source xml:lang="en">Style for expressions.</source>
-        <target xml:lang="it" state="needs-translation">Style for expressions.</target>
+        <target xml:lang="it" state="translated">Stile per le espressioni.</target>
       </trans-unit>
       <trans-unit id="operator">
         <source xml:lang="en">Style for operators.</source>
-        <target xml:lang="it" state="needs-translation">Style for operators.</target>
+        <target xml:lang="it" state="translated">Stile per gli operatori.</target>
       </trans-unit>
       <trans-unit id="namespace">
         <source xml:lang="en">Style for namespaces.</source>
@@ -1502,23 +1502,23 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="type">
         <source xml:lang="en">Style for types.</source>
-        <target xml:lang="it" state="needs-translation">Style for types.</target>
+        <target xml:lang="it" state="translated">Stile per i tipi.</target>
       </trans-unit>
       <trans-unit id="struct">
         <source xml:lang="en">Style for structs.</source>
-        <target xml:lang="it" state="needs-translation">Style for structs.</target>
+        <target xml:lang="it" state="translated">Stile per le strutture.</target>
       </trans-unit>
       <trans-unit id="class">
         <source xml:lang="en">Style for classes.</source>
-        <target xml:lang="it" state="needs-translation">Style for classes.</target>
+        <target xml:lang="it" state="translated">Stile per le classi.</target>
       </trans-unit>
       <trans-unit id="interface">
         <source xml:lang="en">Style for interfaces.</source>
-        <target xml:lang="it" state="needs-translation">Style for interfaces.</target>
+        <target xml:lang="it" state="translated">Stile per le interfacce.</target>
       </trans-unit>
       <trans-unit id="enum">
         <source xml:lang="en">Style for enums.</source>
-        <target xml:lang="it" state="needs-translation">Style for enums.</target>
+        <target xml:lang="it" state="translated">Stile per le enumerazioni.</target>
       </trans-unit>
       <trans-unit id="typeParameter">
         <source xml:lang="en">Style for type parameters.</source>
@@ -1526,7 +1526,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="function">
         <source xml:lang="en">Style for functions</source>
-        <target xml:lang="it" state="needs-translation">Style for functions</target>
+        <target xml:lang="it" state="translated">Stile per le funzioni</target>
       </trans-unit>
       <trans-unit id="member">
         <source xml:lang="en">Style for member</source>
@@ -1534,27 +1534,27 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="macro">
         <source xml:lang="en">Style for macros.</source>
-        <target xml:lang="it" state="needs-translation">Style for macros.</target>
+        <target xml:lang="it" state="translated">Stile per le macro.</target>
       </trans-unit>
       <trans-unit id="variable">
         <source xml:lang="en">Style for variables.</source>
-        <target xml:lang="it" state="needs-translation">Style for variables.</target>
+        <target xml:lang="it" state="translated">Stile per le variabili.</target>
       </trans-unit>
       <trans-unit id="constant">
         <source xml:lang="en">Style for constants.</source>
-        <target xml:lang="it" state="needs-translation">Style for constants.</target>
+        <target xml:lang="it" state="translated">Stile per le costanti.</target>
       </trans-unit>
       <trans-unit id="parameter">
         <source xml:lang="en">Style for parameters.</source>
-        <target xml:lang="it" state="needs-translation">Style for parameters.</target>
+        <target xml:lang="it" state="translated">Stile per i parametri.</target>
       </trans-unit>
       <trans-unit id="property">
         <source xml:lang="en">Style for properties.</source>
-        <target xml:lang="it" state="needs-translation">Style for properties.</target>
+        <target xml:lang="it" state="translated">Stile per le proprietà.</target>
       </trans-unit>
       <trans-unit id="labels">
         <source xml:lang="en">Style for labels. </source>
-        <target xml:lang="it" state="needs-translation">Style for labels. </target>
+        <target xml:lang="it" state="translated">Stile per le etichette. </target>
       </trans-unit>
       <trans-unit id="declaration">
         <source xml:lang="en">Style for all symbol declarations.</source>
@@ -1600,12 +1600,12 @@ Default Ignored Settings:
       <trans-unit id="mFile">
         <source xml:lang="en">&amp;&amp;File</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="it" state="needs-translation">&amp;&amp;File</target>
+        <target xml:lang="it" state="translated">&amp;&amp;File</target>
       </trans-unit>
       <trans-unit id="mEdit">
         <source xml:lang="en">&amp;&amp;Edit</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="it" state="needs-translation">&amp;&amp;Edit</target>
+        <target xml:lang="it" state="translated">&amp;&amp;Modifica</target>
       </trans-unit>
       <trans-unit id="mSelection">
         <source xml:lang="en">&amp;&amp;Selection</source>
@@ -1625,7 +1625,7 @@ Default Ignored Settings:
       <trans-unit id="mDebug">
         <source xml:lang="en">&amp;&amp;Debug</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="it" state="needs-translation">&amp;&amp;Debug</target>
+        <target xml:lang="it" state="translated">&amp;&amp;Debug</target>
       </trans-unit>
       <trans-unit id="mTerminal">
         <source xml:lang="en">&amp;&amp;Terminal</source>
@@ -1634,7 +1634,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="mWindow">
         <source xml:lang="en">Window</source>
-        <target xml:lang="it" state="needs-translation">Window</target>
+        <target xml:lang="it" state="translated">Finestra</target>
       </trans-unit>
       <trans-unit id="mHelp">
         <source xml:lang="en">&amp;&amp;Help</source>
