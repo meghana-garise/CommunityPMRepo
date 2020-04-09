@@ -4,15 +4,15 @@
     <body>
       <trans-unit id="sev.error">
         <source xml:lang="en">Error</source>
-        <target xml:lang="pt-BR" state="needs-translation">Error</target>
+        <target xml:lang="pt-BR" state="translated">Erro</target>
       </trans-unit>
       <trans-unit id="sev.warning">
         <source xml:lang="en">Warning</source>
-        <target xml:lang="pt-BR" state="needs-translation">Warning</target>
+        <target xml:lang="pt-BR" state="translated">Aviso</target>
       </trans-unit>
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
-        <target xml:lang="pt-BR" state="needs-translation">Info</target>
+        <target xml:lang="pt-BR" state="translated">Info</target>
       </trans-unit>
     </body>
   </file>
@@ -20,19 +20,19 @@
     <body>
       <trans-unit id="stackTrace.format">
         <source xml:lang="en">{0}: {1}</source>
-        <target xml:lang="pt-BR" state="needs-translation">{0}: {1}</target>
+        <target xml:lang="pt-BR" state="translated">{0}: {1}</target>
       </trans-unit>
       <trans-unit id="nodeExceptionMessage">
         <source xml:lang="en">A system error occurred ({0})</source>
-        <target xml:lang="pt-BR" state="needs-translation">A system error occurred ({0})</target>
+        <target xml:lang="pt-BR" state="translated">Ocorreu um erro de sistema ({0})</target>
       </trans-unit>
       <trans-unit id="error.defaultMessage">
         <source xml:lang="en">An unknown error occurred. Please consult the log for more details.</source>
-        <target xml:lang="pt-BR" state="needs-translation">An unknown error occurred. Please consult the log for more details.</target>
+        <target xml:lang="pt-BR" state="translated">Ocorreu um erro desconhecido. Consulte o log para obter mais detalhes.</target>
       </trans-unit>
       <trans-unit id="error.moreErrors">
         <source xml:lang="en">{0} ({1} errors in total)</source>
-        <target xml:lang="pt-BR" state="needs-translation">{0} ({1} errors in total)</target>
+        <target xml:lang="pt-BR" state="translated">{0} ({1} erros no total)</target>
       </trans-unit>
     </body>
   </file>
@@ -40,15 +40,15 @@
     <body>
       <trans-unit id="invalid file">
         <source xml:lang="en">Error extracting {0}. Invalid file.</source>
-        <target xml:lang="pt-BR" state="needs-translation">Error extracting {0}. Invalid file.</target>
+        <target xml:lang="pt-BR" state="translated">Erro ao extrair {0}. Arquivo inválido.</target>
       </trans-unit>
       <trans-unit id="incompleteExtract">
         <source xml:lang="en">Incomplete. Found {0} of {1} entries</source>
-        <target xml:lang="pt-BR" state="needs-translation">Incomplete. Found {0} of {1} entries</target>
+        <target xml:lang="pt-BR" state="translated">Incompleto. Encontrado {0} de {1} entradas</target>
       </trans-unit>
       <trans-unit id="notFound">
         <source xml:lang="en">{0} not found inside zip.</source>
-        <target xml:lang="pt-BR" state="needs-translation">{0} not found inside zip.</target>
+        <target xml:lang="pt-BR" state="translated">{0} não encontrado dentro do zip.</target>
       </trans-unit>
     </body>
   </file>
