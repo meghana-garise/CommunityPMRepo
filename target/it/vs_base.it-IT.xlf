@@ -4,15 +4,15 @@
     <body>
       <trans-unit id="sev.error">
         <source xml:lang="en">Error</source>
-        <target xml:lang="it" state="needs-translation">Error</target>
+        <target xml:lang="it" state="translated">Errore</target>
       </trans-unit>
       <trans-unit id="sev.warning">
         <source xml:lang="en">Warning</source>
-        <target xml:lang="it" state="needs-translation">Warning</target>
+        <target xml:lang="it" state="translated">Avviso</target>
       </trans-unit>
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
-        <target xml:lang="it" state="needs-translation">Info</target>
+        <target xml:lang="it" state="translated">Info</target>
       </trans-unit>
     </body>
   </file>
@@ -20,11 +20,11 @@
     <body>
       <trans-unit id="stackTrace.format">
         <source xml:lang="en">{0}: {1}</source>
-        <target xml:lang="it" state="needs-translation">{0}: {1}</target>
+        <target xml:lang="it" state="translated">{0}: {1}</target>
       </trans-unit>
       <trans-unit id="nodeExceptionMessage">
         <source xml:lang="en">A system error occurred ({0})</source>
-        <target xml:lang="it" state="needs-translation">A system error occurred ({0})</target>
+        <target xml:lang="it" state="translated">Si è verificato un errore di sistema ({0})</target>
       </trans-unit>
       <trans-unit id="error.defaultMessage">
         <source xml:lang="en">An unknown error occurred. Please consult the log for more details.</source>
@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="error.moreErrors">
         <source xml:lang="en">{0} ({1} errors in total)</source>
-        <target xml:lang="it" state="needs-translation">{0} ({1} errors in total)</target>
+        <target xml:lang="it" state="translated">{0} ({1} errori in totale)</target>
       </trans-unit>
     </body>
   </file>
@@ -66,7 +66,7 @@
         <source xml:lang="en">{0} ({1})</source>
         <note>action title
 action keybinding</note>
-        <target xml:lang="it" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="it" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
@@ -82,7 +82,7 @@ action keybinding</note>
     <body>
       <trans-unit id="ok">
         <source xml:lang="en">OK</source>
-        <target xml:lang="it" state="needs-translation">OK</target>
+        <target xml:lang="it" state="translated">Ok</target>
       </trans-unit>
       <trans-unit id="dialogClose">
         <source xml:lang="en">Close Dialog</source>
@@ -107,22 +107,22 @@ action keybinding</note>
       <trans-unit id="ctrlKey">
         <source xml:lang="en">Ctrl</source>
         <note>This is the short form for the Control key on the keyboard</note>
-        <target xml:lang="it" state="needs-translation">Ctrl</target>
+        <target xml:lang="it" state="translated">Ctrl</target>
       </trans-unit>
       <trans-unit id="shiftKey">
         <source xml:lang="en">Shift</source>
         <note>This is the short form for the Shift key on the keyboard</note>
-        <target xml:lang="it" state="needs-translation">Shift</target>
+        <target xml:lang="it" state="translated">Maiusc</target>
       </trans-unit>
       <trans-unit id="altKey">
         <source xml:lang="en">Alt</source>
         <note>This is the short form for the Alt key on the keyboard</note>
-        <target xml:lang="it" state="needs-translation">Alt</target>
+        <target xml:lang="it" state="translated">Alt</target>
       </trans-unit>
       <trans-unit id="windowsKey">
         <source xml:lang="en">Windows</source>
         <note>This is the short form for the Windows key on the keyboard</note>
-        <target xml:lang="it" state="needs-translation">Windows</target>
+        <target xml:lang="it" state="translated">Windows</target>
       </trans-unit>
       <trans-unit id="superKey">
         <source xml:lang="en">Super</source>
@@ -137,12 +137,12 @@ action keybinding</note>
       <trans-unit id="shiftKey.long">
         <source xml:lang="en">Shift</source>
         <note>This is the long form for the Shift key on the keyboard</note>
-        <target xml:lang="it" state="needs-translation">Shift</target>
+        <target xml:lang="it" state="translated">Maiusc</target>
       </trans-unit>
       <trans-unit id="altKey.long">
         <source xml:lang="en">Alt</source>
         <note>This is the long form for the Alt key on the keyboard</note>
-        <target xml:lang="it" state="needs-translation">Alt</target>
+        <target xml:lang="it" state="translated">Alt</target>
       </trans-unit>
       <trans-unit id="cmdKey.long">
         <source xml:lang="en">Command</source>
@@ -152,7 +152,7 @@ action keybinding</note>
       <trans-unit id="windowsKey.long">
         <source xml:lang="en">Windows</source>
         <note>This is the long form for the Windows key on the keyboard</note>
-        <target xml:lang="it" state="needs-translation">Windows</target>
+        <target xml:lang="it" state="translated">Windows</target>
       </trans-unit>
       <trans-unit id="superKey.long">
         <source xml:lang="en">Super</source>
@@ -165,11 +165,11 @@ action keybinding</note>
     <body>
       <trans-unit id="repeated">
         <source xml:lang="en">{0} (occurred again)</source>
-        <target xml:lang="it" state="needs-translation">{0} (occurred again)</target>
+        <target xml:lang="it" state="translated">{0} (si è verificato di nuovo)</target>
       </trans-unit>
       <trans-unit id="repeatedNtimes">
         <source xml:lang="en">{0} (occurred {1} times)</source>
-        <target xml:lang="it" state="needs-translation">{0} (occurred {1} times)</target>
+        <target xml:lang="it" state="translated">{0} (si è verificato {1} volte)</target>
       </trans-unit>
     </body>
   </file>
@@ -179,7 +179,7 @@ action keybinding</note>
         <source xml:lang="en">{0} ({1})</source>
         <note>action title
 action keybinding</note>
-        <target xml:lang="it" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="it" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
@@ -187,7 +187,7 @@ action keybinding</note>
     <body>
       <trans-unit id="collapse all_Duplicated5">
         <source xml:lang="en">Collapse All</source>
-        <target xml:lang="it" state="needs-translation">Collapse All</target>
+        <target xml:lang="it" state="translated">Comprimi tutto</target>
       </trans-unit>
     </body>
   </file>
