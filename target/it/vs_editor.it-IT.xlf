@@ -4,23 +4,23 @@
     <body>
       <trans-unit id="noSelection">
         <source xml:lang="en">No selection</source>
-        <target xml:lang="it" state="needs-translation">No selection</target>
+        <target xml:lang="it" state="translated">Nessuna selezione</target>
       </trans-unit>
       <trans-unit id="singleSelectionRange">
         <source xml:lang="en">Line {0}, Column {1} ({2} selected)</source>
-        <target xml:lang="it" state="needs-translation">Line {0}, Column {1} ({2} selected)</target>
+        <target xml:lang="it" state="translated">Linea {0}, Colonna {1} ({2} selezionato)</target>
       </trans-unit>
       <trans-unit id="singleSelection">
         <source xml:lang="en">Line {0}, Column {1}</source>
-        <target xml:lang="it" state="needs-translation">Line {0}, Column {1}</target>
+        <target xml:lang="it" state="translated">Linea {0}, Colonna {1}</target>
       </trans-unit>
       <trans-unit id="multiSelectionRange">
         <source xml:lang="en">{0} selections ({1} characters selected)</source>
-        <target xml:lang="it" state="needs-translation">{0} selections ({1} characters selected)</target>
+        <target xml:lang="it" state="translated">{0} selezioni ({1} caratteri selezionati)</target>
       </trans-unit>
       <trans-unit id="multiSelection">
         <source xml:lang="en">{0} selections</source>
-        <target xml:lang="it" state="needs-translation">{0} selections</target>
+        <target xml:lang="it" state="translated">{0} selezioni</target>
       </trans-unit>
       <trans-unit id="emergencyConfOn">
         <source xml:lang="en">Now changing the setting `accessibilitySupport` to 'on'.</source>
@@ -165,47 +165,47 @@
       </trans-unit>
       <trans-unit id="symbols">
         <source xml:lang="en">symbols ({0})</source>
-        <target xml:lang="it" state="needs-translation">symbols ({0})</target>
+        <target xml:lang="it" state="translated">simboli ({0})</target>
       </trans-unit>
       <trans-unit id="modules">
         <source xml:lang="en">modules ({0})</source>
-        <target xml:lang="it" state="needs-translation">modules ({0})</target>
+        <target xml:lang="it" state="translated">moduli ({0})</target>
       </trans-unit>
       <trans-unit id="class">
         <source xml:lang="en">classes ({0})</source>
-        <target xml:lang="it" state="needs-translation">classes ({0})</target>
+        <target xml:lang="it" state="translated">classi ({0})</target>
       </trans-unit>
       <trans-unit id="interface">
         <source xml:lang="en">interfaces ({0})</source>
-        <target xml:lang="it" state="needs-translation">interfaces ({0})</target>
+        <target xml:lang="it" state="translated">interfacce ({0})</target>
       </trans-unit>
       <trans-unit id="method">
         <source xml:lang="en">methods ({0})</source>
-        <target xml:lang="it" state="needs-translation">methods ({0})</target>
+        <target xml:lang="it" state="translated">metodi ({0})</target>
       </trans-unit>
       <trans-unit id="function">
         <source xml:lang="en">functions ({0})</source>
-        <target xml:lang="it" state="needs-translation">functions ({0})</target>
+        <target xml:lang="it" state="translated">funzioni ({0})</target>
       </trans-unit>
       <trans-unit id="property">
         <source xml:lang="en">properties ({0})</source>
-        <target xml:lang="it" state="needs-translation">properties ({0})</target>
+        <target xml:lang="it" state="translated">proprietà ({0})</target>
       </trans-unit>
       <trans-unit id="variable">
         <source xml:lang="en">variables ({0})</source>
-        <target xml:lang="it" state="needs-translation">variables ({0})</target>
+        <target xml:lang="it" state="translated">variabili ({0})</target>
       </trans-unit>
       <trans-unit id="variable2">
         <source xml:lang="en">variables ({0})</source>
-        <target xml:lang="it" state="needs-translation">variables ({0})</target>
+        <target xml:lang="it" state="translated">variabili ({0})</target>
       </trans-unit>
       <trans-unit id="_constructor">
         <source xml:lang="en">constructors ({0})</source>
-        <target xml:lang="it" state="needs-translation">constructors ({0})</target>
+        <target xml:lang="it" state="translated">costruttori ({0})</target>
       </trans-unit>
       <trans-unit id="call">
         <source xml:lang="en">calls ({0})</source>
-        <target xml:lang="it" state="needs-translation">calls ({0})</target>
+        <target xml:lang="it" state="translated">chiamate ({0})</target>
       </trans-unit>
       <trans-unit id="editorViewAccessibleLabel_Duplicated1">
         <source xml:lang="en">Editor content</source>
@@ -213,11 +213,11 @@
       </trans-unit>
       <trans-unit id="accessibilityHelpMessageIE">
         <source xml:lang="en">Press Ctrl+F1 for Accessibility Options.</source>
-        <target xml:lang="it" state="needs-translation">Press Ctrl+F1 for Accessibility Options.</target>
+        <target xml:lang="it" state="translated">Premere Ctrl + F1 per le opzioni di accessibilità.</target>
       </trans-unit>
       <trans-unit id="accessibilityHelpMessage">
         <source xml:lang="en">Press Alt+F1 for Accessibility Options.</source>
-        <target xml:lang="it" state="needs-translation">Press Alt+F1 for Accessibility Options.</target>
+        <target xml:lang="it" state="translated">Premere Alt + F1 per le opzioni di accessibilità.</target>
       </trans-unit>
       <trans-unit id="toggleHighContrast">
         <source xml:lang="en">Toggle High Contrast Theme</source>
@@ -349,7 +349,7 @@
     <body>
       <trans-unit id="editorConfigurationTitle">
         <source xml:lang="en">Editor</source>
-        <target xml:lang="it" state="needs-translation">Editor</target>
+        <target xml:lang="it" state="translated">Editor</target>
       </trans-unit>
       <trans-unit id="tabSize">
         <source xml:lang="en">The number of spaces a tab is equal to. This setting is overridden based on the file contents when `#editor.detectIndentation#` is on.</source>
@@ -440,19 +440,19 @@
     <body>
       <trans-unit id="diff.clipboard.copyDeletedLinesContent.label">
         <source xml:lang="en">Copy deleted lines</source>
-        <target xml:lang="it" state="needs-translation">Copy deleted lines</target>
+        <target xml:lang="it" state="translated">Copia righe eliminate</target>
       </trans-unit>
       <trans-unit id="diff.clipboard.copyDeletedLinesContent.single.label">
         <source xml:lang="en">Copy deleted line</source>
-        <target xml:lang="it" state="needs-translation">Copy deleted line</target>
+        <target xml:lang="it" state="translated">Copia riga eliminata</target>
       </trans-unit>
       <trans-unit id="diff.clipboard.copyDeletedLineContent.label">
         <source xml:lang="en">Copy deleted line ({0})</source>
-        <target xml:lang="it" state="needs-translation">Copy deleted line ({0})</target>
+        <target xml:lang="it" state="translated">Copia riga eliminata ({0})</target>
       </trans-unit>
       <trans-unit id="diff.inline.revertChange.label">
         <source xml:lang="en">Revert this change</source>
-        <target xml:lang="it" state="needs-translation">Revert this change</target>
+        <target xml:lang="it" state="translated">Ripristina questa modifica</target>
       </trans-unit>
     </body>
   </file>
@@ -936,7 +936,7 @@
       </trans-unit>
       <trans-unit id="cursorStyle">
         <source xml:lang="en">Controls the cursor style.</source>
-        <target xml:lang="it" state="needs-translation">Controls the cursor style.</target>
+        <target xml:lang="it" state="translated">Controlla lo stile del cursore.</target>
       </trans-unit>
       <trans-unit id="cursorSurroundingLines">
         <source xml:lang="en">Controls the minimal number of visible leading and trailing lines surrounding the cursor. Known as 'scrollOff' or `scrollOffset` in some other editors.</source>
@@ -1281,15 +1281,15 @@
       </trans-unit>
       <trans-unit id="no_lines">
         <source xml:lang="en">no lines</source>
-        <target xml:lang="it" state="needs-translation">no lines</target>
+        <target xml:lang="it" state="translated">nessuna riga</target>
       </trans-unit>
       <trans-unit id="one_line">
         <source xml:lang="en">1 line</source>
-        <target xml:lang="it" state="needs-translation">1 line</target>
+        <target xml:lang="it" state="translated">1 riga</target>
       </trans-unit>
       <trans-unit id="more_lines">
         <source xml:lang="en">{0} lines</source>
-        <target xml:lang="it" state="needs-translation">{0} lines</target>
+        <target xml:lang="it" state="translated">{0} linee</target>
       </trans-unit>
       <trans-unit id="header">
         <source xml:lang="en">Difference {0} of {1}: original {2}, {3}, modified {4}, {5}</source>
