@@ -1713,11 +1713,11 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="ariaSearchNoResultEmpty">
         <source xml:lang="en">{0} found</source>
-        <target xml:lang="it" state="needs-translation">{0} found</target>
+        <target xml:lang="it" state="translated">{0} trovato</target>
       </trans-unit>
       <trans-unit id="ariaSearchNoResult">
         <source xml:lang="en">{0} found for {1}</source>
-        <target xml:lang="it" state="needs-translation">{0} found for {1}</target>
+        <target xml:lang="it" state="translated">{0} trovato per {1}</target>
       </trans-unit>
       <trans-unit id="ariaSearchNoResultWithLineNum">
         <source xml:lang="en">{0} found for {1} at {2}</source>
@@ -1725,7 +1725,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="ariaSearchNoResultWithLineNumNoCurrentMatch">
         <source xml:lang="en">{0} found for {1}</source>
-        <target xml:lang="it" state="needs-translation">{0} found for {1}</target>
+        <target xml:lang="it" state="translated">{0} trovato per {1}</target>
       </trans-unit>
       <trans-unit id="ctrlEnter.keybindingChanged">
         <source xml:lang="en">Ctrl+Enter now inserts line break instead of replacing all. You can modify the keybinding for editor.action.replaceAll to override this behavior.</source>
