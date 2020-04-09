@@ -4,15 +4,15 @@
     <body>
       <trans-unit id="sev.error">
         <source xml:lang="en">Error</source>
-        <target xml:lang="ja" state="needs-translation">Error</target>
+        <target xml:lang="ja" state="translated">エラー</target>
       </trans-unit>
       <trans-unit id="sev.warning">
         <source xml:lang="en">Warning</source>
-        <target xml:lang="ja" state="needs-translation">Warning</target>
+        <target xml:lang="ja" state="translated">警告</target>
       </trans-unit>
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
-        <target xml:lang="ja" state="needs-translation">Info</target>
+        <target xml:lang="ja" state="translated">情報</target>
       </trans-unit>
     </body>
   </file>
@@ -20,15 +20,15 @@
     <body>
       <trans-unit id="stackTrace.format">
         <source xml:lang="en">{0}: {1}</source>
-        <target xml:lang="ja" state="needs-translation">{0}: {1}</target>
+        <target xml:lang="ja" state="translated">{0}: {1}</target>
       </trans-unit>
       <trans-unit id="nodeExceptionMessage">
         <source xml:lang="en">A system error occurred ({0})</source>
-        <target xml:lang="ja" state="needs-translation">A system error occurred ({0})</target>
+        <target xml:lang="ja" state="translated">システムエラーが発生しました ({0})</target>
       </trans-unit>
       <trans-unit id="error.defaultMessage">
         <source xml:lang="en">An unknown error occurred. Please consult the log for more details.</source>
-        <target xml:lang="ja" state="needs-translation">An unknown error occurred. Please consult the log for more details.</target>
+        <target xml:lang="ja" state="translated">不明なエラーが発生しました。詳細については、ログを参照してください。</target>
       </trans-unit>
       <trans-unit id="error.moreErrors">
         <source xml:lang="en">{0} ({1} errors in total)</source>
