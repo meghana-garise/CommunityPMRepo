@@ -4,15 +4,15 @@
     <body>
       <trans-unit id="sev.error">
         <source xml:lang="en">Error</source>
-        <target xml:lang="zh-TW" state="needs-translation">Error</target>
+        <target xml:lang="zh-TW" state="translated">錯誤</target>
       </trans-unit>
       <trans-unit id="sev.warning">
         <source xml:lang="en">Warning</source>
-        <target xml:lang="zh-TW" state="needs-translation">Warning</target>
+        <target xml:lang="zh-TW" state="translated">警告</target>
       </trans-unit>
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
-        <target xml:lang="zh-TW" state="needs-translation">Info</target>
+        <target xml:lang="zh-TW" state="translated">資訊</target>
       </trans-unit>
     </body>
   </file>
@@ -20,11 +20,11 @@
     <body>
       <trans-unit id="stackTrace.format">
         <source xml:lang="en">{0}: {1}</source>
-        <target xml:lang="zh-TW" state="needs-translation">{0}: {1}</target>
+        <target xml:lang="zh-TW" state="translated">{0}: {1}</target>
       </trans-unit>
       <trans-unit id="nodeExceptionMessage">
         <source xml:lang="en">A system error occurred ({0})</source>
-        <target xml:lang="zh-TW" state="needs-translation">A system error occurred ({0})</target>
+        <target xml:lang="zh-TW" state="translated">發生系統錯誤 ({0})</target>
       </trans-unit>
       <trans-unit id="error.defaultMessage">
         <source xml:lang="en">An unknown error occurred. Please consult the log for more details.</source>
