@@ -13,6 +13,9 @@
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
         <target xml:lang="it" state="translated">Info</target>
+        <alt-trans>
+          <target xml:lang="it">Informazioni</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
@@ -28,7 +31,7 @@
       </trans-unit>
       <trans-unit id="error.defaultMessage">
         <source xml:lang="en">An unknown error occurred. Please consult the log for more details.</source>
-        <target xml:lang="it" state="needs-translation">An unknown error occurred. Please consult the log for more details.</target>
+        <target xml:lang="it" state="translated">Si è verificato un errore sconosciuto. Per ulteriori dettagli, consultare il log.</target>
       </trans-unit>
       <trans-unit id="error.moreErrors">
         <source xml:lang="en">{0} ({1} errors in total)</source>
@@ -44,11 +47,11 @@
       </trans-unit>
       <trans-unit id="incompleteExtract">
         <source xml:lang="en">Incomplete. Found {0} of {1} entries</source>
-        <target xml:lang="it" state="needs-translation">Incomplete. Found {0} of {1} entries</target>
+        <target xml:lang="it" state="translated">Incompleta. Trovate {0} di {1} voci</target>
       </trans-unit>
       <trans-unit id="notFound">
         <source xml:lang="en">{0} not found inside zip.</source>
-        <target xml:lang="it" state="needs-translation">{0} not found inside zip.</target>
+        <target xml:lang="it" state="translated">{0} non è stato trovato all'interno di zip.</target>
       </trans-unit>
     </body>
   </file>
@@ -56,7 +59,7 @@
     <body>
       <trans-unit id="TaskRunner.UNC">
         <source xml:lang="en">Can't execute a shell command on a UNC drive.</source>
-        <target xml:lang="it" state="needs-translation">Can't execute a shell command on a UNC drive.</target>
+        <target xml:lang="it" state="translated">Non è possibile eseguire un comando shell su un'unità UNC.</target>
       </trans-unit>
     </body>
   </file>
@@ -74,7 +77,7 @@ action keybinding</note>
     <body>
       <trans-unit id="unbound">
         <source xml:lang="en">Unbound</source>
-        <target xml:lang="it" state="needs-translation">Unbound</target>
+        <target xml:lang="it" state="translated">Non collegato</target>
       </trans-unit>
     </body>
   </file>
@@ -86,7 +89,7 @@ action keybinding</note>
       </trans-unit>
       <trans-unit id="dialogClose">
         <source xml:lang="en">Close Dialog</source>
-        <target xml:lang="it" state="needs-translation">Close Dialog</target>
+        <target xml:lang="it" state="translated">Chiudi finestra di dialogo</target>
       </trans-unit>
     </body>
   </file>
@@ -94,11 +97,11 @@ action keybinding</note>
     <body>
       <trans-unit id="quickOpenAriaLabelEntry">
         <source xml:lang="en">{0}, picker</source>
-        <target xml:lang="it" state="needs-translation">{0}, picker</target>
+        <target xml:lang="it" state="translated">{0}, selezione</target>
       </trans-unit>
       <trans-unit id="quickOpenAriaLabel_Duplicated3">
         <source xml:lang="en">picker</source>
-        <target xml:lang="it" state="needs-translation">picker</target>
+        <target xml:lang="it" state="translated">selettore</target>
       </trans-unit>
     </body>
   </file>
@@ -127,12 +130,12 @@ action keybinding</note>
       <trans-unit id="superKey">
         <source xml:lang="en">Super</source>
         <note>This is the short form for the Super key on the keyboard</note>
-        <target xml:lang="it" state="needs-translation">Super</target>
+        <target xml:lang="it" state="translated">Super</target>
       </trans-unit>
       <trans-unit id="ctrlKey.long">
         <source xml:lang="en">Control</source>
         <note>This is the long form for the Control key on the keyboard</note>
-        <target xml:lang="it" state="needs-translation">Control</target>
+        <target xml:lang="it" state="translated">Controllo</target>
       </trans-unit>
       <trans-unit id="shiftKey.long">
         <source xml:lang="en">Shift</source>
@@ -147,7 +150,7 @@ action keybinding</note>
       <trans-unit id="cmdKey.long">
         <source xml:lang="en">Command</source>
         <note>This is the long form for the Command key on the keyboard</note>
-        <target xml:lang="it" state="needs-translation">Command</target>
+        <target xml:lang="it" state="translated">Comando</target>
       </trans-unit>
       <trans-unit id="windowsKey.long">
         <source xml:lang="en">Windows</source>
@@ -157,7 +160,7 @@ action keybinding</note>
       <trans-unit id="superKey.long">
         <source xml:lang="en">Super</source>
         <note>This is the long form for the Super key on the keyboard</note>
-        <target xml:lang="it" state="needs-translation">Super</target>
+        <target xml:lang="it" state="translated">Super</target>
       </trans-unit>
     </body>
   </file>
@@ -195,7 +198,7 @@ action keybinding</note>
     <body>
       <trans-unit id="aria list">
         <source xml:lang="en">{0}. Use the navigation keys to navigate.</source>
-        <target xml:lang="it" state="needs-translation">{0}. Use the navigation keys to navigate.</target>
+        <target xml:lang="it" state="translated">{0}. Utilizzare i tasti freccia per muoversi.</target>
       </trans-unit>
     </body>
   </file>
@@ -211,7 +214,7 @@ action keybinding</note>
       </trans-unit>
       <trans-unit id="error.propertyNameExpected">
         <source xml:lang="en">Property name expected</source>
-        <target xml:lang="it" state="needs-translation">Property name expected</target>
+        <target xml:lang="it" state="translated">Il nome della proprietà è richiesto</target>
       </trans-unit>
       <trans-unit id="error.valueExpected">
         <source xml:lang="en">Value expected</source>
@@ -219,23 +222,23 @@ action keybinding</note>
       </trans-unit>
       <trans-unit id="error.colonExpected">
         <source xml:lang="en">Colon expected</source>
-        <target xml:lang="it" state="needs-translation">Colon expected</target>
+        <target xml:lang="it" state="translated">Punto e virgola richesto</target>
       </trans-unit>
       <trans-unit id="error.commaExpected">
         <source xml:lang="en">Comma expected</source>
-        <target xml:lang="it" state="needs-translation">Comma expected</target>
+        <target xml:lang="it" state="translated">Virgola richiesta</target>
       </trans-unit>
       <trans-unit id="error.closeBraceExpected">
         <source xml:lang="en">Closing brace expected</source>
-        <target xml:lang="it" state="needs-translation">Closing brace expected</target>
+        <target xml:lang="it" state="translated">Parentesi graffa di chiusura richiesta</target>
       </trans-unit>
       <trans-unit id="error.closeBracketExpected">
         <source xml:lang="en">Closing bracket expected</source>
-        <target xml:lang="it" state="needs-translation">Closing bracket expected</target>
+        <target xml:lang="it" state="translated">Parentesi quadra di chiusura richiesta</target>
       </trans-unit>
       <trans-unit id="error.endOfFileExpected">
         <source xml:lang="en">End of file expected</source>
-        <target xml:lang="it" state="needs-translation">End of file expected</target>
+        <target xml:lang="it" state="translated">È richiesta la fine del file</target>
       </trans-unit>
     </body>
   </file>
@@ -251,11 +254,11 @@ action keybinding</note>
     <body>
       <trans-unit id="quickOpenAriaLabel_Duplicated4">
         <source xml:lang="en">Quick picker. Type to narrow down results.</source>
-        <target xml:lang="it" state="needs-translation">Quick picker. Type to narrow down results.</target>
+        <target xml:lang="it" state="translated">Selezione rapida. Digitare per ridurre i risultati.</target>
       </trans-unit>
       <trans-unit id="treeAriaLabel">
         <source xml:lang="en">Quick Picker</source>
-        <target xml:lang="it" state="needs-translation">Quick Picker</target>
+        <target xml:lang="it" state="translated">Selezione rapida</target>
       </trans-unit>
       <trans-unit id="quickInput.visibleCount">
         <source xml:lang="en">{0} Results</source>
@@ -280,7 +283,7 @@ action keybinding</note>
       </trans-unit>
       <trans-unit id="label.preserveCaseCheckbox">
         <source xml:lang="en">Preserve Case</source>
-        <target xml:lang="it" state="needs-translation">Preserve Case</target>
+        <target xml:lang="it" state="translated">Mantieni il case</target>
       </trans-unit>
     </body>
   </file>
@@ -312,11 +315,11 @@ action keybinding</note>
     <body>
       <trans-unit id="caseDescription">
         <source xml:lang="en">Match Case</source>
-        <target xml:lang="it" state="needs-translation">Match Case</target>
+        <target xml:lang="it" state="translated">Controlla il case</target>
       </trans-unit>
       <trans-unit id="wordsDescription">
         <source xml:lang="en">Match Whole Word</source>
-        <target xml:lang="it" state="needs-translation">Match Whole Word</target>
+        <target xml:lang="it" state="translated">Controlla parola intera</target>
       </trans-unit>
       <trans-unit id="regexDescription">
         <source xml:lang="en">Use Regular Expression</source>
@@ -328,7 +331,7 @@ action keybinding</note>
     <body>
       <trans-unit id="clear">
         <source xml:lang="en">Clear</source>
-        <target xml:lang="it" state="needs-translation">Clear</target>
+        <target xml:lang="it" state="translated">Cancella</target>
       </trans-unit>
       <trans-unit id="disable filter on type">
         <source xml:lang="en">Disable Filter on Type</source>
@@ -344,7 +347,7 @@ action keybinding</note>
       </trans-unit>
       <trans-unit id="found">
         <source xml:lang="en">Matched {0} out of {1} elements</source>
-        <target xml:lang="it" state="needs-translation">Matched {0} out of {1} elements</target>
+        <target xml:lang="it" state="translated">{0} elementi corrispondenti su {1}</target>
       </trans-unit>
     </body>
   </file>
@@ -352,11 +355,11 @@ action keybinding</note>
     <body>
       <trans-unit id="mAppMenu">
         <source xml:lang="en">Application Menu</source>
-        <target xml:lang="it" state="needs-translation">Application Menu</target>
+        <target xml:lang="it" state="translated">Menu applicazione</target>
       </trans-unit>
       <trans-unit id="mMore">
         <source xml:lang="en">More</source>
-        <target xml:lang="it" state="needs-translation">More</target>
+        <target xml:lang="it" state="translated">Più</target>
       </trans-unit>
     </body>
   </file>
