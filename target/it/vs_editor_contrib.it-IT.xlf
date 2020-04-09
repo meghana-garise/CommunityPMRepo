@@ -115,30 +115,30 @@
     <body>
       <trans-unit id="actions.clipboard.cutLabel">
         <source xml:lang="en">Cut</source>
-        <target xml:lang="it" state="needs-translation">Cut</target>
+        <target xml:lang="it" state="translated">Taglia</target>
       </trans-unit>
       <trans-unit id="miCut">
         <source xml:lang="en">Cu&amp;&amp;t</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="it" state="needs-translation">Cu&amp;&amp;t</target>
+        <target xml:lang="it" state="translated">Cu&amp;&amp;t</target>
       </trans-unit>
       <trans-unit id="actions.clipboard.copyLabel">
         <source xml:lang="en">Copy</source>
-        <target xml:lang="it" state="needs-translation">Copy</target>
+        <target xml:lang="it" state="translated">Copia</target>
       </trans-unit>
       <trans-unit id="miCopy">
         <source xml:lang="en">&amp;&amp;Copy</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="it" state="needs-translation">&amp;&amp;Copy</target>
+        <target xml:lang="it" state="translated">&amp;&amp;Copia</target>
       </trans-unit>
       <trans-unit id="actions.clipboard.pasteLabel">
         <source xml:lang="en">Paste</source>
-        <target xml:lang="it" state="needs-translation">Paste</target>
+        <target xml:lang="it" state="translated">Incolla</target>
       </trans-unit>
       <trans-unit id="miPaste">
         <source xml:lang="en">&amp;&amp;Paste</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="it" state="needs-translation">&amp;&amp;Paste</target>
+        <target xml:lang="it" state="translated">&amp;&amp;Incolla</target>
       </trans-unit>
       <trans-unit id="actions.clipboard.copyWithSyntaxHighlightingLabel">
         <source xml:lang="en">Copy With Syntax Highlighting</source>
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="label_Duplicated1">
         <source xml:lang="en">Open Link</source>
-        <target xml:lang="it" state="needs-translation">Open Link</target>
+        <target xml:lang="it" state="translated">Apri collegamento</target>
       </trans-unit>
     </body>
   </file>
@@ -243,7 +243,7 @@
     <body>
       <trans-unit id="no result">
         <source xml:lang="en">No result.</source>
-        <target xml:lang="it" state="needs-translation">No result.</target>
+        <target xml:lang="it" state="translated">Nessun risultato.</target>
       </trans-unit>
       <trans-unit id="resolveRenameLocationFailed">
         <source xml:lang="en">An unknown error occurred while resolving rename location</source>
@@ -431,7 +431,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="def.title">
         <source xml:lang="en">Definitions</source>
-        <target xml:lang="it" state="needs-translation">Definitions</target>
+        <target xml:lang="it" state="translated">Definizioni</target>
       </trans-unit>
       <trans-unit id="noResultWord">
         <source xml:lang="en">No definition found for '{0}'</source>
@@ -510,7 +510,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="impl.title">
         <source xml:lang="en">Implementations</source>
-        <target xml:lang="it" state="needs-translation">Implementations</target>
+        <target xml:lang="it" state="translated">Implementazioni</target>
       </trans-unit>
       <trans-unit id="goToImplementation.noResultWord">
         <source xml:lang="en">No implementation found for '{0}'</source>
@@ -522,7 +522,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="actions.goToImplementation.label">
         <source xml:lang="en">Go to Implementations</source>
-        <target xml:lang="it" state="needs-translation">Go to Implementations</target>
+        <target xml:lang="it" state="translated">Passa alle implementazioni</target>
       </trans-unit>
       <trans-unit id="miGotoImplementation">
         <source xml:lang="en">Go to &amp;&amp;Implementations</source>
@@ -568,7 +568,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="generic.noResult">
         <source xml:lang="en">No results for '{0}'</source>
-        <target xml:lang="it" state="needs-translation">No results for '{0}'</target>
+        <target xml:lang="it" state="translated">Nessun risultato per '{0}'</target>
       </trans-unit>
     </body>
   </file>
@@ -1005,7 +1005,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="fixAll.label">
         <source xml:lang="en">Fix All</source>
-        <target xml:lang="it" state="needs-translation">Fix All</target>
+        <target xml:lang="it" state="translated">Correggi tutto</target>
       </trans-unit>
       <trans-unit id="fixAll.noneMessage">
         <source xml:lang="en">No fix all action available</source>
@@ -1065,155 +1065,155 @@ This allows for users to show the definition preview hover without using the mou
     <body>
       <trans-unit id="Sunday">
         <source xml:lang="en">Sunday</source>
-        <target xml:lang="it" state="needs-translation">Sunday</target>
+        <target xml:lang="it" state="translated">Domenica</target>
       </trans-unit>
       <trans-unit id="Monday">
         <source xml:lang="en">Monday</source>
-        <target xml:lang="it" state="needs-translation">Monday</target>
+        <target xml:lang="it" state="translated">Lunedì</target>
       </trans-unit>
       <trans-unit id="Tuesday">
         <source xml:lang="en">Tuesday</source>
-        <target xml:lang="it" state="needs-translation">Tuesday</target>
+        <target xml:lang="it" state="translated">Martedì</target>
       </trans-unit>
       <trans-unit id="Wednesday">
         <source xml:lang="en">Wednesday</source>
-        <target xml:lang="it" state="needs-translation">Wednesday</target>
+        <target xml:lang="it" state="translated">Mercoledì</target>
       </trans-unit>
       <trans-unit id="Thursday">
         <source xml:lang="en">Thursday</source>
-        <target xml:lang="it" state="needs-translation">Thursday</target>
+        <target xml:lang="it" state="translated">Giovedì</target>
       </trans-unit>
       <trans-unit id="Friday">
         <source xml:lang="en">Friday</source>
-        <target xml:lang="it" state="needs-translation">Friday</target>
+        <target xml:lang="it" state="translated">Venerdì</target>
       </trans-unit>
       <trans-unit id="Saturday">
         <source xml:lang="en">Saturday</source>
-        <target xml:lang="it" state="needs-translation">Saturday</target>
+        <target xml:lang="it" state="translated">Sabato</target>
       </trans-unit>
       <trans-unit id="SundayShort">
         <source xml:lang="en">Sun</source>
-        <target xml:lang="it" state="needs-translation">Sun</target>
+        <target xml:lang="it" state="translated">Dom</target>
       </trans-unit>
       <trans-unit id="MondayShort">
         <source xml:lang="en">Mon</source>
-        <target xml:lang="it" state="needs-translation">Mon</target>
+        <target xml:lang="it" state="translated">Lun</target>
       </trans-unit>
       <trans-unit id="TuesdayShort">
         <source xml:lang="en">Tue</source>
-        <target xml:lang="it" state="needs-translation">Tue</target>
+        <target xml:lang="it" state="translated">Mar</target>
       </trans-unit>
       <trans-unit id="WednesdayShort">
         <source xml:lang="en">Wed</source>
-        <target xml:lang="it" state="needs-translation">Wed</target>
+        <target xml:lang="it" state="translated">Mer</target>
       </trans-unit>
       <trans-unit id="ThursdayShort">
         <source xml:lang="en">Thu</source>
-        <target xml:lang="it" state="needs-translation">Thu</target>
+        <target xml:lang="it" state="translated">Gio</target>
       </trans-unit>
       <trans-unit id="FridayShort">
         <source xml:lang="en">Fri</source>
-        <target xml:lang="it" state="needs-translation">Fri</target>
+        <target xml:lang="it" state="translated">Ven</target>
       </trans-unit>
       <trans-unit id="SaturdayShort">
         <source xml:lang="en">Sat</source>
-        <target xml:lang="it" state="needs-translation">Sat</target>
+        <target xml:lang="it" state="translated">Sat</target>
       </trans-unit>
       <trans-unit id="January">
         <source xml:lang="en">January</source>
-        <target xml:lang="it" state="needs-translation">January</target>
+        <target xml:lang="it" state="translated">Gennaio</target>
       </trans-unit>
       <trans-unit id="February">
         <source xml:lang="en">February</source>
-        <target xml:lang="it" state="needs-translation">February</target>
+        <target xml:lang="it" state="translated">Febbraio</target>
       </trans-unit>
       <trans-unit id="March">
         <source xml:lang="en">March</source>
-        <target xml:lang="it" state="needs-translation">March</target>
+        <target xml:lang="it" state="translated">Marzo</target>
       </trans-unit>
       <trans-unit id="April">
         <source xml:lang="en">April</source>
-        <target xml:lang="it" state="needs-translation">April</target>
+        <target xml:lang="it" state="translated">Aprile</target>
       </trans-unit>
       <trans-unit id="May">
         <source xml:lang="en">May</source>
-        <target xml:lang="it" state="needs-translation">May</target>
+        <target xml:lang="it" state="translated">Può</target>
       </trans-unit>
       <trans-unit id="June">
         <source xml:lang="en">June</source>
-        <target xml:lang="it" state="needs-translation">June</target>
+        <target xml:lang="it" state="translated">Giugno</target>
       </trans-unit>
       <trans-unit id="July">
         <source xml:lang="en">July</source>
-        <target xml:lang="it" state="needs-translation">July</target>
+        <target xml:lang="it" state="translated">Luglio</target>
       </trans-unit>
       <trans-unit id="August">
         <source xml:lang="en">August</source>
-        <target xml:lang="it" state="needs-translation">August</target>
+        <target xml:lang="it" state="translated">Agosto</target>
       </trans-unit>
       <trans-unit id="September">
         <source xml:lang="en">September</source>
-        <target xml:lang="it" state="needs-translation">September</target>
+        <target xml:lang="it" state="translated">Settembre</target>
       </trans-unit>
       <trans-unit id="October">
         <source xml:lang="en">October</source>
-        <target xml:lang="it" state="needs-translation">October</target>
+        <target xml:lang="it" state="translated">Ottobre</target>
       </trans-unit>
       <trans-unit id="November">
         <source xml:lang="en">November</source>
-        <target xml:lang="it" state="needs-translation">November</target>
+        <target xml:lang="it" state="translated">Novembre</target>
       </trans-unit>
       <trans-unit id="December">
         <source xml:lang="en">December</source>
-        <target xml:lang="it" state="needs-translation">December</target>
+        <target xml:lang="it" state="translated">Dicembre</target>
       </trans-unit>
       <trans-unit id="JanuaryShort">
         <source xml:lang="en">Jan</source>
-        <target xml:lang="it" state="needs-translation">Jan</target>
+        <target xml:lang="it" state="translated">Gen</target>
       </trans-unit>
       <trans-unit id="FebruaryShort">
         <source xml:lang="en">Feb</source>
-        <target xml:lang="it" state="needs-translation">Feb</target>
+        <target xml:lang="it" state="translated">Feb</target>
       </trans-unit>
       <trans-unit id="MarchShort">
         <source xml:lang="en">Mar</source>
-        <target xml:lang="it" state="needs-translation">Mar</target>
+        <target xml:lang="it" state="translated">Mar</target>
       </trans-unit>
       <trans-unit id="AprilShort">
         <source xml:lang="en">Apr</source>
-        <target xml:lang="it" state="needs-translation">Apr</target>
+        <target xml:lang="it" state="translated">Apr</target>
       </trans-unit>
       <trans-unit id="MayShort">
         <source xml:lang="en">May</source>
-        <target xml:lang="it" state="needs-translation">May</target>
+        <target xml:lang="it" state="translated">Mag</target>
       </trans-unit>
       <trans-unit id="JuneShort">
         <source xml:lang="en">Jun</source>
-        <target xml:lang="it" state="needs-translation">Jun</target>
+        <target xml:lang="it" state="translated">Giu</target>
       </trans-unit>
       <trans-unit id="JulyShort">
         <source xml:lang="en">Jul</source>
-        <target xml:lang="it" state="needs-translation">Jul</target>
+        <target xml:lang="it" state="translated">Lug</target>
       </trans-unit>
       <trans-unit id="AugustShort">
         <source xml:lang="en">Aug</source>
-        <target xml:lang="it" state="needs-translation">Aug</target>
+        <target xml:lang="it" state="translated">Ago</target>
       </trans-unit>
       <trans-unit id="SeptemberShort">
         <source xml:lang="en">Sep</source>
-        <target xml:lang="it" state="needs-translation">Sep</target>
+        <target xml:lang="it" state="translated">Set</target>
       </trans-unit>
       <trans-unit id="OctoberShort">
         <source xml:lang="en">Oct</source>
-        <target xml:lang="it" state="needs-translation">Oct</target>
+        <target xml:lang="it" state="translated">Ott</target>
       </trans-unit>
       <trans-unit id="NovemberShort">
         <source xml:lang="en">Nov</source>
-        <target xml:lang="it" state="needs-translation">Nov</target>
+        <target xml:lang="it" state="translated">Nov</target>
       </trans-unit>
       <trans-unit id="DecemberShort">
         <source xml:lang="en">Dec</source>
-        <target xml:lang="it" state="needs-translation">Dec</target>
+        <target xml:lang="it" state="translated">Dic</target>
       </trans-unit>
     </body>
   </file>
@@ -1221,11 +1221,11 @@ This allows for users to show the definition preview hover without using the mou
     <body>
       <trans-unit id="labelLoading">
         <source xml:lang="en">Loading...</source>
-        <target xml:lang="it" state="needs-translation">Loading...</target>
+        <target xml:lang="it" state="translated">Caricamento in corso...</target>
       </trans-unit>
       <trans-unit id="metaTitle.N">
         <source xml:lang="en">{0} ({1})</source>
-        <target xml:lang="it" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="it" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
@@ -1233,11 +1233,11 @@ This allows for users to show the definition preview hover without using the mou
     <body>
       <trans-unit id="problems">
         <source xml:lang="en">{0} of {1} problems</source>
-        <target xml:lang="it" state="needs-translation">{0} of {1} problems</target>
+        <target xml:lang="it" state="translated">{0} di {1} problemi</target>
       </trans-unit>
       <trans-unit id="change">
         <source xml:lang="en">{0} of {1} problem</source>
-        <target xml:lang="it" state="needs-translation">{0} of {1} problem</target>
+        <target xml:lang="it" state="translated">{0} di {1} problema</target>
       </trans-unit>
       <trans-unit id="editorMarkerNavigationError">
         <source xml:lang="en">Editor marker navigation widget error color.</source>
@@ -1273,7 +1273,7 @@ This allows for users to show the definition preview hover without using the mou
     <body>
       <trans-unit id="modesContentHover.loading">
         <source xml:lang="en">Loading...</source>
-        <target xml:lang="it" state="needs-translation">Loading...</target>
+        <target xml:lang="it" state="translated">Caricamento in corso...</target>
       </trans-unit>
       <trans-unit id="peek problem">
         <source xml:lang="en">Peek Problem</source>
@@ -1309,7 +1309,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="aria.result.0">
         <source xml:lang="en">No results found</source>
-        <target xml:lang="it" state="needs-translation">No results found</target>
+        <target xml:lang="it" state="translated">Nessun risultato trovato</target>
       </trans-unit>
       <trans-unit id="aria.result.1">
         <source xml:lang="en">Found 1 symbol in {0}</source>
@@ -1333,19 +1333,19 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="title.template">
         <source xml:lang="en">{0} ({1})</source>
-        <target xml:lang="it" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="it" state="translated">{0} ({1})</target>
       </trans-unit>
       <trans-unit id="1.problem">
         <source xml:lang="en">1 problem in this element</source>
-        <target xml:lang="it" state="needs-translation">1 problem in this element</target>
+        <target xml:lang="it" state="translated">1 problema in questo elemento</target>
       </trans-unit>
       <trans-unit id="N.problem">
         <source xml:lang="en">{0} problems in this element</source>
-        <target xml:lang="it" state="needs-translation">{0} problems in this element</target>
+        <target xml:lang="it" state="translated">{0} problemi in questo elemento</target>
       </trans-unit>
       <trans-unit id="deep.problem">
         <source xml:lang="en">Contains elements with problems</source>
-        <target xml:lang="it" state="needs-translation">Contains elements with problems</target>
+        <target xml:lang="it" state="translated">Contiene elementi con problemi</target>
       </trans-unit>
       <trans-unit id="Array">
         <source xml:lang="en">array</source>
@@ -1357,55 +1357,55 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="Class">
         <source xml:lang="en">class</source>
-        <target xml:lang="it" state="needs-translation">class</target>
+        <target xml:lang="it" state="translated">classe</target>
       </trans-unit>
       <trans-unit id="Constant">
         <source xml:lang="en">constant</source>
-        <target xml:lang="it" state="needs-translation">constant</target>
+        <target xml:lang="it" state="translated">costante</target>
       </trans-unit>
       <trans-unit id="Constructor">
         <source xml:lang="en">constructor</source>
-        <target xml:lang="it" state="needs-translation">constructor</target>
+        <target xml:lang="it" state="translated">costruttore</target>
       </trans-unit>
       <trans-unit id="Enum">
         <source xml:lang="en">enumeration</source>
-        <target xml:lang="it" state="needs-translation">enumeration</target>
+        <target xml:lang="it" state="translated">enumerazione</target>
       </trans-unit>
       <trans-unit id="EnumMember">
         <source xml:lang="en">enumeration member</source>
-        <target xml:lang="it" state="needs-translation">enumeration member</target>
+        <target xml:lang="it" state="translated">membro di enumerazione</target>
       </trans-unit>
       <trans-unit id="Event">
         <source xml:lang="en">event</source>
-        <target xml:lang="it" state="needs-translation">event</target>
+        <target xml:lang="it" state="translated">evento</target>
       </trans-unit>
       <trans-unit id="Field">
         <source xml:lang="en">field</source>
-        <target xml:lang="it" state="needs-translation">field</target>
+        <target xml:lang="it" state="translated">campo</target>
       </trans-unit>
       <trans-unit id="File">
         <source xml:lang="en">file</source>
-        <target xml:lang="it" state="needs-translation">file</target>
+        <target xml:lang="it" state="translated">file</target>
       </trans-unit>
       <trans-unit id="Function">
         <source xml:lang="en">function</source>
-        <target xml:lang="it" state="needs-translation">function</target>
+        <target xml:lang="it" state="translated">funzione</target>
       </trans-unit>
       <trans-unit id="Interface">
         <source xml:lang="en">interface</source>
-        <target xml:lang="it" state="needs-translation">interface</target>
+        <target xml:lang="it" state="translated">interfaccia</target>
       </trans-unit>
       <trans-unit id="Key">
         <source xml:lang="en">key</source>
-        <target xml:lang="it" state="needs-translation">key</target>
+        <target xml:lang="it" state="translated">chiave</target>
       </trans-unit>
       <trans-unit id="Method">
         <source xml:lang="en">method</source>
-        <target xml:lang="it" state="needs-translation">method</target>
+        <target xml:lang="it" state="translated">metodo</target>
       </trans-unit>
       <trans-unit id="Module">
         <source xml:lang="en">module</source>
-        <target xml:lang="it" state="needs-translation">module</target>
+        <target xml:lang="it" state="translated">modulo</target>
       </trans-unit>
       <trans-unit id="Namespace">
         <source xml:lang="en">namespace</source>
@@ -1413,35 +1413,35 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="Null">
         <source xml:lang="en">null</source>
-        <target xml:lang="it" state="needs-translation">null</target>
+        <target xml:lang="it" state="translated">null</target>
       </trans-unit>
       <trans-unit id="Number">
         <source xml:lang="en">number</source>
-        <target xml:lang="it" state="needs-translation">number</target>
+        <target xml:lang="it" state="translated">numero</target>
       </trans-unit>
       <trans-unit id="Object">
         <source xml:lang="en">object</source>
-        <target xml:lang="it" state="needs-translation">object</target>
+        <target xml:lang="it" state="translated">oggetto</target>
       </trans-unit>
       <trans-unit id="Operator">
         <source xml:lang="en">operator</source>
-        <target xml:lang="it" state="needs-translation">operator</target>
+        <target xml:lang="it" state="translated">operatore</target>
       </trans-unit>
       <trans-unit id="Package">
         <source xml:lang="en">package</source>
-        <target xml:lang="it" state="needs-translation">package</target>
+        <target xml:lang="it" state="translated">pacchetto</target>
       </trans-unit>
       <trans-unit id="Property">
         <source xml:lang="en">property</source>
-        <target xml:lang="it" state="needs-translation">property</target>
+        <target xml:lang="it" state="translated">proprietà</target>
       </trans-unit>
       <trans-unit id="String">
         <source xml:lang="en">string</source>
-        <target xml:lang="it" state="needs-translation">string</target>
+        <target xml:lang="it" state="translated">stringa</target>
       </trans-unit>
       <trans-unit id="Struct">
         <source xml:lang="en">struct</source>
-        <target xml:lang="it" state="needs-translation">struct</target>
+        <target xml:lang="it" state="translated">struttura</target>
       </trans-unit>
       <trans-unit id="TypeParameter">
         <source xml:lang="en">type parameter</source>
@@ -1449,7 +1449,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="Variable">
         <source xml:lang="en">variable</source>
-        <target xml:lang="it" state="needs-translation">variable</target>
+        <target xml:lang="it" state="translated">variabile</target>
       </trans-unit>
       <trans-unit id="symbolIcon.arrayForeground">
         <source xml:lang="en">The foreground color for array symbols. These symbols appear in the outline, breadcrumb, and suggest widget.</source>
@@ -1617,15 +1617,15 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="loading">
         <source xml:lang="en">Loading...</source>
-        <target xml:lang="it" state="needs-translation">Loading...</target>
+        <target xml:lang="it" state="translated">Caricamento in corso...</target>
       </trans-unit>
       <trans-unit id="suggestWidget.loading">
         <source xml:lang="en">Loading...</source>
-        <target xml:lang="it" state="needs-translation">Loading...</target>
+        <target xml:lang="it" state="translated">Caricamento in corso...</target>
       </trans-unit>
       <trans-unit id="suggestWidget.noSuggestions">
         <source xml:lang="en">No suggestions.</source>
-        <target xml:lang="it" state="needs-translation">No suggestions.</target>
+        <target xml:lang="it" state="translated">Nessun suggerimento.</target>
       </trans-unit>
       <trans-unit id="ariaCurrenttSuggestionReadDetails">
         <source xml:lang="en">Item {0}, docs: {1}</source>
@@ -1637,7 +1637,7 @@ This allows for users to show the definition preview hover without using the mou
     <body>
       <trans-unit id="missingPreviewMessage">
         <source xml:lang="en">no preview available</source>
-        <target xml:lang="it" state="needs-translation">no preview available</target>
+        <target xml:lang="it" state="translated">nessuna anteprima disponibile</target>
       </trans-unit>
       <trans-unit id="treeAriaLabel">
         <source xml:lang="en">References</source>
