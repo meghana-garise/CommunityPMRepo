@@ -82,11 +82,11 @@ action keybinding</note>
     <body>
       <trans-unit id="ok">
         <source xml:lang="en">OK</source>
-        <target xml:lang="zh-TW" state="needs-translation">OK</target>
+        <target xml:lang="zh-TW" state="translated">確定</target>
       </trans-unit>
       <trans-unit id="dialogClose">
         <source xml:lang="en">Close Dialog</source>
-        <target xml:lang="zh-TW" state="needs-translation">Close Dialog</target>
+        <target xml:lang="zh-TW" state="translated">關閉對話框</target>
       </trans-unit>
     </body>
   </file>
