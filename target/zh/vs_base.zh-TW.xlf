@@ -66,7 +66,7 @@
         <source xml:lang="en">{0} ({1})</source>
         <note>action title
 action keybinding</note>
-        <target xml:lang="zh-TW" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="zh-TW" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
@@ -107,22 +107,22 @@ action keybinding</note>
       <trans-unit id="ctrlKey">
         <source xml:lang="en">Ctrl</source>
         <note>This is the short form for the Control key on the keyboard</note>
-        <target xml:lang="zh-TW" state="needs-translation">Ctrl</target>
+        <target xml:lang="zh-TW" state="translated">Ctrl</target>
       </trans-unit>
       <trans-unit id="shiftKey">
         <source xml:lang="en">Shift</source>
         <note>This is the short form for the Shift key on the keyboard</note>
-        <target xml:lang="zh-TW" state="needs-translation">Shift</target>
+        <target xml:lang="zh-TW" state="translated">Shift</target>
       </trans-unit>
       <trans-unit id="altKey">
         <source xml:lang="en">Alt</source>
         <note>This is the short form for the Alt key on the keyboard</note>
-        <target xml:lang="zh-TW" state="needs-translation">Alt</target>
+        <target xml:lang="zh-TW" state="translated">Alt</target>
       </trans-unit>
       <trans-unit id="windowsKey">
         <source xml:lang="en">Windows</source>
         <note>This is the short form for the Windows key on the keyboard</note>
-        <target xml:lang="zh-TW" state="needs-translation">Windows</target>
+        <target xml:lang="zh-TW" state="translated">Windows</target>
       </trans-unit>
       <trans-unit id="superKey">
         <source xml:lang="en">Super</source>
@@ -132,17 +132,17 @@ action keybinding</note>
       <trans-unit id="ctrlKey.long">
         <source xml:lang="en">Control</source>
         <note>This is the long form for the Control key on the keyboard</note>
-        <target xml:lang="zh-TW" state="needs-translation">Control</target>
+        <target xml:lang="zh-TW" state="translated">Control</target>
       </trans-unit>
       <trans-unit id="shiftKey.long">
         <source xml:lang="en">Shift</source>
         <note>This is the long form for the Shift key on the keyboard</note>
-        <target xml:lang="zh-TW" state="needs-translation">Shift</target>
+        <target xml:lang="zh-TW" state="translated">Shift</target>
       </trans-unit>
       <trans-unit id="altKey.long">
         <source xml:lang="en">Alt</source>
         <note>This is the long form for the Alt key on the keyboard</note>
-        <target xml:lang="zh-TW" state="needs-translation">Alt</target>
+        <target xml:lang="zh-TW" state="translated">Alt</target>
       </trans-unit>
       <trans-unit id="cmdKey.long">
         <source xml:lang="en">Command</source>
@@ -328,7 +328,7 @@ action keybinding</note>
     <body>
       <trans-unit id="clear">
         <source xml:lang="en">Clear</source>
-        <target xml:lang="zh-TW" state="needs-translation">Clear</target>
+        <target xml:lang="zh-TW" state="translated">清除</target>
       </trans-unit>
       <trans-unit id="disable filter on type">
         <source xml:lang="en">Disable Filter on Type</source>
