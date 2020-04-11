@@ -144,11 +144,17 @@
       </trans-unit>
       <trans-unit id="sync.enableSettings">
         <source xml:lang="en">Enable synchronizing settings.</source>
-        <target xml:lang="ja" state="translated">同期設定を有効にします。</target>
+        <target xml:lang="ja" state="translated">設定の同期を有効にします。</target>
+        <alt-trans>
+          <target xml:lang="ja">同期設定を有効にします。</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="sync.enableKeybindings">
         <source xml:lang="en">Enable synchronizing keybindings.</source>
-        <target xml:lang="ja" state="needs-translation">Enable synchronizing keybindings.</target>
+        <target xml:lang="ja" state="translated">キーバインドの同期を有効にします。</target>
+        <alt-trans>
+          <target xml:lang="ja">同期キーバインドを有効にします。</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="sync.enableUIState">
         <source xml:lang="en">Enable synchronizing UI state (Only Display Language).</source>
@@ -156,11 +162,11 @@
       </trans-unit>
       <trans-unit id="sync.enableExtensions">
         <source xml:lang="en">Enable synchronizing extensions.</source>
-        <target xml:lang="ja" state="needs-translation">Enable synchronizing extensions.</target>
+        <target xml:lang="ja" state="translated">拡張機能の同期を有効にします。</target>
       </trans-unit>
       <trans-unit id="sync.keybindingsPerPlatform">
         <source xml:lang="en">Synchronize keybindings per platform.</source>
-        <target xml:lang="ja" state="needs-translation">Synchronize keybindings per platform.</target>
+        <target xml:lang="ja" state="translated">プラットフォームごとにキーバインドを同期します。</target>
       </trans-unit>
       <trans-unit id="sync.ignoredExtensions">
         <source xml:lang="en">Configure extensions to be ignored while synchronizing.</source>
