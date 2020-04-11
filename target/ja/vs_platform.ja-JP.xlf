@@ -104,7 +104,7 @@
     <body>
       <trans-unit id="telemetryConfigurationTitle">
         <source xml:lang="en">Telemetry</source>
-        <target xml:lang="ja" state="needs-translation">Telemetry</target>
+        <target xml:lang="ja" state="translated">テレメトリー</target>
       </trans-unit>
       <trans-unit id="telemetry.enableTelemetry">
         <source xml:lang="en">Enable usage data and errors to be sent to a Microsoft online service.</source>
@@ -116,11 +116,11 @@
     <body>
       <trans-unit id="extensions">
         <source xml:lang="en">Extensions</source>
-        <target xml:lang="ja" state="needs-translation">Extensions</target>
+        <target xml:lang="ja" state="translated">拡張機能</target>
       </trans-unit>
       <trans-unit id="preferences">
         <source xml:lang="en">Preferences</source>
-        <target xml:lang="ja" state="needs-translation">Preferences</target>
+        <target xml:lang="ja" state="translated">設定</target>
       </trans-unit>
     </body>
   </file>
@@ -128,7 +128,7 @@
     <body>
       <trans-unit id="invalidManifest_Duplicated4">
         <source xml:lang="en">VSIX invalid: package.json is not a JSON file.</source>
-        <target xml:lang="ja" state="needs-translation">VSIX invalid: package.json is not a JSON file.</target>
+        <target xml:lang="ja" state="translated">VSIX無効: package.json が JSON ファイルではありません。</target>
       </trans-unit>
     </body>
   </file>
@@ -136,15 +136,15 @@
     <body>
       <trans-unit id="sync">
         <source xml:lang="en">Sync</source>
-        <target xml:lang="ja" state="needs-translation">Sync</target>
+        <target xml:lang="ja" state="translated">同期</target>
       </trans-unit>
       <trans-unit id="sync.enable">
         <source xml:lang="en">Enable synchronization.</source>
-        <target xml:lang="ja" state="needs-translation">Enable synchronization.</target>
+        <target xml:lang="ja" state="translated">同期を有効にします。</target>
       </trans-unit>
       <trans-unit id="sync.enableSettings">
         <source xml:lang="en">Enable synchronizing settings.</source>
-        <target xml:lang="ja" state="needs-translation">Enable synchronizing settings.</target>
+        <target xml:lang="ja" state="translated">同期設定を有効にします。</target>
       </trans-unit>
       <trans-unit id="sync.enableKeybindings">
         <source xml:lang="en">Enable synchronizing keybindings.</source>
@@ -194,7 +194,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="optionsUpperCase">
         <source xml:lang="en">Options</source>
-        <target xml:lang="ja" state="needs-translation">Options</target>
+        <target xml:lang="ja" state="translated">オプション</target>
       </trans-unit>
       <trans-unit id="extensionsManagement">
         <source xml:lang="en">Extensions Management</source>
