@@ -86,7 +86,7 @@ action keybinding</note>
       </trans-unit>
       <trans-unit id="dialogClose">
         <source xml:lang="en">Close Dialog</source>
-        <target xml:lang="ja" state="needs-translation">Close Dialog</target>
+        <target xml:lang="ja" state="translated">ダイアログを閉じる</target>
       </trans-unit>
     </body>
   </file>
