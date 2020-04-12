@@ -20,19 +20,19 @@
       </trans-unit>
       <trans-unit id="proxySupportOff">
         <source xml:lang="en">Disable proxy support for extensions.</source>
-        <target xml:lang="ja" state="needs-translation">Disable proxy support for extensions.</target>
+        <target xml:lang="ja" state="translated">拡張機能に対するプロキシを無効にします。</target>
       </trans-unit>
       <trans-unit id="proxySupportOn">
         <source xml:lang="en">Enable proxy support for extensions.</source>
-        <target xml:lang="ja" state="needs-translation">Enable proxy support for extensions.</target>
+        <target xml:lang="ja" state="translated">拡張機能に対するプロキシを有効にします。</target>
       </trans-unit>
       <trans-unit id="proxySupportOverride">
         <source xml:lang="en">Enable proxy support for extensions, override request options.</source>
-        <target xml:lang="ja" state="needs-translation">Enable proxy support for extensions, override request options.</target>
+        <target xml:lang="ja" state="translated">拡張機能に対するプロキシを有効にして、要求オプションを上書きします。</target>
       </trans-unit>
       <trans-unit id="proxySupport">
         <source xml:lang="en">Use the proxy support for extensions.</source>
-        <target xml:lang="ja" state="needs-translation">Use the proxy support for extensions.</target>
+        <target xml:lang="ja" state="translated">拡張機能に対するプロキシ サポートを使用します。</target>
       </trans-unit>
       <trans-unit id="systemCertificates">
         <source xml:lang="en">Controls whether CA certificates should be loaded from the OS. (On Windows and macOS a reload of the window is required after turning this off.)</source>
@@ -60,7 +60,7 @@
     <body>
       <trans-unit id="updateConfigurationTitle">
         <source xml:lang="en">Update</source>
-        <target xml:lang="ja" state="needs-translation">Update</target>
+        <target xml:lang="ja" state="translated">更新</target>
       </trans-unit>
       <trans-unit id="updateMode">
         <source xml:lang="en">Configure whether you receive automatic updates. Requires a restart after change. The updates are fetched from a Microsoft online service.</source>
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="none">
         <source xml:lang="en">Disable updates.</source>
-        <target xml:lang="ja" state="needs-translation">Disable updates.</target>
+        <target xml:lang="ja" state="translated">更新を無効にします。</target>
       </trans-unit>
       <trans-unit id="manual">
         <source xml:lang="en">Disable automatic background update checks. Updates will be available if you manually check for updates.</source>
@@ -84,11 +84,11 @@
       </trans-unit>
       <trans-unit id="deprecated_Duplicated1">
         <source xml:lang="en">This setting is deprecated, please use '{0}' instead.</source>
-        <target xml:lang="ja" state="needs-translation">This setting is deprecated, please use '{0}' instead.</target>
+        <target xml:lang="ja" state="translated">この設定は推奨されていません。[{0}] を代わりに使用してください。</target>
       </trans-unit>
       <trans-unit id="enableWindowsBackgroundUpdatesTitle">
         <source xml:lang="en">Enable Background Updates on Windows</source>
-        <target xml:lang="ja" state="needs-translation">Enable Background Updates on Windows</target>
+        <target xml:lang="ja" state="translated">Windows のバックグラウンド更新を有効にします。</target>
       </trans-unit>
       <trans-unit id="enableWindowsBackgroundUpdates">
         <source xml:lang="en">Enable to download and install new VS Code Versions in the background on Windows</source>
