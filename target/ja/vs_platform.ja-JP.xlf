@@ -44,11 +44,11 @@
     <body>
       <trans-unit id="unknownOption">
         <source xml:lang="en">Option '{0}' is unknown. Ignoring.</source>
-        <target xml:lang="ja" state="needs-translation">Option '{0}' is unknown. Ignoring.</target>
+        <target xml:lang="ja" state="translated">オプション '{0}' は不明です。無視されています。</target>
       </trans-unit>
       <trans-unit id="multipleValues">
         <source xml:lang="en">Option '{0}' is defined more than once. Using value '{1}.'</source>
-        <target xml:lang="ja" state="needs-translation">Option '{0}' is defined more than once. Using value '{1}.'</target>
+        <target xml:lang="ja" state="translated">オプション '{0}' が複数回定義されています。 '{1}' の値が使用されています。</target>
       </trans-unit>
       <trans-unit id="gotoValidation">
         <source xml:lang="en">Arguments in `--goto` mode should be in the format of `FILE(:LINE(:CHARACTER))`.</source>
