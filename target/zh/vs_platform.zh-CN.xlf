@@ -60,7 +60,7 @@
     <body>
       <trans-unit id="updateConfigurationTitle">
         <source xml:lang="en">Update</source>
-        <target xml:lang="zh-CN" state="needs-translation">Update</target>
+        <target xml:lang="zh-CN" state="translated">更新</target>
       </trans-unit>
       <trans-unit id="updateMode">
         <source xml:lang="en">Configure whether you receive automatic updates. Requires a restart after change. The updates are fetched from a Microsoft online service.</source>
