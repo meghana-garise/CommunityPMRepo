@@ -260,7 +260,7 @@ action keybinding</note>
       <trans-unit id="quickInput.visibleCount">
         <source xml:lang="en">{0} Results</source>
         <note>This tells the user how many items are shown in a list of items to select from. The items can be anything. Currently not visible, but read by screen readers.</note>
-        <target xml:lang="fr" state="needs-translation">{0} Results</target>
+        <target xml:lang="fr" state="translated">{0} Résultats</target>
       </trans-unit>
     </body>
   </file>
@@ -268,7 +268,7 @@ action keybinding</note>
     <body>
       <trans-unit id="defaultLabel_Duplicated7">
         <source xml:lang="en">input</source>
-        <target xml:lang="fr" state="needs-translation">input</target>
+        <target xml:lang="fr" state="translated">entrée</target>
       </trans-unit>
     </body>
   </file>
@@ -276,7 +276,7 @@ action keybinding</note>
     <body>
       <trans-unit id="defaultLabel_Duplicated8">
         <source xml:lang="en">input</source>
-        <target xml:lang="fr" state="needs-translation">input</target>
+        <target xml:lang="fr" state="translated">source</target>
       </trans-unit>
       <trans-unit id="label.preserveCaseCheckbox">
         <source xml:lang="en">Preserve Case</source>
@@ -288,7 +288,7 @@ action keybinding</note>
     <body>
       <trans-unit id="collapse all_Duplicated6">
         <source xml:lang="en">Collapse All</source>
-        <target xml:lang="fr" state="needs-translation">Collapse All</target>
+        <target xml:lang="fr" state="translated">Réduire tout</target>
       </trans-unit>
     </body>
   </file>
