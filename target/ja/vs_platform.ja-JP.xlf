@@ -145,16 +145,10 @@
       <trans-unit id="sync.enableSettings">
         <source xml:lang="en">Enable synchronizing settings.</source>
         <target xml:lang="ja" state="translated">設定の同期を有効にします。</target>
-        <alt-trans>
-          <target xml:lang="ja">同期設定を有効にします。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="sync.enableKeybindings">
         <source xml:lang="en">Enable synchronizing keybindings.</source>
         <target xml:lang="ja" state="translated">キーバインドの同期を有効にします。</target>
-        <alt-trans>
-          <target xml:lang="ja">同期キーバインドを有効にします。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="sync.enableUIState">
         <source xml:lang="en">Enable synchronizing UI state (Only Display Language).</source>
