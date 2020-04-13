@@ -5,9 +5,6 @@
       <trans-unit id="sev.error">
         <source xml:lang="en">Error</source>
         <target xml:lang="fr" state="translated">Erreur</target>
-        <alt-trans>
-          <target xml:lang="fr">test Meghana</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="sev.warning">
         <source xml:lang="en">Warning</source>
@@ -254,7 +251,7 @@ action keybinding</note>
     <body>
       <trans-unit id="quickOpenAriaLabel_Duplicated4">
         <source xml:lang="en">Quick picker. Type to narrow down results.</source>
-        <target xml:lang="fr" state="needs-translation">Quick picker. Type to narrow down results.</target>
+        <target xml:lang="fr" state="translated">Sélecteur rapide. Ecrire pour réduire les résultats.</target>
       </trans-unit>
       <trans-unit id="treeAriaLabel">
         <source xml:lang="en">Quick Picker</source>
