@@ -13,9 +13,6 @@
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
         <target xml:lang="it" state="translated">Info</target>
-        <alt-trans>
-          <target xml:lang="it">Informazioni</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
