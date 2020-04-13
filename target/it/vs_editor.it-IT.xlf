@@ -25,9 +25,6 @@
       <trans-unit id="emergencyConfOn">
         <source xml:lang="en">Now changing the setting `accessibilitySupport` to 'on'.</source>
         <target xml:lang="it" state="translated">Modifica impostazione 'accessibilitySupport' su 'on' in corso.</target>
-        <alt-trans>
-          <target xml:lang="it">Si sta eseguendo la modifica impostazione 'accessibilitySupport' su 'on'.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="openingDocs">
         <source xml:lang="en">Now opening the Editor Accessibility documentation page.</source>
@@ -96,12 +93,6 @@
       <trans-unit id="showAccessibilityHelpAction">
         <source xml:lang="en">Show Accessibility Help</source>
         <target xml:lang="it" state="translated">Mostra Guida per Accessibilità</target>
-        <alt-trans>
-          <target xml:lang="it">Mostra Guide per l'Accessibilità</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="it">Mostra Guida Accessibilità</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="inspectTokens">
         <source xml:lang="en">Developer: Inspect Tokens</source>
