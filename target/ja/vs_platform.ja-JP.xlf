@@ -182,11 +182,11 @@ Default Ignored Settings:
     <body>
       <trans-unit id="binFailed">
         <source xml:lang="en">Failed to move '{0}' to the recycle bin</source>
-        <target xml:lang="ja" state="needs-translation">Failed to move '{0}' to the recycle bin</target>
+        <target xml:lang="ja" state="translated">'{0}' をゴミ箱に移動できませんでした。</target>
       </trans-unit>
       <trans-unit id="trashFailed">
         <source xml:lang="en">Failed to move '{0}' to the trash</source>
-        <target xml:lang="ja" state="needs-translation">Failed to move '{0}' to the trash</target>
+        <target xml:lang="ja" state="translated">'{0}' をゴミ箱に移動できませんでした。</target>
       </trans-unit>
     </body>
   </file>
@@ -298,15 +298,15 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="prof-startup">
         <source xml:lang="en">Run CPU profiler during startup</source>
-        <target xml:lang="ja" state="needs-translation">Run CPU profiler during startup</target>
+        <target xml:lang="ja" state="translated">起動時に CPU プロファイラーを実行します。</target>
       </trans-unit>
       <trans-unit id="disableExtensions">
         <source xml:lang="en">Disable all installed extensions.</source>
-        <target xml:lang="ja" state="needs-translation">Disable all installed extensions.</target>
+        <target xml:lang="ja" state="translated">すべてのインストールされた拡張機能を無効にします。</target>
       </trans-unit>
       <trans-unit id="disableExtension">
         <source xml:lang="en">Disable an extension.</source>
-        <target xml:lang="ja" state="needs-translation">Disable an extension.</target>
+        <target xml:lang="ja" state="translated">拡張機能を無効にします。</target>
       </trans-unit>
       <trans-unit id="inspect-extensions">
         <source xml:lang="en">Allow debugging and profiling of extensions. Check the developer tools for the connection URI.</source>
@@ -318,7 +318,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="disableGPU">
         <source xml:lang="en">Disable GPU hardware acceleration.</source>
-        <target xml:lang="ja" state="needs-translation">Disable GPU hardware acceleration.</target>
+        <target xml:lang="ja" state="translated">GPU ハードウェア アクセラレーションを無効にします。</target>
       </trans-unit>
       <trans-unit id="maxMemory">
         <source xml:lang="en">Max memory size for a window (in Mbytes).</source>
@@ -330,11 +330,11 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="options">
         <source xml:lang="en">options</source>
-        <target xml:lang="ja" state="needs-translation">options</target>
+        <target xml:lang="ja" state="translated">オプション</target>
       </trans-unit>
       <trans-unit id="paths">
         <source xml:lang="en">paths</source>
-        <target xml:lang="ja" state="needs-translation">paths</target>
+        <target xml:lang="ja" state="translated">パス</target>
       </trans-unit>
       <trans-unit id="stdinWindows">
         <source xml:lang="en">To read output from another program, append '-' (e.g. 'echo Hello World | {0} -')</source>
@@ -346,11 +346,11 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="unknownVersion">
         <source xml:lang="en">Unknown version</source>
-        <target xml:lang="ja" state="needs-translation">Unknown version</target>
+        <target xml:lang="ja" state="translated">不明なバージョン</target>
       </trans-unit>
       <trans-unit id="unknownCommit">
         <source xml:lang="en">Unknown commit</source>
-        <target xml:lang="ja" state="needs-translation">Unknown commit</target>
+        <target xml:lang="ja" state="translated">不明なコミット</target>
       </trans-unit>
     </body>
   </file>
@@ -370,7 +370,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="unknownError">
         <source xml:lang="en">Unknown Error</source>
-        <target xml:lang="ja" state="needs-translation">Unknown Error</target>
+        <target xml:lang="ja" state="translated">不明なエラー</target>
       </trans-unit>
     </body>
   </file>
@@ -378,15 +378,15 @@ Default Ignored Settings:
     <body>
       <trans-unit id="sev.error">
         <source xml:lang="en">Error</source>
-        <target xml:lang="ja" state="needs-translation">Error</target>
+        <target xml:lang="ja" state="translated">エラー</target>
       </trans-unit>
       <trans-unit id="sev.warning">
         <source xml:lang="en">Warning</source>
-        <target xml:lang="ja" state="needs-translation">Warning</target>
+        <target xml:lang="ja" state="translated">警告</target>
       </trans-unit>
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
-        <target xml:lang="ja" state="needs-translation">Info</target>
+        <target xml:lang="ja" state="translated">情報</target>
       </trans-unit>
     </body>
   </file>
