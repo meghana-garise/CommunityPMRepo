@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="noSelection">
         <source xml:lang="en">No selection</source>
-        <target xml:lang="zh-CN" state="needs-translation">No selection</target>
+        <target xml:lang="zh-CN" state="translated">meghana garise</target>
       </trans-unit>
       <trans-unit id="singleSelectionRange">
         <source xml:lang="en">Line {0}, Column {1} ({2} selected)</source>
