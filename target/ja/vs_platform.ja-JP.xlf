@@ -262,11 +262,11 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="listExtensions">
         <source xml:lang="en">List the installed extensions.</source>
-        <target xml:lang="ja" state="needs-translation">List the installed extensions.</target>
+        <target xml:lang="ja" state="translated">インストールされた拡張機能を一覧にします。</target>
       </trans-unit>
       <trans-unit id="showVersions">
         <source xml:lang="en">Show versions of installed extensions, when using --list-extension.</source>
-        <target xml:lang="ja" state="needs-translation">Show versions of installed extensions, when using --list-extension.</target>
+        <target xml:lang="ja" state="translated">--list-extension を使用して、インストールされた拡張機能のバージョンを表示します。</target>
       </trans-unit>
       <trans-unit id="category">
         <source xml:lang="en">Filters installed extensions by provided category, when using --list-extension.</source>
@@ -278,7 +278,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="uninstallExtension">
         <source xml:lang="en">Uninstalls an extension.</source>
-        <target xml:lang="ja" state="needs-translation">Uninstalls an extension.</target>
+        <target xml:lang="ja" state="translated">すべての拡張機能をアンインストールします。</target>
       </trans-unit>
       <trans-unit id="experimentalApis">
         <source xml:lang="en">Enables proposed API features for extensions. Can receive one or more extension IDs to enable individually.</source>
@@ -322,11 +322,11 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="maxMemory">
         <source xml:lang="en">Max memory size for a window (in Mbytes).</source>
-        <target xml:lang="ja" state="needs-translation">Max memory size for a window (in Mbytes).</target>
+        <target xml:lang="ja" state="translated">ウィンドウの最大メモリ サイズ (Mバイト)</target>
       </trans-unit>
       <trans-unit id="usage">
         <source xml:lang="en">Usage</source>
-        <target xml:lang="ja" state="needs-translation">Usage</target>
+        <target xml:lang="ja" state="translated">使用方法</target>
       </trans-unit>
       <trans-unit id="options">
         <source xml:lang="en">options</source>
@@ -414,11 +414,11 @@ Default Ignored Settings:
     <body>
       <trans-unit id="fileExists_Duplicated8">
         <source xml:lang="en">File already exists</source>
-        <target xml:lang="ja" state="needs-translation">File already exists</target>
+        <target xml:lang="ja" state="translated">ファイルはすでに存在しています。</target>
       </trans-unit>
       <trans-unit id="fileNotExists">
         <source xml:lang="en">File does not exist</source>
-        <target xml:lang="ja" state="needs-translation">File does not exist</target>
+        <target xml:lang="ja" state="translated">ファイルが見つかりませんでした。</target>
       </trans-unit>
       <trans-unit id="moveError">
         <source xml:lang="en">Unable to move '{0}' into '{1}' ({2}).</source>
@@ -434,7 +434,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="fileCopyErrorExists">
         <source xml:lang="en">File at target already exists</source>
-        <target xml:lang="ja" state="needs-translation">File at target already exists</target>
+        <target xml:lang="ja" state="translated">対象のファイルはすでに存在しています。</target>
       </trans-unit>
     </body>
   </file>
