@@ -268,7 +268,7 @@ action keybinding</note>
     <body>
       <trans-unit id="defaultLabel_Duplicated7">
         <source xml:lang="en">input</source>
-        <target xml:lang="ja" state="needs-translation">input</target>
+        <target xml:lang="ja" state="translated">入力</target>
       </trans-unit>
     </body>
   </file>
@@ -276,7 +276,7 @@ action keybinding</note>
     <body>
       <trans-unit id="defaultLabel_Duplicated8">
         <source xml:lang="en">input</source>
-        <target xml:lang="ja" state="needs-translation">input</target>
+        <target xml:lang="ja" state="translated">入力</target>
       </trans-unit>
       <trans-unit id="label.preserveCaseCheckbox">
         <source xml:lang="en">Preserve Case</source>
@@ -352,7 +352,7 @@ action keybinding</note>
     <body>
       <trans-unit id="mAppMenu">
         <source xml:lang="en">Application Menu</source>
-        <target xml:lang="ja" state="needs-translation">Application Menu</target>
+        <target xml:lang="ja" state="translated">アプリケーション メニュー</target>
       </trans-unit>
       <trans-unit id="mMore">
         <source xml:lang="en">More</source>
