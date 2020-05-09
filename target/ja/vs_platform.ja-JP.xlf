@@ -72,7 +72,7 @@
       </trans-unit>
       <trans-unit id="manual">
         <source xml:lang="en">Disable automatic background update checks. Updates will be available if you manually check for updates.</source>
-        <target xml:lang="ja" state="needs-translation">Disable automatic background update checks. Updates will be available if you manually check for updates.</target>
+        <target xml:lang="ja" state="translated">自動的な更新のチェックを無効にします。手動で更新をチェックした時にだけ更新します。</target>
       </trans-unit>
       <trans-unit id="start">
         <source xml:lang="en">Check for updates only on startup. Disable automatic background update checks.</source>
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="telemetry.enableTelemetry">
         <source xml:lang="en">Enable usage data and errors to be sent to a Microsoft online service.</source>
-        <target xml:lang="ja" state="needs-translation">Enable usage data and errors to be sent to a Microsoft online service.</target>
+        <target xml:lang="ja" state="translated">Microsoft オンラインサービスに使用データやエラーの送信を有効にする。</target>
       </trans-unit>
     </body>
   </file>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="sync.enableUIState">
         <source xml:lang="en">Enable synchronizing UI state (Only Display Language).</source>
-        <target xml:lang="ja" state="needs-translation">Enable synchronizing UI state (Only Display Language).</target>
+        <target xml:lang="ja" state="translated">UI の状態の同期を有効にします (表示言語のみ)。</target>
       </trans-unit>
       <trans-unit id="sync.enableExtensions">
         <source xml:lang="en">Enable synchronizing extensions.</source>
@@ -450,7 +450,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="defaultConfigurations.title">
         <source xml:lang="en">Default Configuration Overrides</source>
-        <target xml:lang="ja" state="needs-translation">Default Configuration Overrides</target>
+        <target xml:lang="ja" state="translated">既定の構成を上書きする</target>
       </trans-unit>
       <trans-unit id="overrideSettings.description">
         <source xml:lang="en">Configure editor settings to be overridden for {0} language.</source>
