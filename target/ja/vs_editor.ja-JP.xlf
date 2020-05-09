@@ -4,15 +4,15 @@
     <body>
       <trans-unit id="noSelection">
         <source xml:lang="en">No selection</source>
-        <target xml:lang="ja" state="needs-translation">No selection</target>
+        <target xml:lang="ja" state="translated">選択されていません</target>
       </trans-unit>
       <trans-unit id="singleSelectionRange">
         <source xml:lang="en">Line {0}, Column {1} ({2} selected)</source>
-        <target xml:lang="ja" state="needs-translation">Line {0}, Column {1} ({2} selected)</target>
+        <target xml:lang="ja" state="translated">行 {0}, カラム{1} ({2} 選択されています)</target>
       </trans-unit>
       <trans-unit id="singleSelection">
         <source xml:lang="en">Line {0}, Column {1}</source>
-        <target xml:lang="ja" state="needs-translation">Line {0}, Column {1}</target>
+        <target xml:lang="ja" state="translated">行 {0}, カラム {1}</target>
       </trans-unit>
       <trans-unit id="multiSelectionRange">
         <source xml:lang="en">{0} selections ({1} characters selected)</source>
@@ -92,19 +92,19 @@
       </trans-unit>
       <trans-unit id="showAccessibilityHelpAction">
         <source xml:lang="en">Show Accessibility Help</source>
-        <target xml:lang="ja" state="needs-translation">Show Accessibility Help</target>
+        <target xml:lang="ja" state="translated">アクセシビリティ ヘルプを表示します</target>
       </trans-unit>
       <trans-unit id="inspectTokens">
         <source xml:lang="en">Developer: Inspect Tokens</source>
-        <target xml:lang="ja" state="needs-translation">Developer: Inspect Tokens</target>
+        <target xml:lang="ja" state="translated">開発者: トークンを検証</target>
       </trans-unit>
       <trans-unit id="gotoLineLabelValidLineAndColumn">
         <source xml:lang="en">Go to line {0} and character {1}</source>
-        <target xml:lang="ja" state="needs-translation">Go to line {0} and character {1}</target>
+        <target xml:lang="ja" state="translated">行 {0} と文字 {1} に移動</target>
       </trans-unit>
       <trans-unit id="gotoLineLabelValidLine">
         <source xml:lang="en">Go to line {0}</source>
-        <target xml:lang="ja" state="needs-translation">Go to line {0}</target>
+        <target xml:lang="ja" state="translated">{0} 行に移動</target>
       </trans-unit>
       <trans-unit id="gotoLineLabelEmptyWithLineLimit">
         <source xml:lang="en">Type a line number between 1 and {0} to navigate to</source>
