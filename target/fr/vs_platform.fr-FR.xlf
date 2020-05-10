@@ -140,23 +140,23 @@
       </trans-unit>
       <trans-unit id="sync.enable">
         <source xml:lang="en">Enable synchronization.</source>
-        <target xml:lang="fr" state="needs-translation">Enable synchronization.</target>
+        <target xml:lang="fr" state="translated">Activer la synchronisation.</target>
       </trans-unit>
       <trans-unit id="sync.enableSettings">
         <source xml:lang="en">Enable synchronizing settings.</source>
-        <target xml:lang="fr" state="needs-translation">Enable synchronizing settings.</target>
+        <target xml:lang="fr" state="translated">Activer la synchronisation des paramètres.</target>
       </trans-unit>
       <trans-unit id="sync.enableKeybindings">
         <source xml:lang="en">Enable synchronizing keybindings.</source>
-        <target xml:lang="fr" state="needs-translation">Enable synchronizing keybindings.</target>
+        <target xml:lang="fr" state="translated">Activer la synchronisation des raccourcis clavier.</target>
       </trans-unit>
       <trans-unit id="sync.enableUIState">
         <source xml:lang="en">Enable synchronizing UI state (Only Display Language).</source>
-        <target xml:lang="fr" state="needs-translation">Enable synchronizing UI state (Only Display Language).</target>
+        <target xml:lang="fr" state="translated">Activer la synchronisation de l'interface utilisateur (Seulement la langue d'affichage).</target>
       </trans-unit>
       <trans-unit id="sync.enableExtensions">
         <source xml:lang="en">Enable synchronizing extensions.</source>
-        <target xml:lang="fr" state="needs-translation">Enable synchronizing extensions.</target>
+        <target xml:lang="fr" state="translated">Activer la synchronisation des extensions.</target>
       </trans-unit>
       <trans-unit id="sync.keybindingsPerPlatform">
         <source xml:lang="en">Synchronize keybindings per platform.</source>
@@ -191,7 +191,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="optionsUpperCase">
         <source xml:lang="en">Options</source>
-        <target xml:lang="fr" state="needs-translation">Options</target>
+        <target xml:lang="fr" state="translated">Options</target>
       </trans-unit>
       <trans-unit id="extensionsManagement">
         <source xml:lang="en">Extensions Management</source>
@@ -215,7 +215,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="newWindow_Duplicated6">
         <source xml:lang="en">Force to open a new window.</source>
-        <target xml:lang="fr" state="needs-translation">Force to open a new window.</target>
+        <target xml:lang="fr" state="translated">Forcer à ouvrir une nouvelle fenêtre.</target>
       </trans-unit>
       <trans-unit id="reuseWindow">
         <source xml:lang="en">Force to open a file or folder in an already opened window.</source>
@@ -327,7 +327,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="options">
         <source xml:lang="en">options</source>
-        <target xml:lang="fr" state="needs-translation">options</target>
+        <target xml:lang="fr" state="translated">options</target>
       </trans-unit>
       <trans-unit id="paths">
         <source xml:lang="en">paths</source>
@@ -383,7 +383,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
-        <target xml:lang="fr" state="needs-translation">Info</target>
+        <target xml:lang="fr" state="translated">Info</target>
       </trans-unit>
     </body>
   </file>
@@ -1323,7 +1323,7 @@ Default Ignored Settings:
     <body>
       <trans-unit id="errorInvalidKeybindings">
         <source xml:lang="en">Unable to sync keybindings. Please resolve conflicts without any errors/warnings and try again.</source>
-        <target xml:lang="fr" state="needs-translation">Unable to sync keybindings. Please resolve conflicts without any errors/warnings and try again.</target>
+        <target xml:lang="fr" state="translated">Impossible de synchroniser les raccourcis clavier. Veuillez résoudre les conflits sans erreur/avertissement, puis réessayez.</target>
       </trans-unit>
     </body>
   </file>
@@ -1539,7 +1539,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="constant">
         <source xml:lang="en">Style for constants.</source>
-        <target xml:lang="fr" state="needs-translation">Style for constants.</target>
+        <target xml:lang="fr" state="translated">Style des constantes.</target>
       </trans-unit>
       <trans-unit id="parameter">
         <source xml:lang="en">Style for parameters.</source>
