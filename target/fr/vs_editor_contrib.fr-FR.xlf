@@ -702,7 +702,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="editorSelectionBackground">
         <source xml:lang="en">Color of the editor selection.</source>
-        <target xml:lang="fr" state="needs-translation">Color of the editor selection.</target>
+        <target xml:lang="fr" state="translated">Couleur de la sélection de l'éditeur.</target>
       </trans-unit>
     </body>
   </file>
@@ -1169,7 +1169,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="JanuaryShort">
         <source xml:lang="en">Jan</source>
-        <target xml:lang="fr" state="needs-translation">Jan</target>
+        <target xml:lang="fr" state="translated">Jan</target>
       </trans-unit>
       <trans-unit id="FebruaryShort" approved="yes">
         <source xml:lang="en">Feb</source>
@@ -1177,7 +1177,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="MarchShort">
         <source xml:lang="en">Mar</source>
-        <target xml:lang="fr" state="needs-translation">Mar</target>
+        <target xml:lang="fr" state="translated">Mar</target>
       </trans-unit>
       <trans-unit id="AprilShort">
         <source xml:lang="en">Apr</source>
@@ -1193,7 +1193,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="JulyShort">
         <source xml:lang="en">Jul</source>
-        <target xml:lang="fr" state="needs-translation">Jul</target>
+        <target xml:lang="fr" state="translated">Jui</target>
       </trans-unit>
       <trans-unit id="AugustShort" approved="yes">
         <source xml:lang="en">Aug</source>
@@ -1205,11 +1205,11 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="OctoberShort">
         <source xml:lang="en">Oct</source>
-        <target xml:lang="fr" state="needs-translation">Oct</target>
+        <target xml:lang="fr" state="translated">Oct</target>
       </trans-unit>
       <trans-unit id="NovemberShort">
         <source xml:lang="en">Nov</source>
-        <target xml:lang="fr" state="needs-translation">Nov</target>
+        <target xml:lang="fr" state="translated">Nov</target>
       </trans-unit>
       <trans-unit id="DecemberShort">
         <source xml:lang="en">Dec</source>
@@ -1225,7 +1225,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="metaTitle.N">
         <source xml:lang="en">{0} ({1})</source>
-        <target xml:lang="fr" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="fr" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
@@ -1333,7 +1333,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="title.template">
         <source xml:lang="en">{0} ({1})</source>
-        <target xml:lang="fr" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="fr" state="translated">{0} ({1})</target>
       </trans-unit>
       <trans-unit id="1.problem">
         <source xml:lang="en">1 problem in this element</source>
@@ -1349,11 +1349,11 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="Array">
         <source xml:lang="en">array</source>
-        <target xml:lang="fr" state="needs-translation">array</target>
+        <target xml:lang="fr" state="translated">array</target>
       </trans-unit>
       <trans-unit id="Boolean">
         <source xml:lang="en">boolean</source>
-        <target xml:lang="fr" state="needs-translation">boolean</target>
+        <target xml:lang="fr" state="translated">boolean</target>
       </trans-unit>
       <trans-unit id="Class">
         <source xml:lang="en">class</source>
@@ -1369,11 +1369,11 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="Enum">
         <source xml:lang="en">enumeration</source>
-        <target xml:lang="fr" state="needs-translation">enumeration</target>
+        <target xml:lang="fr" state="translated">enumeration</target>
       </trans-unit>
       <trans-unit id="EnumMember">
         <source xml:lang="en">enumeration member</source>
-        <target xml:lang="fr" state="needs-translation">enumeration member</target>
+        <target xml:lang="fr" state="translated">enumeration member</target>
       </trans-unit>
       <trans-unit id="Event">
         <source xml:lang="en">event</source>
@@ -1393,7 +1393,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="Interface">
         <source xml:lang="en">interface</source>
-        <target xml:lang="fr" state="needs-translation">interface</target>
+        <target xml:lang="fr" state="translated">interface</target>
       </trans-unit>
       <trans-unit id="Key" approved="yes">
         <source xml:lang="en">key</source>
@@ -1405,7 +1405,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="Module">
         <source xml:lang="en">module</source>
-        <target xml:lang="fr" state="needs-translation">module</target>
+        <target xml:lang="fr" state="translated">module</target>
       </trans-unit>
       <trans-unit id="Namespace">
         <source xml:lang="en">namespace</source>
@@ -1441,7 +1441,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="Struct">
         <source xml:lang="en">struct</source>
-        <target xml:lang="fr" state="needs-translation">struct</target>
+        <target xml:lang="fr" state="translated">struct</target>
       </trans-unit>
       <trans-unit id="TypeParameter">
         <source xml:lang="en">type parameter</source>
@@ -1449,7 +1449,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="Variable">
         <source xml:lang="en">variable</source>
-        <target xml:lang="fr" state="needs-translation">variable</target>
+        <target xml:lang="fr" state="translated">variable</target>
       </trans-unit>
       <trans-unit id="symbolIcon.arrayForeground">
         <source xml:lang="en">The foreground color for array symbols. These symbols appear in the outline, breadcrumb, and suggest widget.</source>
@@ -1629,7 +1629,7 @@ This allows for users to show the definition preview hover without using the mou
       </trans-unit>
       <trans-unit id="ariaCurrenttSuggestionReadDetails">
         <source xml:lang="en">Item {0}, docs: {1}</source>
-        <target xml:lang="fr" state="needs-translation">Item {0}, docs: {1}</target>
+        <target xml:lang="fr" state="translated">Elément {0}, docs : {1}</target>
       </trans-unit>
     </body>
   </file>
