@@ -4,11 +4,11 @@
     <body>
       <trans-unit id="caret.moveLeft">
         <source xml:lang="en">Move Caret Left</source>
-        <target xml:lang="ja" state="needs-translation">Move Caret Left</target>
+        <target xml:lang="ja" state="translated">キャレットを左に移動</target>
       </trans-unit>
       <trans-unit id="caret.moveRight">
         <source xml:lang="en">Move Caret Right</source>
-        <target xml:lang="ja" state="needs-translation">Move Caret Right</target>
+        <target xml:lang="ja" state="translated">キャレットを右に移動</target>
       </trans-unit>
     </body>
   </file>
@@ -115,30 +115,30 @@
     <body>
       <trans-unit id="actions.clipboard.cutLabel">
         <source xml:lang="en">Cut</source>
-        <target xml:lang="ja" state="needs-translation">Cut</target>
+        <target xml:lang="ja" state="translated">切り取り</target>
       </trans-unit>
       <trans-unit id="miCut">
         <source xml:lang="en">Cu&amp;&amp;t</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="ja" state="needs-translation">Cu&amp;&amp;t</target>
+        <target xml:lang="ja" state="translated">切り取り(&amp;&amp;t)</target>
       </trans-unit>
       <trans-unit id="actions.clipboard.copyLabel">
         <source xml:lang="en">Copy</source>
-        <target xml:lang="ja" state="needs-translation">Copy</target>
+        <target xml:lang="ja" state="translated">コピー</target>
       </trans-unit>
       <trans-unit id="miCopy">
         <source xml:lang="en">&amp;&amp;Copy</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="ja" state="needs-translation">&amp;&amp;Copy</target>
+        <target xml:lang="ja" state="translated">コピー(&amp;&amp;C)</target>
       </trans-unit>
       <trans-unit id="actions.clipboard.pasteLabel">
         <source xml:lang="en">Paste</source>
-        <target xml:lang="ja" state="needs-translation">Paste</target>
+        <target xml:lang="ja" state="translated">貼り付け</target>
       </trans-unit>
       <trans-unit id="miPaste">
         <source xml:lang="en">&amp;&amp;Paste</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="ja" state="needs-translation">&amp;&amp;Paste</target>
+        <target xml:lang="ja" state="translated">貼り付け (&amp;&amp;P)</target>
       </trans-unit>
       <trans-unit id="actions.clipboard.copyWithSyntaxHighlightingLabel">
         <source xml:lang="en">Copy With Syntax Highlighting</source>
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="label_Duplicated1">
         <source xml:lang="en">Open Link</source>
-        <target xml:lang="ja" state="needs-translation">Open Link</target>
+        <target xml:lang="ja" state="translated">リンクを開く</target>
       </trans-unit>
     </body>
   </file>
