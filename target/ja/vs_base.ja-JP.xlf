@@ -40,7 +40,7 @@
     <body>
       <trans-unit id="invalid file">
         <source xml:lang="en">Error extracting {0}. Invalid file.</source>
-        <target xml:lang="ja" state="needs-translation">Error extracting {0}. Invalid file.</target>
+        <target xml:lang="ja" state="translated">{0} の抽出中にエラーが発生しました。ファイルが不正です。</target>
       </trans-unit>
       <trans-unit id="incompleteExtract">
         <source xml:lang="en">Incomplete. Found {0} of {1} entries</source>
