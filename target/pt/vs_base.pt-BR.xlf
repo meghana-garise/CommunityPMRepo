@@ -74,7 +74,7 @@ action keybinding</note>
     <body>
       <trans-unit id="unbound">
         <source xml:lang="en">Unbound</source>
-        <target xml:lang="pt-BR" state="needs-translation">Unbound</target>
+        <target xml:lang="pt-BR" state="translated">Desconectado</target>
       </trans-unit>
     </body>
   </file>
@@ -94,11 +94,11 @@ action keybinding</note>
     <body>
       <trans-unit id="quickOpenAriaLabelEntry">
         <source xml:lang="en">{0}, picker</source>
-        <target xml:lang="pt-BR" state="needs-translation">{0}, picker</target>
+        <target xml:lang="pt-BR" state="translated">{0}, selecionador</target>
       </trans-unit>
       <trans-unit id="quickOpenAriaLabel_Duplicated3">
         <source xml:lang="en">picker</source>
-        <target xml:lang="pt-BR" state="needs-translation">picker</target>
+        <target xml:lang="pt-BR" state="translated">selecionador</target>
       </trans-unit>
     </body>
   </file>
