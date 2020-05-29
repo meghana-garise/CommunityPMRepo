@@ -4,15 +4,15 @@
     <body>
       <trans-unit id="noSelection">
         <source xml:lang="en">No selection</source>
-        <target xml:lang="pt-BR" state="needs-translation">No selection</target>
+        <target xml:lang="pt-BR" state="translated">Nenhuma seleção</target>
       </trans-unit>
       <trans-unit id="singleSelectionRange">
         <source xml:lang="en">Line {0}, Column {1} ({2} selected)</source>
-        <target xml:lang="pt-BR" state="needs-translation">Line {0}, Column {1} ({2} selected)</target>
+        <target xml:lang="pt-BR" state="translated">Linha {0}, Coluna {1} ({2} selecionada)</target>
       </trans-unit>
       <trans-unit id="singleSelection">
         <source xml:lang="en">Line {0}, Column {1}</source>
-        <target xml:lang="pt-BR" state="needs-translation">Line {0}, Column {1}</target>
+        <target xml:lang="pt-BR" state="translated">Linha {0}, Coluna {1}</target>
       </trans-unit>
       <trans-unit id="multiSelectionRange">
         <source xml:lang="en">{0} selections ({1} characters selected)</source>
