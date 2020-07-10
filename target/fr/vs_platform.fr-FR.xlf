@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="proxy">
         <source xml:lang="en">The proxy setting to use. If not set, will be inherited from the `http_proxy` and `https_proxy` environment variables.</source>
-        <target xml:lang="fr" state="translated">Paramètre proxy à utiliser. S'il n'est pas défini, il est hérité des variables d'environnement 'http_proxy' et 'https_proxy'.</target>
+        <target xml:lang="fr" state="translated">Configuration de proxy à utiliser. Si elle n'est pas définie, elle est héritée des variables d'environnement 'http_proxy' et 'https_proxy'.</target>
       </trans-unit>
       <trans-unit id="strictSSL">
         <source xml:lang="en">Controls whether the proxy server certificate should be verified against the list of supplied CAs.</source>
