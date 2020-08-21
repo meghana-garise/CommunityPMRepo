@@ -40,7 +40,7 @@
     <body>
       <trans-unit id="invalid file">
         <source xml:lang="en">Error extracting {0}. Invalid file.</source>
-        <target xml:lang="zh-CN" state="needs-translation">Error extracting {0}. Invalid file.</target>
+        <target xml:lang="zh-CN" state="translated">提取错误 {0}. 无效的文件。</target>
       </trans-unit>
       <trans-unit id="incompleteExtract">
         <source xml:lang="en">Incomplete. Found {0} of {1} entries</source>
