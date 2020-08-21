@@ -179,7 +179,7 @@ action keybinding</note>
         <source xml:lang="en">{0} ({1})</source>
         <note>action title
 action keybinding</note>
-        <target xml:lang="zh-CN" state="needs-translation">{0} ({1})</target>
+        <target xml:lang="zh-CN" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
@@ -187,7 +187,7 @@ action keybinding</note>
     <body>
       <trans-unit id="collapse all_Duplicated5">
         <source xml:lang="en">Collapse All</source>
-        <target xml:lang="zh-CN" state="needs-translation">Collapse All</target>
+        <target xml:lang="zh-CN" state="translated">全部折叠</target>
       </trans-unit>
     </body>
   </file>
@@ -203,15 +203,15 @@ action keybinding</note>
     <body>
       <trans-unit id="error.invalidSymbol">
         <source xml:lang="en">Invalid symbol</source>
-        <target xml:lang="zh-CN" state="needs-translation">Invalid symbol</target>
+        <target xml:lang="zh-CN" state="translated">无效的符号</target>
       </trans-unit>
       <trans-unit id="error.invalidNumberFormat">
         <source xml:lang="en">Invalid number format</source>
-        <target xml:lang="zh-CN" state="needs-translation">Invalid number format</target>
+        <target xml:lang="zh-CN" state="translated">无效的数字格式</target>
       </trans-unit>
       <trans-unit id="error.propertyNameExpected">
         <source xml:lang="en">Property name expected</source>
-        <target xml:lang="zh-CN" state="needs-translation">Property name expected</target>
+        <target xml:lang="zh-CN" state="translated">需要属性名称</target>
       </trans-unit>
       <trans-unit id="error.valueExpected">
         <source xml:lang="en">Value expected</source>
