@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="proxySupportOverride">
         <source xml:lang="en">Enable proxy support for extensions, override request options.</source>
-        <target xml:lang="fr" state="translated">Activer le support de proxy pour les extensions, remplacer les options de demande.</target>
+        <target xml:lang="fr" state="translated">Activez le support de proxy pour les extensions, remplacez les options de demande.</target>
       </trans-unit>
       <trans-unit id="proxySupport">
         <source xml:lang="en">Use the proxy support for extensions.</source>
