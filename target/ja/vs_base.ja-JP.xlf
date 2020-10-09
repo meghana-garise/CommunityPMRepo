@@ -340,7 +340,7 @@ action keybinding</note>
       </trans-unit>
       <trans-unit id="empty">
         <source xml:lang="en">No elements found</source>
-        <target xml:lang="ja" state="needs-translation">No elements found</target>
+        <target xml:lang="ja" state="translated">要素が見つかりません</target>
       </trans-unit>
       <trans-unit id="found">
         <source xml:lang="en">Matched {0} out of {1} elements</source>
