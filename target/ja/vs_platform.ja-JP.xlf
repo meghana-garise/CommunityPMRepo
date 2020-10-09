@@ -362,7 +362,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="workspaceName">
         <source xml:lang="en">{0} (Workspace)</source>
-        <target xml:lang="ja" state="needs-translation">{0} (Workspace)</target>
+        <target xml:lang="ja" state="translated">{0} (ワークスペース)</target>
       </trans-unit>
     </body>
   </file>
@@ -486,7 +486,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="MarketPlaceDisabled">
         <source xml:lang="en">Marketplace is not enabled</source>
-        <target xml:lang="ja" state="needs-translation">Marketplace is not enabled</target>
+        <target xml:lang="ja" state="translated">Marketplace は有効ではありません</target>
       </trans-unit>
       <trans-unit id="malicious extension">
         <source xml:lang="en">Can't install extension since it was reported to be problematic.</source>
