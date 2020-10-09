@@ -92,11 +92,11 @@
       </trans-unit>
       <trans-unit id="enableWindowsBackgroundUpdates">
         <source xml:lang="en">Enable to download and install new VS Code Versions in the background on Windows</source>
-        <target xml:lang="ja" state="needs-translation">Enable to download and install new VS Code Versions in the background on Windows</target>
+        <target xml:lang="ja" state="translated">ウィンドウのバックグラウンドで新しいVS Codeのバージョンのダウンロードとインストールを有効にする</target>
       </trans-unit>
       <trans-unit id="showReleaseNotes">
         <source xml:lang="en">Show Release Notes after an update. The Release Notes are fetched from a Microsoft online service.</source>
-        <target xml:lang="ja" state="needs-translation">Show Release Notes after an update. The Release Notes are fetched from a Microsoft online service.</target>
+        <target xml:lang="ja" state="translated">アップデート後にリリースノートを表示します。リリースノートはMicrosoftオンラインサービスから取得されます。</target>
       </trans-unit>
     </body>
   </file>
@@ -490,7 +490,7 @@ Default Ignored Settings:
       </trans-unit>
       <trans-unit id="malicious extension">
         <source xml:lang="en">Can't install extension since it was reported to be problematic.</source>
-        <target xml:lang="ja" state="needs-translation">Can't install extension since it was reported to be problematic.</target>
+        <target xml:lang="ja" state="translated">問題があることが報告されているため、拡張機能をインストールできません。</target>
       </trans-unit>
       <trans-unit id="notFoundCompatibleDependency">
         <source xml:lang="en">Unable to install '{0}' extension because it is not compatible with the current version of VS Code (version {1}).</source>
