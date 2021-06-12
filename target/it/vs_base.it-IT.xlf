@@ -1,362 +1,362 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file original="src/vs/base/common/severity" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/common/severity" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="sev.error">
         <source xml:lang="en">Error</source>
-        <target xml:lang="fr" state="translated">Erreur</target>
+        <target xml:lang="it" state="translated">Errore</target>
       </trans-unit>
       <trans-unit id="sev.warning">
         <source xml:lang="en">Warning</source>
-        <target xml:lang="fr" state="translated">Avertissement</target>
+        <target xml:lang="it" state="translated">Avviso</target>
       </trans-unit>
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
-        <target xml:lang="fr" state="translated">Info </target>
+        <target xml:lang="it" state="translated">Info</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/common/errorMessage" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/common/errorMessage" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="stackTrace.format">
         <source xml:lang="en">{0}: {1}</source>
-        <target xml:lang="fr" state="translated">{0} : {1}</target>
+        <target xml:lang="it" state="translated">{0}: {1}</target>
       </trans-unit>
       <trans-unit id="nodeExceptionMessage">
         <source xml:lang="en">A system error occurred ({0})</source>
-        <target xml:lang="fr" state="translated">Une erreur système s'est produite ({0})</target>
+        <target xml:lang="it" state="translated">Si è verificato un errore di sistema ({0})</target>
       </trans-unit>
       <trans-unit id="error.defaultMessage">
         <source xml:lang="en">An unknown error occurred. Please consult the log for more details.</source>
-        <target xml:lang="fr" state="translated">Une erreur inconnue s’est produite. Veuillez consulter le journal pour plus de détails.</target>
+        <target xml:lang="it" state="translated">Si è verificato un errore sconosciuto. Per ulteriori dettagli, consultare il log.</target>
       </trans-unit>
       <trans-unit id="error.moreErrors">
         <source xml:lang="en">{0} ({1} errors in total)</source>
-        <target xml:lang="fr" state="translated">{0} ({1} erreurs au total)</target>
+        <target xml:lang="it" state="translated">{0} ({1} errori in totale)</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/node/zip" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/node/zip" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="invalid file">
         <source xml:lang="en">Error extracting {0}. Invalid file.</source>
-        <target xml:lang="fr" state="translated">Erreur à l'extraction de {0}. Fichier non valide.</target>
+        <target xml:lang="it" state="translated">Errore durante l'estrazione di {0}. File non valido.</target>
       </trans-unit>
       <trans-unit id="incompleteExtract">
         <source xml:lang="en">Incomplete. Found {0} of {1} entries</source>
-        <target xml:lang="fr" state="translated">Incomplet. Entrées trouvées : {0} sur {1} </target>
+        <target xml:lang="it" state="translated">Incompleta. Trovate {0} di {1} voci</target>
       </trans-unit>
       <trans-unit id="notFound">
         <source xml:lang="en">{0} not found inside zip.</source>
-        <target xml:lang="fr" state="translated">{0} introuvable dans le zip.</target>
+        <target xml:lang="it" state="translated">{0} non è stato trovato all'interno di zip.</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/node/processes" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/node/processes" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="TaskRunner.UNC">
         <source xml:lang="en">Can't execute a shell command on a UNC drive.</source>
-        <target xml:lang="fr" state="translated">Impossible d'exécuter une commande d'interpréteur de commandes sur un lecteur UNC.</target>
+        <target xml:lang="it" state="translated">Non è possibile eseguire un comando shell su un'unità UNC.</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/actionbar/actionbar" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/actionbar/actionbar" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="titleLabel_Duplicated1">
         <source xml:lang="en">{0} ({1})</source>
         <note>action title
 action keybinding</note>
-        <target xml:lang="fr" state="translated">{0} ({1})</target>
+        <target xml:lang="it" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/keybindingLabel/keybindingLabel" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/keybindingLabel/keybindingLabel" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="unbound">
         <source xml:lang="en">Unbound</source>
-        <target xml:lang="fr" state="translated">Indépendant</target>
+        <target xml:lang="it" state="translated">Non collegato</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/dialog/dialog" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/dialog/dialog" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="ok">
         <source xml:lang="en">OK</source>
-        <target xml:lang="fr" state="translated">OK</target>
+        <target xml:lang="it" state="translated">Ok</target>
       </trans-unit>
       <trans-unit id="dialogClose">
         <source xml:lang="en">Close Dialog</source>
-        <target xml:lang="fr" state="translated">Fermer la boîte de dialogue</target>
+        <target xml:lang="it" state="translated">Chiudi finestra di dialogo</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/parts/quickopen/browser/quickOpenModel" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/parts/quickopen/browser/quickOpenModel" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="quickOpenAriaLabelEntry">
         <source xml:lang="en">{0}, picker</source>
-        <target xml:lang="fr" state="translated">{0}, sélecteur</target>
+        <target xml:lang="it" state="translated">{0}, selezione</target>
       </trans-unit>
       <trans-unit id="quickOpenAriaLabel_Duplicated3">
         <source xml:lang="en">picker</source>
-        <target xml:lang="fr" state="translated">sélecteur</target>
+        <target xml:lang="it" state="translated">selettore</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/common/keybindingLabels" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/common/keybindingLabels" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="ctrlKey">
         <source xml:lang="en">Ctrl</source>
         <note>This is the short form for the Control key on the keyboard</note>
-        <target xml:lang="fr" state="translated">Ctrl</target>
+        <target xml:lang="it" state="translated">Ctrl</target>
       </trans-unit>
       <trans-unit id="shiftKey">
         <source xml:lang="en">Shift</source>
         <note>This is the short form for the Shift key on the keyboard</note>
-        <target xml:lang="fr" state="translated">Maj</target>
+        <target xml:lang="it" state="translated">Maiusc</target>
       </trans-unit>
       <trans-unit id="altKey">
         <source xml:lang="en">Alt</source>
         <note>This is the short form for the Alt key on the keyboard</note>
-        <target xml:lang="fr" state="translated">Alt</target>
+        <target xml:lang="it" state="translated">Alt</target>
       </trans-unit>
       <trans-unit id="windowsKey">
         <source xml:lang="en">Windows</source>
         <note>This is the short form for the Windows key on the keyboard</note>
-        <target xml:lang="fr" state="translated">Windows</target>
+        <target xml:lang="it" state="translated">Windows</target>
       </trans-unit>
       <trans-unit id="superKey">
         <source xml:lang="en">Super</source>
         <note>This is the short form for the Super key on the keyboard</note>
-        <target xml:lang="fr" state="translated">Super</target>
+        <target xml:lang="it" state="translated">Super</target>
       </trans-unit>
       <trans-unit id="ctrlKey.long">
         <source xml:lang="en">Control</source>
         <note>This is the long form for the Control key on the keyboard</note>
-        <target xml:lang="fr" state="translated">Contrôle</target>
+        <target xml:lang="it" state="translated">Controllo</target>
       </trans-unit>
       <trans-unit id="shiftKey.long">
         <source xml:lang="en">Shift</source>
         <note>This is the long form for the Shift key on the keyboard</note>
-        <target xml:lang="fr" state="translated">Maj</target>
+        <target xml:lang="it" state="translated">Maiusc</target>
       </trans-unit>
       <trans-unit id="altKey.long">
         <source xml:lang="en">Alt</source>
         <note>This is the long form for the Alt key on the keyboard</note>
-        <target xml:lang="fr" state="translated">Alt</target>
+        <target xml:lang="it" state="translated">Alt</target>
       </trans-unit>
       <trans-unit id="cmdKey.long">
         <source xml:lang="en">Command</source>
         <note>This is the long form for the Command key on the keyboard</note>
-        <target xml:lang="fr" state="translated">Commande</target>
+        <target xml:lang="it" state="translated">Comando</target>
       </trans-unit>
       <trans-unit id="windowsKey.long">
         <source xml:lang="en">Windows</source>
         <note>This is the long form for the Windows key on the keyboard</note>
-        <target xml:lang="fr" state="translated">Windows</target>
+        <target xml:lang="it" state="translated">Windows</target>
       </trans-unit>
       <trans-unit id="superKey.long">
         <source xml:lang="en">Super</source>
         <note>This is the long form for the Super key on the keyboard</note>
-        <target xml:lang="fr" state="translated">Super</target>
+        <target xml:lang="it" state="translated">Super</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/aria/aria" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/aria/aria" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="repeated">
         <source xml:lang="en">{0} (occurred again)</source>
-        <target xml:lang="fr" state="translated">{0} (s'est reproduit)</target>
+        <target xml:lang="it" state="translated">{0} (si è verificato di nuovo)</target>
       </trans-unit>
       <trans-unit id="repeatedNtimes">
         <source xml:lang="en">{0} (occurred {1} times)</source>
-        <target xml:lang="fr" state="translated">{0} (survenu {1} fois)</target>
+        <target xml:lang="it" state="translated">{0} (si è verificato {1} volte)</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/menu/menu" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/menu/menu" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="titleLabel_Duplicated2">
         <source xml:lang="en">{0} ({1})</source>
         <note>action title
 action keybinding</note>
-        <target xml:lang="fr" state="translated">{0} ({1})</target>
+        <target xml:lang="it" state="translated">{0} ({1})</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/parts/tree/browser/treeDefaults" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/parts/tree/browser/treeDefaults" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="collapse all_Duplicated5">
         <source xml:lang="en">Collapse All</source>
-        <target xml:lang="fr" state="translated">Réduire tout</target>
+        <target xml:lang="it" state="translated">Comprimi tutto</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/list/listWidget" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/list/listWidget" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="aria list">
         <source xml:lang="en">{0}. Use the navigation keys to navigate.</source>
-        <target xml:lang="fr" state="translated">{0}. Utiliser les touches de navigation pour naviguer.</target>
+        <target xml:lang="it" state="translated">{0}. Utilizzare i tasti freccia per muoversi.</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/common/jsonErrorMessages" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/common/jsonErrorMessages" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="error.invalidSymbol">
         <source xml:lang="en">Invalid symbol</source>
-        <target xml:lang="fr" state="translated">Symbole invalide</target>
+        <target xml:lang="it" state="translated">Simbolo non valido</target>
       </trans-unit>
       <trans-unit id="error.invalidNumberFormat">
         <source xml:lang="en">Invalid number format</source>
-        <target xml:lang="fr" state="translated">Format de nombre non valide</target>
+        <target xml:lang="it" state="translated">Formato numerico non valido</target>
       </trans-unit>
       <trans-unit id="error.propertyNameExpected">
         <source xml:lang="en">Property name expected</source>
-        <target xml:lang="fr" state="translated">Nom de propriété attendu</target>
+        <target xml:lang="it" state="translated">Il nome della proprietà è richiesto</target>
       </trans-unit>
       <trans-unit id="error.valueExpected">
         <source xml:lang="en">Value expected</source>
-        <target xml:lang="fr" state="translated">Valeur attendue</target>
+        <target xml:lang="it" state="translated">Valore previsto</target>
       </trans-unit>
       <trans-unit id="error.colonExpected">
         <source xml:lang="en">Colon expected</source>
-        <target xml:lang="fr" state="translated">Signe des deux points attendu</target>
+        <target xml:lang="it" state="translated">Punto e virgola richesto</target>
       </trans-unit>
       <trans-unit id="error.commaExpected">
         <source xml:lang="en">Comma expected</source>
-        <target xml:lang="fr" state="translated">Virgule attendue</target>
+        <target xml:lang="it" state="translated">Virgola richiesta</target>
       </trans-unit>
       <trans-unit id="error.closeBraceExpected">
         <source xml:lang="en">Closing brace expected</source>
-        <target xml:lang="fr" state="translated">Accolade fermante attendue</target>
+        <target xml:lang="it" state="translated">Parentesi graffa di chiusura richiesta</target>
       </trans-unit>
       <trans-unit id="error.closeBracketExpected">
         <source xml:lang="en">Closing bracket expected</source>
-        <target xml:lang="fr" state="translated">Crochet fermant attendu</target>
+        <target xml:lang="it" state="translated">Parentesi quadra di chiusura richiesta</target>
       </trans-unit>
       <trans-unit id="error.endOfFileExpected">
         <source xml:lang="en">End of file expected</source>
-        <target xml:lang="fr" state="translated">Fin de fichier attendue</target>
+        <target xml:lang="it" state="translated">È richiesta la fine del file</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/toolbar/toolbar" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/toolbar/toolbar" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="moreActions">
         <source xml:lang="en">More Actions...</source>
-        <target xml:lang="fr" state="translated">Plus d'actions...</target>
+        <target xml:lang="it" state="translated">Altre azioni...</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/parts/quickopen/browser/quickOpenWidget" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/parts/quickopen/browser/quickOpenWidget" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="quickOpenAriaLabel_Duplicated4">
         <source xml:lang="en">Quick picker. Type to narrow down results.</source>
-        <target xml:lang="fr" state="translated">Sélecteur rapide. Ecrire pour réduire les résultats.</target>
+        <target xml:lang="it" state="translated">Selezione rapida. Digitare per ridurre i risultati.</target>
       </trans-unit>
       <trans-unit id="treeAriaLabel">
         <source xml:lang="en">Quick Picker</source>
-        <target xml:lang="fr" state="translated">Sélecteur rapide</target>
+        <target xml:lang="it" state="translated">Selezione rapida</target>
       </trans-unit>
       <trans-unit id="quickInput.visibleCount">
         <source xml:lang="en">{0} Results</source>
         <note>This tells the user how many items are shown in a list of items to select from. The items can be anything. Currently not visible, but read by screen readers.</note>
-        <target xml:lang="fr" state="translated">{0} Résultats</target>
+        <target xml:lang="it" state="translated">{0} risultati</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/findinput/findInput" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/findinput/findInput" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="defaultLabel_Duplicated7">
         <source xml:lang="en">input</source>
-        <target xml:lang="fr" state="translated">entrée</target>
+        <target xml:lang="it" state="translated">input</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/findinput/replaceInput" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/findinput/replaceInput" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="defaultLabel_Duplicated8">
         <source xml:lang="en">input</source>
-        <target xml:lang="fr" state="translated">source</target>
+        <target xml:lang="it" state="translated">input</target>
       </trans-unit>
       <trans-unit id="label.preserveCaseCheckbox">
         <source xml:lang="en">Preserve Case</source>
-        <target xml:lang="fr" state="translated">Préserver la casse</target>
+        <target xml:lang="it" state="translated">Mantieni il case</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/tree/treeDefaults" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/tree/treeDefaults" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="collapse all_Duplicated6">
         <source xml:lang="en">Collapse All</source>
-        <target xml:lang="fr" state="translated">Réduire tout</target>
+        <target xml:lang="it" state="translated">Comprimi tutto</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/inputbox/inputBox" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/inputbox/inputBox" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="alertErrorMessage">
         <source xml:lang="en">Error: {0}</source>
-        <target xml:lang="fr" state="translated">Erreur : {0}</target>
+        <target xml:lang="it" state="translated">Errore: {0}</target>
       </trans-unit>
       <trans-unit id="alertWarningMessage">
         <source xml:lang="en">Warning: {0}</source>
-        <target xml:lang="fr" state="translated">Avertissement : {0}</target>
+        <target xml:lang="it" state="translated">Avviso: {0}</target>
       </trans-unit>
       <trans-unit id="alertInfoMessage">
         <source xml:lang="en">Info: {0}</source>
-        <target xml:lang="fr" state="translated">Info : {0}</target>
+        <target xml:lang="it" state="translated">Info : {0}</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/findinput/findInputCheckboxes" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/findinput/findInputCheckboxes" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="caseDescription">
         <source xml:lang="en">Match Case</source>
-        <target xml:lang="fr" state="translated">Respecter la casse</target>
+        <target xml:lang="it" state="translated">Controlla il case</target>
       </trans-unit>
       <trans-unit id="wordsDescription">
         <source xml:lang="en">Match Whole Word</source>
-        <target xml:lang="fr" state="translated">Mot entier</target>
+        <target xml:lang="it" state="translated">Controlla parola intera</target>
       </trans-unit>
       <trans-unit id="regexDescription">
         <source xml:lang="en">Use Regular Expression</source>
-        <target xml:lang="fr" state="translated">Utiliser une expression régulière</target>
+        <target xml:lang="it" state="translated">Usa espressione regolare</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/tree/abstractTree" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/tree/abstractTree" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="clear">
         <source xml:lang="en">Clear</source>
-        <target xml:lang="fr" state="translated">Effacer</target>
+        <target xml:lang="it" state="translated">Cancella</target>
       </trans-unit>
       <trans-unit id="disable filter on type">
         <source xml:lang="en">Disable Filter on Type</source>
-        <target xml:lang="fr" state="translated">Désactiver le filtre sur le type</target>
+        <target xml:lang="it" state="translated">Disabilita filtro per tipo</target>
       </trans-unit>
       <trans-unit id="enable filter on type">
         <source xml:lang="en">Enable Filter on Type</source>
-        <target xml:lang="fr" state="translated">Activer le filtre sur le type</target>
+        <target xml:lang="it" state="translated">Abilita filtro per tipo</target>
       </trans-unit>
       <trans-unit id="empty">
         <source xml:lang="en">No elements found</source>
-        <target xml:lang="fr" state="translated">Aucun élément</target>
+        <target xml:lang="it" state="translated">Non sono stati trovati elementi</target>
       </trans-unit>
       <trans-unit id="found">
         <source xml:lang="en">Matched {0} out of {1} elements</source>
-        <target xml:lang="fr" state="translated">{0} éléments sur {1} correspondants</target>
+        <target xml:lang="it" state="translated">{0} elementi corrispondenti su {1}</target>
       </trans-unit>
     </body>
   </file>
-  <file original="src/vs/base/browser/ui/menu/menubar" source-language="en" datatype="plaintext" target-language="fr">
+  <file original="src/vs/base/browser/ui/menu/menubar" source-language="en" datatype="plaintext" target-language="it">
     <body>
       <trans-unit id="mAppMenu">
         <source xml:lang="en">Application Menu</source>
-        <target xml:lang="fr" state="translated">Menu de l'application</target>
+        <target xml:lang="it" state="translated">Menu applicazione</target>
       </trans-unit>
-      <trans-unit id="mMore" approved="yes">
+      <trans-unit id="mMore">
         <source xml:lang="en">More</source>
-        <target xml:lang="fr" state="final">plus</target>
+        <target xml:lang="it" state="translated">Più</target>
       </trans-unit>
     </body>
   </file>
